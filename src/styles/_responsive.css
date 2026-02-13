@@ -1,0 +1,119 @@
+/* ===== Base values 360 ===== */
+:root {
+  --container: 100%;
+  --margin: 16px;
+  --gutter: 16px;
+  --cols: 4;
+
+  --header-logo-width: 150px;
+  --header-logo-height: 31px;
+  --header-height: 60px;
+}
+
+/* ===== Breakpoints: container/margin/gutter/cols + preset spans ===== */
+
+/* 480 */
+@media (min-width: 480px) {
+  :root {
+    --container: 480px;
+  }
+}
+
+/* 768 (cols=6) */
+@media (min-width: 768px) {
+  :root {
+    --container: 768px;
+    --margin: 28px;
+    --gutter: 28px;
+    --cols: 6;
+  }
+}
+
+/* 1024 */
+@media (min-width: 1024px) {
+  :root {
+    --container: 1024px;
+    --margin: 48px;
+    --gutter: 32px;
+    --cols: 12;
+
+    --header-logo-width: 160px;
+    --header-logo-height: 33px;
+    --header-height: 65px;
+    --header-grid-cols: 160px 1fr 160px;
+  }
+}
+
+/* 1280 */
+@media (min-width: 1280px) {
+  :root {
+    --container: 1280px;
+    --margin: 72px;
+    --gutter: 32px;
+    --cols: 12;
+
+    --header-logo-width: 170px;
+    --header-logo-height: 35px;
+    --header-height: 70px;
+    --header-grid-cols: 170px 1fr 170px;
+  }
+}
+
+/* 1440 */
+@media (min-width: 1440px) {
+  :root {
+    --container: 1440px;
+    --margin: 80px;
+    --gutter: 40px;
+    --cols: 12;
+
+    --header-logo-width: 180px;
+    --header-logo-height: 38px;
+    --header-height: 80px;
+    --header-grid-cols: 180px 1fr 180px;
+  }
+}
+
+/* 1680 */
+@media (min-width: 1680px) {
+  :root {
+    --container: 1680px;
+    --margin: 96px;
+    --gutter: 48px;
+    --cols: 12;
+
+    --header-logo-width: 190px;
+    --header-logo-height: 40px;
+    --header-height: 90px;
+  }
+}
+
+/* 1920 (cols=12, 값 유지 + margin/gutter만 변경) */
+@media (min-width: 1920px) {
+  :root {
+    --container: 1920px;
+    --margin: 100px;
+    --gutter: 50px;
+    --cols: 12;
+
+    --header-logo-width: 210px;
+    --header-logo-height: 43px;
+    --header-height: 100px;
+    --header-grid-cols: 210px 1fr 210px;
+  }
+}
+
+/* header */
+.header {
+  gap: 10px;
+  height: var(--header-height);
+  grid-template-columns: var(--header-grid-cols);
+}
+.header .header-logo-size {
+  width: var(--header-logo-width);
+  height: var(--header-logo-height);
+}
+
+.hero-section {
+  padding-top: var(--header-height);
+}
