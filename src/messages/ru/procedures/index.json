@@ -1,0 +1,69 @@
+{
+  "title": "Procedures",
+  "description": "REC’s Academy provides structured support across six key stages, guiding students from<br></br>the start of their study-abroad journey through admission and settlement in Korea.",
+  "hero": {
+    "title": "Studying in Korea: How It Works",
+    "description": "Studying in Korea follows six structured steps, guiding students<br></br>from initial consultation through university admission, visa preparation, and settlement support."
+  },
+  "grid": [
+    {
+      "iconName": "briefcase",
+      "title": "Pre-Consultation",
+      "description": "We collect essential information such as:",
+      "list": [
+        "Academic background",
+        "Intended major or field of study",
+        "Budget and timeline"
+      ],
+      "footerText": "This stage helps define a realistic and strategic study-abroad direction."
+    },
+    {
+      "iconName": "listCheck",
+      "title": "University & Program Selection",
+      "description": "REC’s Academy compares and recommends suitable<br></br>Korean universities and majors based on each student’s<br></br>academic profile, goals, and eligibility.",
+      "list": null,
+      "footerText": null
+    },
+    {
+      "iconName": "document",
+      "title": "Document Preparation",
+      "description": "We support the preparation and review of required application documents, including:",
+      "list": [
+        "Personal statements",
+        "Study plans",
+        "Academic records and supporting materials"
+      ],
+      "footerText": null
+    },
+    {
+      "iconName": "edit",
+      "title": "University Application",
+      "description": "Applications and documents are submitted within official deadlines, and we assist students throughout the university selection process.",
+      "list": null,
+      "footerText": null
+    },
+    {
+      "iconName": "id",
+      "title": "Admission Result &<br></br>Visa Guidance",
+      "description": "Once admission is granted:",
+      "list": [
+        "Students receive their official admission letter",
+        "REC’s Academy provides guidance on required visa documents and application procedures (Visa issuance is governed by Korean immigration authorities.)"
+      ],
+      "footerText": null
+    },
+    {
+      "iconName": "home",
+      "title": "Departure &<br></br>Settlement Support",
+      "description": "We provide practical guidance for:",
+      "list": [
+        "Flight preparation",
+        "Accommodation arrangements",
+        "Initial settlement and orientation after arrival in Korea"
+      ],
+      "footerText": null
+    }
+  ],
+
+  "footerText": "This structured process ensures a<highlight>smooth and confident transition</highlight>into university life in Korea."
+}
