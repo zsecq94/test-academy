@@ -1,6 +1,7 @@
 {
   "hero": {
     "buttonText": "APPLY FOR A FREE CONSULTATION",
+    "mobileButtonText": "FREE CONSULTATION",
     "items": [
       {
         "type": "video",
@@ -75,7 +76,7 @@
 
   "ourPartnerColleges": {
     "pageName": "Our Partner Colleges",
-    "title": "Wich College is right for me?",
+    "title": "Which College is right for me?",
     "description": "Carefully selected colleges that match your goals, budget, and future plans.",
     "universities": [
       {
@@ -132,12 +133,12 @@
       {
         "icon": "file",
         "title": "View Our Study Abroad Programs",
-        "link": "/study-abroad-programs"
+        "link": "/program"
       },
       {
         "icon": "stack",
         "title": "Guide to<br></br>Studying Abroad",
-        "link": "/guide-to-studying-abroad"
+        "link": "/guide"
       }
     ]
   }

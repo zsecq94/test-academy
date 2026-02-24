@@ -55,9 +55,9 @@ export function HeaderMenuOverlay({ routes, closing, onClose }: Props) {
       </div>
 
       <div className="flex-1 overflow-y-auto overscroll-contain">
-        <div className="v1024:py-25 flex min-h-full items-center py-20">
+        <div className="v1024:py-25 v768:items-center flex min-h-full py-20">
           <Container>
-            <Grid className="min-h-full">
+            <Grid className="h-full">
               <div className="v768:col-span-3 v1024:col-span-6 col-span-4 flex h-full flex-col items-start justify-center gap-5">
                 {routes.map((route) => (
                   <Link href={route.path} key={route.path} onClick={onClose}>

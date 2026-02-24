@@ -8,8 +8,8 @@
 
   "routes": [
     {
-      "name": "Introducation",
-      "path": "/introducation"
+      "name": "Introduction",
+      "path": "/introduction"
     },
     {
       "name": "Program",
