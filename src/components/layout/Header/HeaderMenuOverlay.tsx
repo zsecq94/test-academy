@@ -22,7 +22,7 @@ export function HeaderMenuOverlay({ routes, closing, onClose }: Props) {
   return (
     <nav
       className={clsx(
-        'fixed top-0 right-0 left-0 z-50 flex h-screen w-full flex-col bg-white/90 backdrop-blur-lg',
+        'fixed inset-0 z-50 flex w-full flex-col overflow-hidden bg-white/90 backdrop-blur-lg',
         closing ? 'overlay-fade-out' : 'overlay-fade-in'
       )}
     >
@@ -54,43 +54,46 @@ export function HeaderMenuOverlay({ routes, closing, onClose }: Props) {
         </Container>
       </div>
 
-      <Container className="h-full">
-        <Grid className="h-full">
-          <div className="v768:col-span-3 v1024:col-span-6 col-span-4 flex h-full flex-col items-start justify-center gap-5">
-            {routes.map((route) => (
-              <Link href={route.path} key={route.path} onClick={onClose}>
-                <span
-                  className={clsx([
-                    'text-2xl leading-[100%] font-semibold',
-                    'v768:text-3xl v768:leading-[110%]',
-                    'v1024:text-4xl v1024:leading-[120%]',
-                    'v1280:text-5xl v1280:leading-[130%]',
-                    'v1680:text-6xl v1680:leading-[140%]',
-                    'v1920:text-7xl v1920:leading-[150%]',
-                  ])}
-                >
-                  {route.name}
-                </span>
-              </Link>
-            ))}
-          </div>
+      <div className="flex-1 overflow-y-auto overscroll-contain">
+        <div className="v1024:py-25 flex min-h-full items-center py-20">
+          <Container>
+            <Grid className="min-h-full">
+              <div className="v768:col-span-3 v1024:col-span-6 col-span-4 flex h-full flex-col items-start justify-center gap-5">
+                {routes.map((route) => (
+                  <Link href={route.path} key={route.path} onClick={onClose}>
+                    <span
+                      className={clsx([
+                        'text-2xl leading-[100%] font-semibold',
+                        'v768:text-3xl v768:leading-[110%]',
+                        'v1024:text-4xl v1024:leading-[120%]',
+                        'v1280:text-5xl v1280:leading-[130%]',
+                        'v1680:text-6xl v1680:leading-[140%]',
+                      ])}
+                    >
+                      {route.name}
+                    </span>
+                  </Link>
+                ))}
+              </div>
 
-          <div className="v768:col-span-3 v768:gap-13 v1024:col-span-6 col-span-4 flex h-full flex-col items-end justify-center gap-9 text-end">
-            <p className="v768:flex v1680:text-2xl hidden text-lg">
-              {richKey(t, 'menuOverlayText.address')}
-            </p>
-            <p className="v1280:text-2xl text-xl font-light">
-              {t('menuOverlayText.email')}
-            </p>
-            <p className="v1280:text-2xl text-xs font-light">
-              {richKey(t, 'menuOverlayText.phone')}
-            </p>
-            <p className="v1280:text-4xl v1280:leading-10 text-xl font-bold">
-              {t('menuOverlayText.title')}
-            </p>
-          </div>
-        </Grid>
-      </Container>
+              <div className="v768:col-span-3 v768:gap-13 v1024:col-span-6 col-span-4 flex h-full flex-col items-end justify-center gap-9 text-end">
+                <p className="v768:flex v1680:text-2xl hidden text-lg">
+                  {richKey(t, 'menuOverlayText.address')}
+                </p>
+                <p className="v1280:text-2xl text-xl font-light">
+                  {t('menuOverlayText.email')}
+                </p>
+                <p className="v1280:text-2xl text-xs font-light">
+                  {richKey(t, 'menuOverlayText.phone')}
+                </p>
+                <p className="v1280:text-4xl v1280:leading-10 text-xl font-bold">
+                  {t('menuOverlayText.title')}
+                </p>
+              </div>
+            </Grid>
+          </Container>
+        </div>
+      </div>
     </nav>
   )
 }

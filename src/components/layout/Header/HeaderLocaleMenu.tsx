@@ -1,7 +1,7 @@
 'use client'
 
 import clsx from 'clsx'
-import React from 'react'
+import * as React from 'react'
 import { locales, Locales } from '@/i18n/routing'
 import { useLocale, useTranslations } from 'next-intl'
 import { useRouter, usePathname } from '@/i18n/navigation'
@@ -84,7 +84,7 @@ export function HeaderLocaleMenu({ visible, isTransparent }: Props) {
         ])}
         onClick={toggle}
       >
-        <SvgIcon name="global" className="v1024:h-10 v1024:w-10 h-12 w-7" />
+        <SvgIcon name="global" className="v1024:h-12! v1024:w-12! h-9! w-9!" />
         <p className="v1024:text-sm text-xs font-medium">
           {currentLocaleLabel}
         </p>
