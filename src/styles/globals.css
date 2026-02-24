@@ -4,9 +4,9 @@
 @import './_animated.css';
 @import './_common.css';
 
-html {
-  scroll-behavior: smooth;
-}
+/* html {
+  scroll-behavior: auto;
+} */
 
 body {
   background: #ffffff;

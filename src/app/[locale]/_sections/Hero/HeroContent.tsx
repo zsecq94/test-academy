@@ -9,16 +9,16 @@ export function HeroContent({ idx, t }: { idx: number; t: TFunction }) {
   return (
     <Container
       className={clsx([
-        'relative flex h-full -translate-y-22 flex-col items-center justify-center gap-15',
-        'v1280:gap-18 v1280:translate-y-0',
-        'v1680:gap-21',
+        'relative flex h-full min-h-[400px] flex-col items-center justify-center gap-15',
+        'v1280:gap-20',
+        'v1680:gap-26',
       ])}
     >
       <div
         className={clsx([
           'flex flex-col gap-9 text-center',
-          'v1280:gap-13',
-          'v1680:gap-15',
+          'v1280:gap-11',
+          'v1680:gap-13',
         ])}
       >
         <p
@@ -46,7 +46,7 @@ export function HeroContent({ idx, t }: { idx: number; t: TFunction }) {
       <Button
         color="accent"
         className={clsx([
-          'gap-2 px-8 py-2',
+          'px-8 py-2',
           'v1024:px-13 v1024:py-5 v1024:gap-4 v1024:text-sm',
           'v1280:px-15 v1280:py-9 v1280:gap-5',
           'v1680:px-19 v1680:py-14 v1680:gap-7',
@@ -54,13 +54,20 @@ export function HeroContent({ idx, t }: { idx: number; t: TFunction }) {
       >
         <p
           className={clsx([
-            'text-sm font-bold text-white',
-            'v1024:text-lg',
+            'hidden text-lg font-bold text-white',
+            'v1024:block',
             'v1280:text-xl',
             'v1680:text-2xl',
           ])}
         >
           {t('buttonText')}
+        </p>
+        <p
+          className={clsx([
+            'v1024:hidden block text-base font-semibold text-white',
+          ])}
+        >
+          {t('mobileButtonText')}
         </p>
         <SvgIcon
           name="right"

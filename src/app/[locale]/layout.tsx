@@ -6,8 +6,9 @@ import { NextIntlClientProvider } from 'next-intl'
 
 import { generalSans, pretendard } from './fonts'
 import { LANG_MAP, locales, type Locales } from '@/i18n/routing'
-import { Footer, GridOverlay, Header } from '@/components'
+import { Footer, Header } from '@/components'
 import { notFound } from 'next/navigation'
+// import {  GridOverlay } from '@/components'
 
 export const metadata: Metadata = {
   title: 'REC’s Academy',
@@ -27,7 +28,7 @@ export default async function LocaleLayout({ children, params }: Props) {
   const { locale: raw } = await params
   if (!isLocale(raw)) notFound()
 
-  const locale = raw 
+  const locale = raw
   const messages = await getMessages()
 
   return (

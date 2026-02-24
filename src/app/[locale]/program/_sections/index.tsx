@@ -70,22 +70,40 @@ export function Section({ idx, section }: Props) {
           ))}
         </ul>
 
-        <Button
-          color={section.bgColor}
-          className={clsx([
-            'gap-2 px-8 py-2',
-            'v1024:px-13 v1024:py-5 v1024:gap-4 v1024:text-sm',
-            'v1440:px-15 v1440:py-9 v1440:gap-5',
-          ])}
-        >
-          <span className="v1024:text-base text-xs font-semibold">
-            {section.banner.buttonText}
-          </span>
-          <SvgIcon
-            name="right"
-            className={clsx(['h-7 w-7', 'v1024:h-15 v1024:w-15'])}
-          />
-        </Button>
+        <div className="v1024:hidden block">
+          <Button
+            intent="solid"
+            shape="rect"
+            className="gap-2 px-8 py-2"
+            color={section.bgColor}
+          >
+            <span className="v1024:text-base text-xs font-semibold">
+              {section.banner.buttonText}
+            </span>
+            <SvgIcon
+              name="right"
+              className={clsx(['h-7 w-7', 'v1024:h-15 v1024:w-15'])}
+            />
+          </Button>
+        </div>
+
+        <div className="v1024:block hidden">
+          <Button
+            color={section.bgColor}
+            className={clsx([
+              'v1024:px-13 v1024:py-5 v1024:gap-4 v1024:text-sm',
+              'v1440:px-15 v1440:py-9 v1440:gap-5',
+            ])}
+          >
+            <span className="v1024:text-base text-xs font-semibold">
+              {section.banner.buttonText}
+            </span>
+            <SvgIcon
+              name="right"
+              className={clsx(['h-7 w-7', 'v1024:h-15 v1024:w-15'])}
+            />
+          </Button>
+        </div>
       </ZoomContent>
 
       <Grid className="v1024:px-15 v1280:px-18 v1680:px-25 v1024:-translate-y-28 v1024:-mb-28">

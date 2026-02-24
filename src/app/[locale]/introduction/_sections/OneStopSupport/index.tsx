@@ -12,7 +12,7 @@ export type Item = {
 }
 
 export function OneStopSupport() {
-  const t = useTranslations('introducation.section2')
+  const t = useTranslations('introduction.section2')
   const items = t.raw('items') as Item[]
 
   return (

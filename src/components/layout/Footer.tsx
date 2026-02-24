@@ -22,10 +22,10 @@ export function Footer() {
 
   return (
     <footer className="border-tertiary-fill border-t">
-      <Container className="v768:py-21 py-14">
-        <Grid>
-          <div className="v768:items-start v768:gap-15 v768:col-span-3 v1024:col-span-6 col-span-6 flex flex-col gap-13">
-            <div className="v768:hidden flex justify-end">
+      <Container className="v1024:py-21 py-14">
+        <div className="v1024:flex-row flex flex-col justify-between">
+          <div className="v1024:items-start v1024:gap-15 flex flex-col gap-13">
+            <div className="v1024:hidden flex justify-end">
               <Button
                 shape="rect"
                 intent="outline"
@@ -40,7 +40,7 @@ export function Footer() {
               </Button>
             </div>
 
-            <div className="v768:gap-9 flex flex-col gap-5">
+            <div className="v1024:gap-9 flex flex-col gap-5">
               <p>{richKey(t, 'footerSection1.title')}</p>
               <Image
                 src={'/images/brand/logo_gray.png'}
@@ -52,7 +52,7 @@ export function Footer() {
               />
             </div>
 
-            <div className="v768:flex hidden">
+            <div className="v1024:flex hidden">
               <Button
                 shape="rect"
                 intent="outline"
@@ -67,7 +67,7 @@ export function Footer() {
               </Button>
             </div>
           </div>
-          <div className="v768:flex-row v768:justify-between v768:gap-0 v768:col-span-3 v1024:col-span-6 col-span-6 flex flex-col gap-13">
+          <div className="v1024:flex-row v1024:justify-between v1680:gap-30 v1440:gap-25 v1024:gap-15 flex flex-col gap-13">
             <div className="flex flex-col gap-9">
               <p className="text-xs font-semibold">
                 {t('footerSection2.siteMapText')}
@@ -82,8 +82,8 @@ export function Footer() {
             </div>
 
             <div className="flex flex-col gap-9">
-              <div className="v768:gap-2 flex flex-col gap-9">
-                <div className="v768:flex-row v768:gap-9 flex flex-col gap-5">
+              <div className="v1024:gap-2 flex flex-col gap-9">
+                <div className="v1024:flex-row v1024:gap-9 flex flex-col gap-5">
                   {links.map((link) => (
                     <Link
                       key={link.path}
@@ -113,7 +113,7 @@ export function Footer() {
               </p>
             </div>
           </div>
-        </Grid>
+        </div>
       </Container>
     </footer>
   )

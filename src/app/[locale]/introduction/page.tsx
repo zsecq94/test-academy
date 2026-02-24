@@ -3,8 +3,8 @@ import { Hero, OneStopSupport } from './_sections'
 import { useTranslations } from 'next-intl'
 import { richKey } from '@/i18n/rich'
 
-export default function IntroducationPage() {
-  const t = useTranslations('introducation')
+export default function IntroductionPage() {
+  const t = useTranslations('introduction')
 
   return (
     <main>

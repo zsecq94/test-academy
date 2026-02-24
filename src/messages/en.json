@@ -132,8 +132,8 @@
     },
     "routes": [
       {
-        "name": "Introducation",
-        "path": "/introducation"
+        "name": "Introduction",
+        "path": "/introduction"
       },
       {
         "name": "Program",
@@ -728,6 +728,7 @@
   "home": {
     "hero": {
       "buttonText": "APPLY FOR A FREE CONSULTATION",
+      "mobileButtonText": "FREE CONSULTATION",
       "items": [
         {
           "type": "video",
@@ -799,7 +800,7 @@
     },
     "ourPartnerColleges": {
       "pageName": "Our Partner Colleges",
-      "title": "Wich College is right for me?",
+      "title": "Which College is right for me?",
       "description": "Carefully selected colleges that match your goals, budget, and future plans.",
       "universities": [
         {
@@ -867,18 +868,18 @@
         {
           "icon": "file",
           "title": "View Our Study Abroad Programs",
-          "link": "/study-abroad-programs"
+          "link": "/program"
         },
         {
           "icon": "stack",
           "title": "Guide to<br></br>Studying Abroad",
-          "link": "/guide-to-studying-abroad"
+          "link": "/guide"
         }
       ]
     }
   },
-  "introducation": {
-    "title": "Introducation",
+  "introduction": {
+    "title": "Introduction",
     "description": "To ensure that your journey in a foreign land is not lonely, Earth Study Abroad will accompany you on your study abroad journey",
     "section1": {
       "title": "Your Structured<br></br>Pathway to Korea",
@@ -1107,7 +1108,7 @@
           "list": [
             "We offer short-term training programs that allow you to experience the Korean language,<br></br>culture, and university life for a short period of 3 to 8 weeks."
           ],
-          "buttonText": "Apply for short-term study abroad counseling"
+          "buttonText": "Short-term Study Abroad Counseling"
         },
         "items": [
           {

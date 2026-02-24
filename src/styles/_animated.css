@@ -54,13 +54,13 @@
 
 /* 클릭/터치 리플 애니메이션 */
 .anim-ripple {
-  animation: ripple 3s ease-out infinite;
+  animation: ripple 4s ease-out infinite;
 }
 .anim-ripple-delay-600 {
-  animation: ripple 3s ease-out infinite 0.8s;
+  animation: ripple 4s ease-out infinite 1.2s;
 }
 .anim-ripple-delay-1200 {
-  animation: ripple 3s ease-out infinite 1.6s;
+  animation: ripple 4s ease-out infinite 2.4s;
 }
 
 /* --------------------------------------------------------------------------
@@ -188,4 +188,77 @@
 
 .group:hover .guide-icon {
   animation: drop-down 0.3s var(--ease-standard) forwards;
+}
+
+/* --------------------------------------------------------------------------
+   Swiper arrow hover
+   - next: 사라짐 -> 왼쪽 밖에서 등장 -> 제자리
+   - prev: 사라짐 -> 오른쪽 밖에서 등장 -> 제자리
+   -------------------------------------------------------------------------- */
+
+@keyframes arrow-reenter-from-left {
+  0% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  35% {
+    opacity: 0;
+    transform: translateX(0);
+  }
+  36% {
+    opacity: 0;
+    transform: translateX(-100px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes arrow-reenter-from-right {
+  0% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  35% {
+    opacity: 0;
+    transform: translateX(0);
+  }
+  36% {
+    opacity: 0;
+    transform: translateX(100px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* 버튼 hover 시 화살표 이미지에만 적용 */
+.opc-arrow-btn:hover .opc-arrow-icon--next {
+  animation: arrow-reenter-from-left 420ms var(--ease-standard);
+  will-change: transform, opacity;
+}
+
+.opc-arrow-btn:hover .opc-arrow-icon--prev {
+  animation: arrow-reenter-from-right 420ms var(--ease-standard);
+  will-change: transform, opacity;
+}
+
+/* 키보드 포커스도 동일하게 */
+.opc-arrow-btn:focus-visible .opc-arrow-icon--next {
+  animation: arrow-reenter-from-left 420ms var(--ease-standard);
+}
+.opc-arrow-btn:focus-visible .opc-arrow-icon--prev {
+  animation: arrow-reenter-from-right 420ms var(--ease-standard);
+}
+
+/* 접근성: 모션 최소화 */
+@media (prefers-reduced-motion: reduce) {
+  .opc-arrow-btn:hover .opc-arrow-icon--next,
+  .opc-arrow-btn:hover .opc-arrow-icon--prev,
+  .opc-arrow-btn:focus-visible .opc-arrow-icon--next,
+  .opc-arrow-btn:focus-visible .opc-arrow-icon--prev {
+    animation: none;
+  }
 }

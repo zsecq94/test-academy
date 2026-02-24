@@ -5,26 +5,28 @@ import { Container } from '@/components'
 import { HeroScrollDown } from './HeroScrollDown'
 
 export function HeroNav({
+  className,
   navItems,
   active,
   onGoTo,
   t,
 }: {
+  className?: string
   navItems: string[]
   active: number
   onGoTo: (idx: number) => void
   t: TFunction
 }) {
   return (
-    <Container className="absolute inset-0">
+    <Container className="v1024:absolute v1024:inset-0">
       <div className="relative h-full">
         <nav
           className={clsx([
-            'absolute bottom-25 left-1/2 z-20 -translate-x-1/2 text-white',
-            'v1280:top-1/2 v1280:right-0 v1280:left-auto v1280:translate-x-0 v1280:bottom-auto',
+            'absolute bottom-15 left-1/2 z-20 -translate-x-1/2 text-white',
+            'v1024:top-1/2 v1024:right-0 v1024:left-auto v1024:translate-x-0 v1024:bottom-auto',
           ])}
         >
-          <ul className="flex flex-col gap-7">
+          <ul className="v1024:flex-col flex gap-7">
             {navItems.map((_, idx) => {
               const isActive = idx === active
               return (
@@ -45,7 +47,7 @@ export function HeroNav({
 
                     <span
                       className={clsx(
-                        'text-xs font-medium',
+                        'v1024:block hidden text-xs font-medium',
                         isActive ? 'text-primary' : 'text-bg'
                       )}
                     >
@@ -58,7 +60,7 @@ export function HeroNav({
           </ul>
         </nav>
 
-        <div className="v1280:block hidden">
+        <div className="v1024:block hidden">
           <HeroScrollDown />
         </div>
       </div>

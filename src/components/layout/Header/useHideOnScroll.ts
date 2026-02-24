@@ -11,7 +11,7 @@ const SCROLL_CONFIG = {
   threshold: 10,
 
   /** 헤더 높이만큼 내려갔을 때부터 hide/show 판단(선택) */
-  minY: 100,
+  minY: 20,
 
   /** 헤더 변경 위치 */
   variantSwitchY: 200,

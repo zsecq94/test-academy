@@ -7,35 +7,76 @@ type Props = {
   tabList: TabListType[]
 }
 
+function StableWeightText({
+  text,
+  active,
+  activeClass = 'font-semibold',
+  inactiveClass = 'font-normal',
+  className,
+}: {
+  text: string
+  active: boolean
+  activeClass?: string
+  inactiveClass?: string
+  className?: string
+}) {
+  return (
+    <span
+      data-text={text}
+      className={clsx(
+        'relative inline-block',
+        'before:invisible before:block before:h-0 before:overflow-hidden before:content-[attr(data-text)]',
+        'before:font-semibold',
+        active ? activeClass : inactiveClass,
+        className
+      )}
+    >
+      {text}
+    </span>
+  )
+}
+
 export function Tab({ activeIndex, setActiveIndex, tabList }: Props) {
   return (
     <div
       className={clsx([
-        'v1024:flex v1024:flex-row v1680:gap-21 v1280:gap-18 v1024:gap-15 grid grid-cols-2 justify-center',
-        'border-primary border-t border-l',
-        'v1024:border-none',
+        'v1024:flex v1024:flex-row v1024:gap-15 v1280:gap-18 v1680:gap-21 grid grid-cols-2 justify-center',
+        // 모바일 테두리 그리드 프레임 유지
+        'border-primary v1024:border-none border-t border-l',
       ])}
     >
       {tabList.map((tab, index) => {
         const isActive = activeIndex === index
+
         return (
           <button
             key={index}
             onClick={() => setActiveIndex(index)}
             className={clsx([
-              'border-primary border-r border-b p-6',
-              'v1024:border-r-0',
+              'p-8 text-center',
+              'border-primary v1024:border-0 border-r border-b',
+              'relative',
+              'after:absolute after:right-0 after:bottom-0 after:left-0 after:h-2 after:content-[""]',
               isActive
-                ? 'border-primary border-b-4 font-semibold text-black'
-                : 'v1024:border-b-0 border-b text-gray-500',
+                ? 'after:bg-primary text-black'
+                : 'text-gray-500 after:bg-transparent',
             ])}
           >
-            <p className="v1680:text-3xl v1280:text-2xl v1024:text-xl text-base">
-              {tab.title}
+            {/* title: line-height 고정 + weight 고정 */}
+            <p className="v1680:text-3xl v1280:text-2xl v1024:text-xl text-base leading-tight">
+              <StableWeightText text={tab.title} active={isActive} />
             </p>
-            {tab.subTitle && (
-              <p className="v1024:text-base text-xs">{tab.subTitle}</p>
-            )}
+
+            {/* subtitle: 항상 한 줄 공간 확보 -> 높이 고정 */}
+            <p className="v1024:text-base text-xs leading-tight">
+              {tab.subTitle && (
+                <StableWeightText
+                  text={tab.subTitle}
+                  active={isActive}
+                  activeClass="font-medium"
+                />
+              )}
+            </p>
           </button>
         )
       })}

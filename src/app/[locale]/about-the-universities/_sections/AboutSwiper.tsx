@@ -31,14 +31,24 @@ export function AboutSwiper() {
 
   const swiperRef = React.useRef<SwiperType | null>(null)
 
+  const [isBeginning, setIsBeginning] = React.useState(true)
+  const [isEnd, setIsEnd] = React.useState(false)
+
+  const syncEdgeState = React.useCallback((s: SwiperType) => {
+    setIsBeginning(s.isBeginning)
+    setIsEnd(s.isEnd)
+  }, [])
+
   const onClickPrev = React.useCallback(() => {
-    if (!swiperRef.current) return
-    swiperRef.current.slidePrev()
+    const s = swiperRef.current
+    if (!s) return
+    s.slidePrev()
   }, [])
 
   const onClickNext = React.useCallback(() => {
-    if (!swiperRef.current) return
-    swiperRef.current.slideNext()
+    const s = swiperRef.current
+    if (!s) return
+    s.slideNext()
   }, [])
 
   return (
@@ -63,10 +73,26 @@ export function AboutSwiper() {
         </div>
 
         <div className="v1280:justify-start flex justify-end gap-4">
-          <button className="bg-gray-50 p-10" onClick={onClickPrev}>
+          <button
+            className={clsx(
+              'bg-gray-50 p-10 transition-opacity',
+              isBeginning && 'opacity-10'
+            )}
+            onClick={onClickPrev}
+            disabled={isBeginning}
+            aria-disabled={isBeginning}
+          >
             <SvgIcon name="left" className="v1280:h-23 v1280:w-23 h-18 w-18" />
           </button>
-          <button className="bg-gray-50 p-10" onClick={onClickNext}>
+          <button
+            className={clsx(
+              'bg-gray-50 p-10 transition-opacity',
+              isEnd && 'opacity-10'
+            )}
+            onClick={onClickNext}
+            disabled={isEnd}
+            aria-disabled={isEnd}
+          >
             <SvgIcon name="right" className="v1280:h-23 v1280:w-23 h-18 w-18" />
           </button>
         </div>
@@ -76,7 +102,14 @@ export function AboutSwiper() {
         <Swiper
           modules={[Navigation]}
           spaceBetween={20}
-          onSwiper={(s) => (swiperRef.current = s)}
+          onSwiper={(s) => {
+            swiperRef.current = s
+            syncEdgeState(s)
+          }}
+          onSlideChange={(s) => syncEdgeState(s)}
+          onReachBeginning={(s) => syncEdgeState(s)}
+          onReachEnd={(s) => syncEdgeState(s)}
+          onFromEdge={(s) => syncEdgeState(s)}
           slidesPerView={1}
           breakpoints={{
             1024: { spaceBetween: 20, slidesPerView: 2 },
@@ -87,7 +120,7 @@ export function AboutSwiper() {
           className="h-full overflow-visible!"
         >
           {items.map((item, idx) => (
-            <SwiperSlide key={idx}>
+            <SwiperSlide key={idx} className="h-auto!">
               <div
                 className={clsx([
                   'hover:bg-emeraldgreen bg-gray-dark flex h-full flex-col rounded-[18px] text-white transition-colors duration-300',

@@ -3,19 +3,19 @@ import { useTranslations } from 'next-intl'
 import { Container, Grid, ZoomContent } from '@/components'
 
 export function Hero() {
-  const t = useTranslations('introducation.section1')
+  const t = useTranslations('introduction.section1')
 
   return (
     <section>
       <Container className="v1024:py-25 v1024:gap-21 flex flex-col gap-15 py-18">
         <ZoomContent
           containerClassName="v1440:h-[550px] v1024:h-[420px] relative h-36 w-full overflow-hidden"
-          imageSrc="/images/pages/introducation/hero.png"
+          imageSrc="/images/pages/introduction/hero.png"
           imageAlt="banner"
           isOverlay={false}
         />
 
-        <h1 className="v1280:text-11xl from-primary to-accent bg-linear-to-r bg-clip-text text-center text-6xl leading-none font-bold text-transparent">
+        <h1 className="v1280:text-11xl from-primary to-accent bg-linear-to-r bg-clip-text text-center text-5xl leading-none font-bold text-transparent">
           {richKey(t, 'title')}
         </h1>
 

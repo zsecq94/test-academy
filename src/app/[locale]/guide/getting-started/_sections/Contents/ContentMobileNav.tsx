@@ -14,7 +14,7 @@ function capitalize(word: string) {
 export function ContentMobileNav() {
   const activeId = useActiveSection(sectionIds)
   return (
-    <Grid className="border-primary v768:p-12 v1024:p-14 gap-8 border-t-4 bg-[#EAEFFA] p-5">
+    <Grid className="border-primary gap-4 border-t-4 bg-[#EAEFFA] p-8">
       {sectionIds.map((item, index) => {
         const id = sectionIds[index]
         const isActive = activeId === id

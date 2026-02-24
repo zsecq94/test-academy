@@ -99,7 +99,7 @@ export function OPCSwiper({ universities }: { universities: University[] }) {
             >
               <button
                 className={clsx([
-                  'flex flex-col gap-5',
+                  'opc-arrow-btn flex flex-col gap-5',
                   idx === 0 ? 'items-end' : 'items-start',
                 ])}
                 onClick={idx === 0 ? onClickNext : onClickPrev}
@@ -110,10 +110,13 @@ export function OPCSwiper({ universities }: { universities: University[] }) {
                       ? '/images/pages/home/next.svg'
                       : '/images/pages/home/prev.svg'
                   }
-                  alt="arrow-right"
+                  alt="arrow"
                   width={100}
                   height={100}
-                  className="v1024:h-[23px] v1024:w-27 h-[15px] w-25 object-contain"
+                  className={clsx([
+                    'v1024:h-[23px] v1024:w-27 h-[15px] w-25 object-contain',
+                    idx === 0 ? 'opc-arrow-icon--next' : 'opc-arrow-icon--prev',
+                  ])}
                 />
                 <p className="v1024:text-lg text-sm font-semibold text-gray-500">
                   {university.nextUniversity}

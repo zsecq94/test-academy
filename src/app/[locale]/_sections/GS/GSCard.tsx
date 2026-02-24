@@ -1,6 +1,7 @@
 import * as React from 'react'
 import { SvgIcon } from '@/components'
 import { Item } from '.'
+import { Link } from '@/i18n/navigation'
 
 export function GSCard({
   item,
@@ -10,7 +11,8 @@ export function GSCard({
   title: React.ReactNode
 }) {
   return (
-    <button
+    <Link
+      href={item.link}
       key={item.title}
       className="v768:gap-9 v768:p-18 flex flex-col justify-between gap-6 rounded-[10px] bg-white/20 p-11 backdrop-blur-xl"
     >
@@ -22,6 +24,6 @@ export function GSCard({
       <div className="flex justify-end">
         <SvgIcon name="right" className="v768:h-18 v768:w-18 h-11 w-11" />
       </div>
-    </button>
+    </Link>
   )
 }

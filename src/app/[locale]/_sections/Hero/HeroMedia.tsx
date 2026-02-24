@@ -17,7 +17,7 @@ export const HeroMedia = React.memo(
           src={slide.src}
           muted
           autoPlay
-          preload="none"
+          playsInline
         />
       )
     }
