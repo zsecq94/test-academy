@@ -79,12 +79,15 @@ export function HeaderLocaleMenu({ visible, isTransparent }: Props) {
         type="button"
         className={clsx([
           'flex items-center gap-2 rounded-full border px-6 py-2',
-          'v1024:px-9 v1024:py-3 v1024:gap-4',
+          'v1024:px-9 v1024:py-3',
           isTransparent ? 'border-white text-white' : 'border-gray text-black',
         ])}
         onClick={toggle}
       >
-        <SvgIcon name="global" className="v1024:h-12! v1024:w-12! h-9! w-9!" />
+        <SvgIcon
+          name="global"
+          className="v1024:h-10! v1024:w-10! h-9! w-9! -translate-x-1"
+        />
         <p className="v1024:text-sm text-xs font-medium">
           {currentLocaleLabel}
         </p>
@@ -94,7 +97,7 @@ export function HeaderLocaleMenu({ visible, isTransparent }: Props) {
         className={clsx([
           'absolute right-0 z-10 flex w-full flex-col gap-1 overflow-hidden rounded-[10px]',
           'border-gray border bg-white p-2 shadow-lg transition-all duration-300',
-          'v1024:top-18 v768:top-17 top-16',
+          'v1024:top-18 top-15',
           isMenuVisible
             ? 'visible translate-y-0 opacity-100'
             : 'invisible -translate-y-2 opacity-0',

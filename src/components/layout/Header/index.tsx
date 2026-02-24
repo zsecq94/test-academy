@@ -94,7 +94,7 @@ export function Header() {
             })}
           </ul>
 
-          <div className="col-c v768:gap-10 v1024:gap-17 flex items-center justify-end gap-5">
+          <div className="col-c v768:gap-10 v1440:gap-17 flex items-center justify-end gap-5">
             <HeaderLocaleMenu visible={visible} isTransparent={isTransparent} />
 
             <button onClick={openMenu} aria-label="Open menu">

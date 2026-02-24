@@ -41,7 +41,7 @@ export function HeaderMenuOverlay({ routes, closing, onClose }: Props) {
             </Link>
           </div>
 
-          <div className="v768:gap-10 v1024:gap-17 flex items-center justify-end gap-5">
+          <div className="v768:gap-10 v1440:gap-17 flex items-center justify-end gap-5">
             <HeaderLocaleMenu visible={true} isTransparent={false} />
 
             <button onClick={onClose} aria-label="Close menu">
