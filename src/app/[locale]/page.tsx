@@ -4,7 +4,7 @@ import {
   OurDifference,
   OurPartnerColleges,
   RealPossibilities,
-} from './_sections'
+} from './(home-sections)'
 
 export default function HomePage() {
   return (

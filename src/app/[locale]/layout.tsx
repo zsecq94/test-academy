@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 import { getMessages } from 'next-intl/server'
 import { NextIntlClientProvider } from 'next-intl'
 
-import { generalSans, pretendard } from './fonts'
+import { generalSans, pretendard, pretendardGov } from './fonts'
 import { LANG_MAP, locales, type Locales } from '@/i18n/routing'
 import { Footer, Header } from '@/components'
 import { notFound } from 'next/navigation'
@@ -34,7 +34,7 @@ export default async function LocaleLayout({ children, params }: Props) {
   return (
     <html lang={LANG_MAP[locale] ?? 'ko-KR'} className="overflow-x-clip">
       <body
-        className={`${generalSans.variable} ${pretendard.variable} antialiased`}
+        className={`${generalSans.variable} ${pretendard.variable} ${pretendardGov.variable} antialiased`}
       >
         <NextIntlClientProvider messages={messages}>
           <Header />

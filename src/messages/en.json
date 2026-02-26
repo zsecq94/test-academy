@@ -930,6 +930,335 @@
       "footerText": "With REC’s Academy, students receive<highlight>structured</highlight><highlight>reliable</highlight>and<highlight>continuous support</highlight>— all in one place."
     }
   },
+  "policy": {
+    "title": "Privacy Policy",
+    "hero": {
+      "title": "REC’s Academy",
+      "description1": "REC’s Academy (hereinafter referred to as the “Academy”) is committed to protecting your personal information and adheres to the <semibold>Personal Information Protection Act of the Republic of Korea,</semibold> as well as the <semibold>Act on Promotion of Information and Communications Network Utilization and Information Protection.</semibold>",
+      "description2": "Through this Privacy Policy, the Academy informs you of how and for what purposes your personal information is collected and used, and of the measures taken to protect it.",
+      "description3": "If the Academy revises this Privacy Policy, it will notify users through a website notice (or individual notice, where applicable).",
+      "description4": "This Policy shall be effective from <semibold>January 1, 2026</semibold>."
+    },
+    "sections": [
+      {
+        "id": "infomation",
+        "title": "Personal Information Items Collected",
+        "blocks": [
+          {
+            "title": "The Academy collects the following personal information for consultations, university admission support, Korean language program coordination, visa guidance, and related educational services.",
+            "marker": "dash"
+          },
+          {
+            "title": "<legal>Collected Items :</legal>",
+            "marker": "text",
+            "nested": {
+              "marker": "bullet",
+              "line": "inside",
+              "values": [
+                "Full Name",
+                "Nationality",
+                "Email Address",
+                "Phone Number",
+                "Academic Background Information (when voluntarily submitted)"
+              ]
+            }
+          },
+          {
+            "title": "<legal>Method of Collection :</legal>",
+            "marker": "text",
+            "nested": {
+              "marker": "bullet",
+              "line": "inside",
+              "values": [
+                "Website (online inquiry or consultation form)",
+                "Email correspondence",
+                "Application or consultation documents"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "collection",
+        "title": "Purpose of Collection and Use of Personal Information",
+        "blocks": [
+          {
+            "title": "The Academy uses collected personal information for the following purposes:",
+            "marker": "dash",
+            "nested": {
+              "marker": "bullet",
+              "line": "inside",
+              "values": [
+                "Responding to inquiries and consultation requests",
+                "Providing academic pathway guidance and university matching",
+                "Coordinating admission applications",
+                "Assisting with visa documentation and immigration compliance",
+                "Identity verification for service use",
+                "Preventing misuse and unauthorized access",
+                "Handling complaints and delivering official notices",
+                "Understanding access frequency and compiling service usage statistics"
+              ]
+            }
+          },
+          {
+            "title": "Personal information is not used for purposes other than those stated above.",
+            "marker": "dash"
+          }
+        ]
+      },
+      {
+        "id": "retention",
+        "title": "Personal Information Retention and Use Period",
+        "blocks": [
+          {
+            "title": "In principle, once the purpose of collecting and using personal information has been achieved, the information is destroyed without delay.",
+            "marker": "dash"
+          },
+          {
+            "title": "However, where preservation is required by relevant laws and regulations, the Academy retains such information for the legally prescribed period as follows:",
+            "marker": "dash",
+            "nested": {
+              "marker": "alpha",
+              "line": "inside",
+              "values": [
+                "<policyblock>Log records, IP addresses, etc., required for communication fact confirmation data</policyblock> - 3 months (Protection of Communications Secrets Act)",
+                "<policyblock>Records of contracts or cancellations of subscription</policyblock> - 5 years (Electronic Commerce Act)",
+                "<policyblock>Records of payment and service provision</policyblock> - 5 years (Electronic Commerce Act)",
+                "<policyblock>Records of consumer complaints or dispute resolution</policyblock> - 3 years (Electronic Commerce Act)",
+                "<policyblock>Records of collection, processing, and use of credit information (if applicable)</policyblock> - 3 years (Act on the Use and Protection of Credit Information)"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "destruction",
+        "title": "Procedures and Methods for Destruction of Personal Information",
+        "blocks": [
+          {
+            "title": "In principle, personal information is destroyed without delay when a user withdraws from services or when the purpose of collection and use has been fulfilled.",
+            "marker": "dash"
+          },
+          {
+            "title": "<legalbold>A. Destruction Procedures</legalbold>",
+            "titleFill": true,
+            "marker": "text",
+            "nested": {
+              "marker": "bullet",
+              "line": "outside",
+              "values": [
+                "Personal information is transferred to a separate database (or separate filing cabinet in the case of paper documents) after the purpose has been achieved.",
+                "It is stored for a legally required period according to internal policies and applicable laws before being destroyed.",
+                "Retained personal information is not used for any purpose other than that required by law."
+              ]
+            }
+          },
+          {
+            "title": "<legalbold>B. Destruction Methods</legalbold>",
+            "titleFill": true,
+            "marker": "text",
+            "nested": {
+              "marker": "bullet",
+              "line": "outside",
+              "values": [
+                "Personal information printed on paper is destroyed by shredding or incineration.",
+                "Personal information stored in electronic file format is permanently deleted using technical methods that render recovery impossible."
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "provision",
+        "title": "Provision of Personal Information",
+        "blocks": [
+          {
+            "title": "The Academy does not, in principle, provide users’ personal information to third parties.",
+            "marker": "dash"
+          },
+          {
+            "title": "However, personal information may be provided in the following cases:",
+            "marker": "dash",
+            "nested": {
+              "marker": "bullet",
+              "line": "inside",
+              "values": [
+                "When users have given prior consent",
+                "When required by law",
+                "When requested by investigative agencies in accordance with lawful procedures"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "representative",
+        "title": "User and Legal Representative Rights and How to Exercise Them",
+        "blocks": [
+          {
+            "title": "Users may view or modify their registered personal information at any time and may request withdrawal of service or cancellation of consent.",
+            "marker": "dash"
+          },
+          {
+            "title": "To review or modify personal information, users may contact the Academy via official communication channels. To withdraw consent or cancel services, users may submit a written or email request.",
+            "marker": "dash"
+          },
+          {
+            "title": "After identity verification, the Academy will process requests without delay.",
+            "marker": "dash"
+          },
+          {
+            "title": "If a user requests correction of personal information, the Academy will not use or provide the relevant information until the correction is completed. If incorrect personal information has already been provided to a third party, the Academy will promptly notify the third party of the correction to ensure proper amendment.",
+            "marker": "dash"
+          },
+          {
+            "title": "Personal information that has been withdrawn or deleted is processed in accordance with the retention policy and cannot be viewed or used for other purposes.",
+            "marker": "dash"
+          }
+        ]
+      },
+      {
+        "id": "automatic",
+        "title": "Installation, Operation, and Rejection of Automatic Personal Information Collection Devices",
+        "blocks": [
+          {
+            "title": "The Academy operates “cookies” and similar technologies that store and retrieve user information from time to time.",
+            "marker": "dash"
+          },
+          {
+            "title": "Cookies are small text files sent by the website server to the user’s browser and stored on the user’s device.",
+            "marker": "dash"
+          },
+          {
+            "title": "<legal>Purpose of Cookie Use :</legal>",
+            "marker": "dash",
+            "nested": {
+              "marker": "bullet",
+              "line": "inside",
+              "values": [
+                "Analysis of access frequency and visit duration",
+                "Identification of user preferences and areas of interest",
+                "Statistical analysis to improve services",
+                "Provision of personalized services"
+              ]
+            }
+          },
+          {
+            "title": "Users may choose to allow all cookies, confirm each time a cookie is saved, or reject all cookies through browser settings.",
+            "marker": "dash"
+          },
+          {
+            "title": "<legal>Example (Internet Explorer) :</legal>",
+            "marker": "dash",
+            "nested": {
+              "marker": "text",
+              "line": "inside",
+              "values": [
+                "Tools > Internet Options > Privacy",
+                "If cookies are rejected, certain services may not function properly."
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "protection",
+        "title": "Technical and Administrative Protection Measures",
+        "blocks": [
+          {
+            "title": "The Academy establishes and applies technical and administrative measures to protect personal information.",
+            "marker": "dash"
+          },
+          {
+            "title": "<legalbold>1) Technical Measures</legalbold>",
+            "titleFill": true,
+            "marker": "text",
+            "nested": {
+              "marker": "alpha",
+              "line": "outside",
+              "values": [
+                "Personal information is securely stored using encryption algorithms. Important data is protected through encrypted transmission and additional security mechanisms.",
+                "Antivirus programs are regularly updated to prevent damage caused by malicious software.",
+                "Intrusion prevention systems and vulnerability analysis systems are used to protect against hacking and external attacks."
+              ]
+            }
+          },
+          {
+            "title": "<legalbold>2) Administrative Measures</legalbold>",
+            "titleFill": true,
+            "marker": "text",
+            "nested": {
+              "marker": "alpha",
+              "line": "outside",
+              "values": [
+                "The Academy establishes internal procedures for accessing and managing personal information and ensures employee compliance.",
+                "Access to personal information is limited to authorized personnel only.",
+                "Identification codes (ID) and passwords are assigned and regularly updated for authorized access.",
+                "Employees are required to sign confidentiality and personal information protection agreements.",
+                "Regular training is conducted on data protection obligations and security technologies.",
+                "Duties related to personal information processing are securely transferred, and responsibility for incidents is clearly defined."
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "complaint",
+        "title": "Personal Information Complaint Service",
+        "blocks": [
+          {
+            "title": "The Academy designates the following department and officer to handle complaints related to personal information:",
+            "marker": "dash"
+          },
+          {
+            "title": "<legal>Customer Service Department :</legal>",
+            "marker": "dash",
+            "nested": {
+              "marker": "text",
+              "line": "inside",
+              "values": [
+                "REC’s Academy - Student Support Team",
+                "Email: recsacademy@recss.co.kr"
+              ]
+            }
+          },
+          {
+            "title": "<legal>Personal Information Protection Officer :</legal>",
+            "marker": "dash",
+            "nested": {
+              "marker": "text",
+              "line": "inside",
+              "values": [
+                "Name: IM JUNG MIN (CEO, REC’s Academy)",
+                "Email: recsacademy@recss.co.kr"
+              ]
+            }
+          },
+          {
+            "title": "Users can report any complaints regarding personal information protection to the contact provided above.",
+            "marker": "dash"
+          },
+          {
+            "title": "The Academy will respond promptly and appropriately.",
+            "marker": "dash"
+          },
+          {
+            "title": "If you need to report or consult regarding other personal information infringements, please contact:",
+            "marker": "dash",
+            "nested": {
+              "marker": "bullet",
+              "line": "inside",
+              "values": [
+                "Personal Information Infringement Report Center: 118 (privacy.kisa.or.kr)",
+                "Supreme Prosecutors’ Office Cyber Crime Investigation Division: 02-3480-3571 (cybercid@spo.go.kr)",
+                "National Police Agency Cyber Security Bureau: 182 (<legala>www.ctrc.go.kr</legala>)"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
   "procedures": {
     "title": "Procedures",
     "description": "REC’s Academy provides structured support across six key stages, guiding students from<br></br>the start of their study-abroad journey through admission and settlement in Korea.",
@@ -1130,6 +1459,200 @@
               "Accommodation provided on or connected to the university campus",
               "Issuance of the certificate of completion and provision of confirmation of participation"
             ]
+          }
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "hero": {
+      "title": "REC’s Academy",
+      "description": "These Terms of Use govern the conditions under which users access<br></br>and use the website and educational services provided by REC’s Academy (the “Academy”)."
+    },
+    "sections": [
+      {
+        "id": "purpose",
+        "title": "Purpose",
+        "blocks": [
+          {
+            "title": "These Terms regulate the use of academic consulting, university admission support, Korean language program coordination, visa documentation guidance, and related educational services provided by the Academy to its users (“Members”).",
+            "marker": "text"
+          }
+        ]
+      },
+      {
+        "id": "effectiveness",
+        "title": "Effectiveness and Changes",
+        "blocks": [
+          {
+            "title": "These Terms become effective upon publication on the Academy’s website.",
+            "marker": "number"
+          },
+          {
+            "title": "The Academy may revise these Terms in accordance with applicable laws.",
+            "marker": "number"
+          },
+          {
+            "title": "Continued use of services after updates constitutes acceptance of the revised Terms.",
+            "marker": "number"
+          },
+          {
+            "title": "Members who disagree with changes may request cancellation of services.",
+            "marker": "number"
+          }
+        ]
+      },
+      {
+        "id": "service",
+        "title": "Service Agreement",
+        "blocks": [
+          {
+            "title": "A service agreement is formed when a Member agrees to these Terms and submits an official consultation or application form.",
+            "marker": "number"
+          },
+          {
+            "title": "Members must provide accurate and truthful personal and academic information.",
+            "marker": "number"
+          },
+          {
+            "title": "The Academy may refuse or terminate services in cases of false information, unlawful purpose, or violation of these Terms.",
+            "marker": "number"
+          }
+        ]
+      },
+      {
+        "id": "scope",
+        "title": "Scope of Services",
+        "blocks": [
+          {
+            "title": "The Academy provides:",
+            "marker": "dash",
+            "nested": {
+              "marker": "bullet",
+              "line": "inside",
+              "values": [
+                "Academic pathway consultation",
+                "University and major matching",
+                "Admission application coordination",
+                "Korean language program placement",
+                "Visa documentation guidance",
+                "Short-term study program coordination"
+              ]
+            }
+          },
+          {
+            "title": "<legal>Admission Guarantee</legal>",
+            "marker": "dash",
+            "nested": {
+              "marker": "text",
+              "line": "inside",
+              "values": [
+                "Where a Member fully meets academic and documentation requirements and complies with the Academy’s guidance, the Academy guarantees university admission through its verified partner institutions or approved academic pathways."
+              ]
+            }
+          },
+          {
+            "title": "<legal>Visa Disclaimer</legal>",
+            "marker": "dash",
+            "nested": {
+              "marker": "text",
+              "line": "inside",
+              "values": [
+                "Visa approval is exclusively within the authority and discretion of the Korean immigration authorities. REC’s Academy provides visa documentation guidance and compliance support only and makes no representation or guarantee regarding visa issuance."
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "obligation",
+        "title": "Member Obligations",
+        "blocks": [
+          {
+            "title": "Members agree to:",
+            "marker": "dash",
+            "nested": {
+              "marker": "bullet",
+              "line": "inside",
+              "values": [
+                "Provide accurate and updated information",
+                "Submit genuine and complete documentation",
+                "Follow academic and visa compliance guidelines",
+                "Comply with applicable laws and Academy policies"
+              ]
+            }
+          },
+          {
+            "title": "A violation may result in the suspension or termination of services.",
+            "marker": "dash"
+          }
+        ]
+      },
+      {
+        "id": "intellectual",
+        "title": "Intellectual Property",
+        "blocks": [
+          {
+            "title": "Member-created content remains the property of the Member.",
+            "marker": "dash"
+          },
+          {
+            "title": "Academy materials may not be reproduced or commercially used without written permission.",
+            "marker": "dash"
+          }
+        ]
+      },
+      {
+        "id": "availability",
+        "title": "Service Availability",
+        "blocks": [
+          {
+            "title": "The Academy strives to provide stable services, but may temporarily suspend services for maintenance or due to force majeure events. The Academy is not liable for interruptions beyond its reasonable control.",
+            "marker": "dash"
+          }
+        ]
+      },
+      {
+        "id": "limitation",
+        "title": "Limitation of Liability",
+        "blocks": [
+          {
+            "title": "The Academy guarantees admission only when eligibility requirements are satisfied and documentation is authentic.",
+            "marker": "number"
+          },
+          {
+            "title": "The Academy is not responsible for visa denial, government decisions, or delays caused by immigration authorities.",
+            "marker": "number"
+          },
+          {
+            "title": "The Academy is not liable for indirect or consequential damages.",
+            "marker": "number"
+          },
+          {
+            "title": "Total liability, where applicable, shall not exceed the amount paid for services within the preceding 12 months.",
+            "marker": "number"
+          }
+        ]
+      },
+      {
+        "id": "governing",
+        "title": "Governing Law",
+        "blocks": [
+          {
+            "title": "The laws of the Republic of Korea govern these Terms.",
+            "marker": "dash"
+          },
+          {
+            "title": "Any disputes shall be subject to the jurisdiction of the competent court where the Academy’s headquarters is located.",
+            "marker": "dash",
+            "nested": {
+              "marker": "text",
+              "line": "inside",
+              "values": [
+                "<termsblock>Effective Date</termsblock> January 1, 2026"
+              ]
+            }
           }
         ]
       }

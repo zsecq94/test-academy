@@ -1,0 +1,192 @@
+{
+  "title": "Terms of Use",
+  "hero": {
+    "title": "REC’s Academy",
+    "description": "These Terms of Use govern the conditions under which users access<br></br>and use the website and educational services provided by REC’s Academy (the “Academy”)."
+  },
+  "sections": [
+    {
+      "id": "purpose",
+      "title": "Purpose",
+      "blocks": [
+        {
+          "title": "These Terms regulate the use of academic consulting, university admission support, Korean language program coordination, visa documentation guidance, and related educational services provided by the Academy to its users (“Members”).",
+          "marker": "text"
+        }
+      ]
+    },
+    {
+      "id": "effectiveness",
+      "title": "Effectiveness and Changes",
+      "blocks": [
+        {
+          "title": "These Terms become effective upon publication on the Academy’s website.",
+          "marker": "number"
+        },
+        {
+          "title": "The Academy may revise these Terms in accordance with applicable laws.",
+          "marker": "number"
+        },
+        {
+          "title": "Continued use of services after updates constitutes acceptance of the revised Terms.",
+          "marker": "number"
+        },
+        {
+          "title": "Members who disagree with changes may request cancellation of services.",
+          "marker": "number"
+        }
+      ]
+    },
+    {
+      "id": "service",
+      "title": "Service Agreement",
+      "blocks": [
+        {
+          "title": "A service agreement is formed when a Member agrees to these Terms and submits an official consultation or application form.",
+          "marker": "number"
+        },
+        {
+          "title": "Members must provide accurate and truthful personal and academic information.",
+          "marker": "number"
+        },
+        {
+          "title": "The Academy may refuse or terminate services in cases of false information, unlawful purpose, or violation of these Terms.",
+          "marker": "number"
+        }
+      ]
+    },
+    {
+      "id": "scope",
+      "title": "Scope of Services",
+      "blocks": [
+        {
+          "title": "The Academy provides:",
+          "marker": "dash",
+          "nested": {
+            "marker": "bullet",
+            "line": "inside",
+            "values": [
+              "Academic pathway consultation",
+              "University and major matching",
+              "Admission application coordination",
+              "Korean language program placement",
+              "Visa documentation guidance",
+              "Short-term study program coordination"
+            ]
+          }
+        },
+        {
+          "title": "<legal>Admission Guarantee</legal>",
+          "marker": "dash",
+          "nested": {
+            "marker": "text",
+            "line": "inside",
+            "values": [
+              "Where a Member fully meets academic and documentation requirements and complies with the Academy’s guidance, the Academy guarantees university admission through its verified partner institutions or approved academic pathways."
+            ]
+          }
+        },
+        {
+          "title": "<legal>Visa Disclaimer</legal>",
+          "marker": "dash",
+          "nested": {
+            "marker": "text",
+            "line": "inside",
+            "values": [
+              "Visa approval is exclusively within the authority and discretion of the Korean immigration authorities. REC’s Academy provides visa documentation guidance and compliance support only and makes no representation or guarantee regarding visa issuance."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "obligation",
+      "title": "Member Obligations",
+      "blocks": [
+        {
+          "title": "Members agree to:",
+          "marker": "dash",
+          "nested": {
+            "marker": "bullet",
+            "line": "inside",
+            "values": [
+              "Provide accurate and updated information",
+              "Submit genuine and complete documentation",
+              "Follow academic and visa compliance guidelines",
+              "Comply with applicable laws and Academy policies"
+            ]
+          }
+        },
+        {
+          "title": "A violation may result in the suspension or termination of services.",
+          "marker": "dash"
+        }
+      ]
+    },
+    {
+      "id": "intellectual",
+      "title": "Intellectual Property",
+      "blocks": [
+        {
+          "title": "Member-created content remains the property of the Member.",
+          "marker": "dash"
+        },
+        {
+          "title": "Academy materials may not be reproduced or commercially used without written permission.",
+          "marker": "dash"
+        }
+      ]
+    },
+    {
+      "id": "availability",
+      "title": "Service Availability",
+      "blocks": [
+        {
+          "title": "The Academy strives to provide stable services, but may temporarily suspend services for maintenance or due to force majeure events. The Academy is not liable for interruptions beyond its reasonable control.",
+          "marker": "dash"
+        }
+      ]
+    },
+    {
+      "id": "limitation",
+      "title": "Limitation of Liability",
+      "blocks": [
+        {
+          "title": "The Academy guarantees admission only when eligibility requirements are satisfied and documentation is authentic.",
+          "marker": "number"
+        },
+        {
+          "title": "The Academy is not responsible for visa denial, government decisions, or delays caused by immigration authorities.",
+          "marker": "number"
+        },
+        {
+          "title": "The Academy is not liable for indirect or consequential damages.",
+          "marker": "number"
+        },
+        {
+          "title": "Total liability, where applicable, shall not exceed the amount paid for services within the preceding 12 months.",
+          "marker": "number"
+        }
+      ]
+    },
+    {
+      "id": "governing",
+      "title": "Governing Law",
+      "blocks": [
+        {
+          "title": "The laws of the Republic of Korea govern these Terms.",
+          "marker": "dash"
+        },
+        {
+          "title": "Any disputes shall be subject to the jurisdiction of the competent court where the Academy’s headquarters is located.",
+          "marker": "dash",
+          "nested": {
+            "marker": "text",
+            "line": "inside",
+            "values": ["<legal>Effective Date</legal> January 1, 2026"]
+          }
+        }
+      ]
+    }
+  ]
+}
