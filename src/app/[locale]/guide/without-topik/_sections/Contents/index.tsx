@@ -17,7 +17,7 @@ export function Contents() {
   return (
     <section className="relative">
       <div className="v1280:block absolute top-0 bottom-0 left-0 hidden">
-        <aside className="sticky top-0 z-100 h-fit self-start py-25">
+        <aside className="sticky top-0 z-10 h-fit self-start py-25">
           <ContentNav />
         </aside>
       </div>
