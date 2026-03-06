@@ -1,52 +1,52 @@
 {
-  "title": "Introduction",
-  "description": "To ensure that your journey in a foreign land is not lonely, Earth Study Abroad will accompany you on your study abroad journey",
+  "title": "Введение",
+  "description": "Чтобы ваше путешествие за границу не было одиноким, REC’s Academy будет сопровождать вас на протяжении всего вашего образовательного пути за рубежом.",
   "section1": {
-    "title": "Your Structured<br></br>Pathway to Korea",
-    "description1": "<introbold>REC’s Academy</introbold> was founded to be more than a study-abroad center.<br></br>We exist to serve as a trusted bridge for students from Africa and Central Asia who aspire to study<br></br>at Korean universities.<br></br>Studying in Korea is not simply an academic choice—it is the beginning of a new life in<br></br>an unfamiliar language, culture, and education system.<br></br>On this journey, the quality of guidance and support truly matters<br></br>REC’s Academy provides structured, end-to-end support, from university selection and document preparation to visa guidance and arrival orientation.",
-    "description2": "Our focus is on practical preparation, compliance, and long-term student stability, not quick placements or empty promises.<br></br>While we continue to expand partnerships with Korean universities, our greatest measure of success<br></br>remains unchanged: seeing our students adapt successfully, progress academically, and build a<br></br>sustainable future in Korea.",
-    "description3": "We remain committed to supporting every student’s journey with responsibility, sincerity, and real outcomes"
+    "title": "Ваш структурированный<br></br>путь в Корею",
+    "description1": "<introbold>REC’s Academy</introbold> была основана, чтобы стать чем-то большим, чем просто центр обучения за рубежом.<br></br>Мы существуем для того, чтобы служить надёжным мостом для студентов из Африки и Центральной Азии, которые стремятся учиться в корейских университетах.<br></br>Обучение в Корее - это не просто академический выбор, это начало новой жизни в незнакомом языке, культуре и образовательной системе.<br></br>В этом пути качество сопровождения и поддержки имеет решающее значение. REC’s Academy предоставляет структурированную поддержку на всех этапах - от выбора университета и подготовки документов до помощи с визой и ориентации по прибытии.",
+    "description2": "Нашим приоритетом являются практическая подготовка, соблюдение требований и долгосрочная стабильность студентов,<br></br>а не быстрые зачисления или необоснованные обещания. По мере того как мы продолжаем развивать партнёрства с корейскими университетами, наш главный показатель успеха остаётся неизменным: видеть, как наши студенты успешно адаптируются, добиваются академического прогресса и строят устойчивое будущее в Корее.",
+    "description3": "Мы неизменно привержены сопровождению пути каждого студента с ответственностью, искренностью и конкретными результатами."
   },
   "section2": {
-    "title": "One-Stop Support from Admission to Settlement",
-    "description": "REC’s Academy supports you throughout the entire study-abroad journey—from start to finish.",
+    "title": "Полная поддержка — от поступления до обустройства",
+    "description": "REC’s Academy сопровождает вас на протяжении всего пути обучения за рубежом — от начала и до полной адаптации.",
     "items": [
       {
         "icon": "global",
         "bg": "bg-primary",
-        "title": "End-to-End University<br></br>Admissions Assistance",
-        "description": "We provide systematic support for the full admissions process, including:",
+        "title": "Полная помощь при поступлении в университет",
+        "description": "Мы предоставляем системную поддержку на всех этапах процесса поступления, включая:",
         "list": [
-          "Writing and editing personal statements and study plans",
-          "Reviewing letters of recommendation",
-          "Completing and submitting application forms",
-          "Coordinating application timelines with universities"
+          "Подготовку и редактирование мотивационных писем и учебных проектов.",
+          "Проверку рекомендательных писем.",
+          "Заполнение и подачу заявлений на поступление.",
+          "Координацию сроков подачи документов с университетами."
         ]
       },
       {
         "icon": "id",
         "bg": "bg-electricviolet",
-        "title": "Visa Application<br></br>Guidance",
-        "description": "We offer accurate and countryspecific guidance on:",
+        "title": "Сопровождение при оформлении визы",
+        "description": "Мы предлагаем точные и индивидуальные консультации для каждой страны по вопросам:",
         "list": [
-          "Required visa documents",
-          "Student visa application procedures",
-          "Compliance with immigration regulations Visa issuance remains under the authority of the relevant immigration offices, but we ensure you are wellprepared."
+          "Перечня документов, необходимых для получения визы.",
+          "Процедур подачи заявления на студенческую визу.",
+          "Соблюдения иммиграционных требований(выдача визы остаётся в компетенции соответствующих иммиграционных органов, однако мы обеспечиваем вашу полную готовность)."
         ]
       },
       {
         "icon": "map",
         "bg": "bg-accent",
-        "title": "Arrival & Settlement<br></br>Support",
-        "description": "To help students transition smoothly into life in Korea, we assist with:",
+        "title": "Поддержка по прибытии и обустройству",
+        "description": "Чтобы помочь студентам мягко адаптироваться к жизни в Корее, мы оказываем помощь в:",
         "list": [
-          "Dormitory or approved accommodation applications",
-          "Setting up telecommunications services",
-          "Opening a bank account",
-          "Initial settlement orientation after arrival"
+          "Подаче заявок на общежитие или утверждённое жильё.",
+          "Подключении телекоммуникационных услуг.",
+          "Открытии банковского счёта.",
+          "Первичной ориентации и адаптации после прибытия."
         ]
       }
     ],
-    "footerText": "With REC’s Academy, students receive<highlight>structured</highlight><highlight>reliable</highlight>and<highlight>continuous support</highlight>— all in one place."
+    "footerText": "С REC’s Academy студенты получают<highlight>структурированную</highlight><highlight>надёжную и непрерывную поддержку</highlight>— всё в одном месте."
   }
 }

@@ -1,67 +1,67 @@
 {
-  "title": "Guide",
-  "description": "REC’s Academy provides a practical settlement guide to help international students preparing to study in Korea,<br></br>or those who have just arrived, quickly access essential information for daily life and smooth academic adjustment.",
+  "title": "Руководство",
+  "description": "REC’s Academy предлагает практическое руководство по обустройству, чтобы помочь иностранным студентам,<br></br>которые готовятся к обучению в Корее или только что прибыли, быстро получить доступ к важной информации для повседневной жизни и спокойно адаптироваться к новой академической среде.",
   "links": [
     {
       "bg": "/images/pages/guide/thumb1.png",
       "icon": "/images/pages/guide/school.png",
-      "title": "Is it possible to enter<br></br>a Korean university without TOPIK?",
-      "description": "Studying in Korea without TOPIK is possible,<br></br>depending on your university and major.",
+      "title": "Можно ли поступить в<br></br>корейский университет без TOPIK?",
+      "description": "Обучение в Корее без TOPIK возможно в зависимости<br></br>от университета и выбранной специальности.",
       "url": "/guide/without-topik"
     },
     {
       "bg": "/images/pages/guide/thumb2.png",
       "icon": "/images/pages/guide/rocket.png",
-      "title": "Studying in Korea<br></br>Where should I start?",
-      "description": "A step-by-step guide for international students starting<br></br>their study-abroad journey in Korea.",
+      "title": "Обучение в Корее<br></br>с чего начать?",
+      "description": "Пошаговое руководство для иностранных студентов,<br></br>начинающих свой путь обучения за рубежом в Корее.",
       "url": "/guide/getting-started"
     }
   ],
   "withoutTopik": {
     "section1": {
-      "text1": "If you are considering studying abroad in Korea,<br></br>one of the most common questions you will encounter is:<br></br><bold>Is TOPIK (Test of Proficiency in Korean) really necessary?</bold>",
-      "text2": "For students who are new to the Korean language,<br></br>high TOPIK score requirements can feel daunting.",
-      "text3": "However, with the expansion of <bold>English-taught programs, conditional admissions,</bold><br></br>and <bold>language linked pathways,</bold><br></br>it is increasingly possible to study in Korea <bold>without TOPIK,</bold><br></br>depending on your chosen university and major.",
-      "text4": "In this guide, REC’s Academy explains:",
+      "text1": "Если вы планируете учёбу за границей в Корее,<br></br>один из самых распространённых вопросов, с которым вы столкнётесь,<br></br><bold>— действительно ли необходим TOPIK (тест на знание корейского языка)?</bold>",
+      "text2": "Для студентов, которые только начинают изучать корейский язык,<br></br>требования к высокому баллу TOPIK могут показаться пугающими.",
+      "text3": "Однако с расширением программ, преподаваемых на английском языке, условных форм зачисления и языково-ориентированных образовательных маршрутов,<br></br>становится всё более возможным учиться в Корее <bold>без TOPIK</bold><br></br>— в зависимости от университета и выбранной специальности..",
+      "text4": "В этом руководстве REC’s Academy объясняет:",
       "list": [
-        "When TOPIK is<br></br>required",
-        "When TOPIK is<br></br>not required",
-        "Realistic admission pathways<br></br>even without TOPIK"
+        "Когда TOPIK<br></br>требуется",
+        "Когда TOPIK<br></br>не требуется",
+        "Реалистичные пути<br></br>поступления даже без TOPIK"
       ]
     },
 
     "section2": {
       "questions": [
-        "Are There Universities<br></br>You Can Enter Without TOPIK?",
-        "Admission Based<br></br>on English Proficiency",
-        "Conditional Admission &<br></br>Language-Linked Programs",
-        "Are There TOPIK Requirements<br></br>After Admission?",
-        "Things to Consider<br></br>When Choosing a university"
+        "Существуют ли университеты,<br></br>куда можно поступить без TOPIK?",
+        "Поступление на основе<br></br>владения английским языком",
+        "Условное зачисление<br></br>и программы, связанные<br></br>с языковой подготовкой",
+        "Существуют ли требования<br></br>TOPIK после зачисления?",
+        "Факторы, которые следует<br></br>учитывать при<br></br>выборе университета"
       ],
       "eligibility": {
-        "q": "Are There Universities You Can Enter Without TOPIK?",
-        "a": "Yes.",
-        "title": "Many Korean universities operate admission processes for international students that <semibold>do not require TOPIK at the time of application,</semibold> or that evaluate applicants based on alternative criteria.",
+        "q": "Существуют ли университеты, куда можно поступить без TOPIK?",
+        "a": "Да.",
+        "title": "Многие корейские университеты используют процедуры приёма иностранных студентов, которые не требуют TOPIK на момент подачи заявки либо оценивают кандидатов на основе альтернативных критериев.",
         "display": {
-          "title": "TOPIK may not be required for:",
+          "title": "TOPIK может не требоваться для:",
           "list": [
-            "<semibold>Global Studies / International Programs</semibold>",
-            "<semibold>Departments taught entirely in English</semibold>",
-            "Programs where admissions focus more on:"
+            "<semibold>глобальных исследований / международных программ</semibold>",
+            "<semibold>факультетов, где обучение полностью ведётся на английском языке</semibold>",
+            "программ, где приём больше ориентирован на:"
           ],
           "items": [
-            "Academic background",
-            "Portfolios",
-            "Interviews",
-            "Motivation and study plans"
+            "академический профиль",
+            "портфолио",
+            "собеседования",
+            "мотивацию и учебный проект"
           ]
         },
-        "footerText": "In such cases, TOPIK is <semibold>not a prerequisite for admission.</semibold><br></br>REC’s Academy helps students identify universities and majors where TOPIK is not initially required<br></br>and where admission pathways are realistic."
+        "footerText": "В таких случаях TOPIK <semibold>не является обязательным условием</semibold> для поступления.<br></br>REC’s Academy помогает студентам определить университеты и специальности, где TOPIK изначально не требуется и где пути поступления являются реалистичными."
       },
 
       "english": {
-        "q": "Admission process based on English proficiency",
-        "title": "Many Korean universities offer <semibold>English-taught degree programs</semibold><br></br>and accept internationally recognized English test scores, such as:",
+        "q": "Процесс поступления на основе владения английским языком",
+        "title": "Многие корейские университеты предлагают дипломные программы,<br></br>преподаваемые на английском языке, и принимают результаты международно<br></br>признанных тестов по английскому языку, таких как:",
         "table": {
           "head": ["Test", "Typical Minimum Score"],
           "body": [
@@ -79,116 +79,116 @@
             }
           ]
         },
-        "footerText": "In some cases, students from <semibold>English-speaking countries</semibold> may be exempt from English proficiency requirements. REC’s Academy evaluates each student’s English level and matches them with suitable English-based programs."
+        "footerText": "В некоторых случаях студенты из англоязычных стран могут быть освобождены от требований по подтверждению уровня владения английским языком.<br></br>REC’s Academy оценивает уровень английского языка каждого студента и подбирает подходящие англоязычные программы обучения."
       },
 
       "conditional": {
-        "q": "Conditional Admission & Language-Linked Programs",
-        "title": "If you do not have TOPIK but wish to enroll in a Korean-taught degree program, you may apply through:",
+        "q": "Условное зачисление и языковые образовательные маршруты",
+        "title": "Если у вас нет TOPIK, но вы хотите поступить на дипломную программу, преподаваемую на корейском языке, вы можете подать заявку через следующие варианты:",
         "list": [
           {
-            "title": "Conditional Admission",
+            "title": "Условное зачисление",
             "items": [
               {
-                "title": "Admission is granted on the condition that the student achieves a required Korean level within a specified period.",
+                "title": "Зачисление предоставляется при условии, что студент достигнет требуемого уровня корейского языка в установленный срок.",
                 "list": []
               },
               {
-                "title": "Progress may be assessed through:",
+                "title": "Прогресс может оцениваться с помощью:",
                 "list": [
-                  "University-administered tests",
-                  "Completion of required language courses"
+                  "тестов, проводимых университетом",
+                  "успешного завершения обязательных языковых курсов"
                 ]
               }
             ]
           },
           {
-            "title": "Language-Linked Pathway",
+            "title": "Языковой маршрут",
             "items": [
               {
-                "title": "Students first enroll in a <semibold>university-affiliated Korean language institute.</semibold>",
+                "title": "Студенты сначала поступают в институт корейского языка, аффилированный с университетом.",
                 "list": []
               },
               {
-                "title": "After reaching the required level, they transition into a degree program.",
+                "title": "После достижения необходимого уровня они переходят на дипломную программу.",
                 "list": []
               }
             ]
           },
           {
-            "title": "This pathway typically involves:",
+            "title": "Данный маршрут обычно включает:",
             "items": [
               {
-                "title": "Entry to Korea on a <semibold>D-4 (language) visa</semibold>",
+                "title": "въезд в Корею по визеa <semibold>D-4 (языковое обучение)</semibold>",
                 "list": []
               },
               {
-                "title": "Later change to a <semibold>D-2 (degree) visa</semibold>",
+                "title": "последующую смену на визу <semibold>D-2 (дипломное обучение)</semibold>",
                 "list": []
               }
             ]
           }
         ],
 
-        "footerText": "REC’s Academy explains these options clearly and helps students plan <semibold>realistic timelines.</semibold>"
+        "footerText": "REC’s Academy подробно разъясняет эти варианты<br></br>и помогает студентам планировать реалистичные сроки обучения."
       },
 
       "topik": {
-        "q": "Are There TOPIK Requirements After Admission?",
-        "title": "Even if TOPIK is not required for admission, some universities require TOPIK for graduation.<br></br>Common graduation-related requirements include:",
+        "q": "Существуют ли требования TOPIK после зачисления?",
+        "title": "Даже если TOPIK не требуется для поступления, некоторые университеты требуют его для получения диплома.<br></br>Распространённые требования для выпуска включают:",
         "list": [
-          "Submission of a TOPIK score (often <semibold>Level 4 or higher</semibold>)",
-          "Passing university-administered Korean proficiency evaluations",
-          "Completion of mandatory Korean language courses"
+          "предоставление сертификата TOPIK (часто <semibold>уровень 4 и выше</semibold>)",
+          "успешное прохождение тестов на знание корейского языка, проводимых университетом",
+          "завершение обязательных курсов корейского языка"
         ],
         "footerDisplay": {
-          "title": "Important",
-          "description": "Always check <semibold>graduation requirements,</semibold> not just admission conditions.<br></br>REC’s Academy reviews both admission and graduation language requirements before students apply."
+          "title": "Важно",
+          "description": "Всегда проверяйте требования <semibold>к выпуску,</semibold> а не только условия поступления.<br></br>REC’s Academy анализирует как языковые требования для зачисления, так и требования для получения диплома до подачи заявок студентами."
         }
       },
 
       "considerations": {
-        "q": "Things to Consider When Choosing a university",
-        "title": "If you plan to apply without TOPIK, carefully check:",
+        "q": "Факторы, которые следует учитывать при выборе университета",
+        "title": "Если вы планируете подавать заявку без TOPIK, внимательно проверьте:",
         "list": [
-          "Are <semibold>English-taught courses</semibold> available?",
-          "Is <semibold>English-based or conditional admission</semibold> offered?",
-          "Does the university operate a <semibold>language institute</semibold>?",
-          "Is TOPIK required for <semibold>graduation</semibold>?",
-          "Are language requirements clearly stated in official guidelines?"
+          "предлагаются ли курсы, преподаваемые на английском языке?",
+          "доступно ли поступление на основе английского языка или условное зачисление?",
+          "имеет ли университет собственный языковой институт?",
+          "требуется ли TOPIK для получения диплома?",
+          "чётко ли указаны языковые требования в официальных правилах?"
         ],
         "footerDisplay": {
-          "title": "Note",
-          "description": "Language requirements may vary by major. Programs in <semibold>arts, design, and physical education</semibold> often have more flexible standards than theory-heavy majors."
+          "title": "Примечание",
+          "description": "Языковые требования могут различаться в зависимости от специальности.<br></br>Программы в области искусства, дизайна и физического воспитания часто имеют более гибкие критерии по сравнению с более теоретически насыщенными направлениями."
         }
       }
     },
 
     "section3": {
-      "title": "Conclusion",
-      "description": "Studying in Korea <semibold>without TOPIK is possible,</semibold> but it requires <semibold>strategic planning.</semibold>",
+      "title": "Заключение",
+      "description": "Учёба в Корее без TOPIK возможна, однако она требует <semibold>стратегического планирования.</semibold>",
       "list": [
         {
-          "title": "By using:",
+          "title": "Используя:",
           "items": [
-            "English proficiency–based admissions",
-            "Conditional or language-linked pathways",
-            "Careful university and major selection"
+            "поступление на основе владения английским языком",
+            "условные или языково-ориентированные образовательные маршруты",
+            "тщательный выбор университета и специальности"
           ]
         },
         {
-          "title": "Students can successfully enter Korean universities even without prior Korean language certification.<br></br>REC’s Academy supports students by:",
+          "title": "Студенты могут успешно поступать в корейские университеты даже без предварительного сертификата по корейскому языку.",
           "items": [
-            "Evaluating academic and language readiness",
-            "Identifying realistic admission pathways",
-            "Providing structured, compliant, and transparent guidance"
+            "оценку академической и языковой готовности",
+            "определение реалистичных путей поступления",
+            "структурированное, соответствующее требованиям и прозрачное сопровождение"
           ]
         }
       ],
-      "description2": "There are many ways to open the door to studying in Korea.<br></br><semibold>The most important step is choosing the path that fits you best.</semibold>",
+      "description2": "Существует множество способов открыть дверь к обучению в Корее.<br></br><semibold>Самый важный шаг — выбрать путь, который подходит именно вам.</semibold>",
       "display": {
-        "title": "Contact REC’s Academy",
-        "description": "For personalized guidance on studying at a Korean university",
+        "title": "Свяжитесь с REC’s Academy",
+        "description": "для персонализированного сопровождения при поступлении в корейский университет:",
         "email": "recsacademy@recss.co.kr"
       }
     }
@@ -196,129 +196,132 @@
 
   "gettingStarted": {
     "section1": {
-      "text1": "If you are considering studying abroad in Korea, you may wonder where to begin.<br></br>Admission requirements, language preparation, visas,<br></br>and university selection can feel overwhelming at first.",
-      "text2": "This guide provides a <semibold>step-by-step starting point</semibold><br></br>for international students, especially from <semibold>Africa and Central Asia,</semibold><br></br>who are beginning their study-abroad planning."
+      "text1": "Если вы планируете учёбу за границей в Корее, вы, возможно, задаётесь вопросом, с чего начать.<br></br>Требования к поступлению, языковая подготовка, визы и выбор университета поначалу могут показаться сложными и перегруженными.",
+      "text2": "Этот гид предлагает пошаговую отправную точку для иностранных студентов,<br></br>особенно из Африки и Центральной Азии, которые начинают планировать свой образовательный проект за рубежом."
     },
 
     "section2": {
       "questions": [
-        "Visa Types:<br></br>Which Visa Do You Need?",
-        "Language Requirements:<br></br>Korean vs. English",
-        "How to Choose<br></br>the Right University",
-        "Recommended<br></br>Preparation Order?"
+        "Типы виз:<br></br>какая виза вам нужна?",
+        "Языковые требования:<br></br>корейский vs английский",
+        "Как выбрать<br></br>подходящий университет",
+        "Рекомендуемый<br></br>порядок подготовки?"
       ],
       "visa": {
-        "title": "Visa Types: Which Visa Do You Need?",
-        "description": "The first step is identifying your <semibold>study goal,</semibold> as your visa depends on it.",
+        "title": "Типы виз: какая виза вам нужна?",
+        "description": "Первый шаг — определить цель обучения, поскольку от неё зависит тип визы.",
         "list": [
           {
-            "title": "D-2 Visa (Degree Program)",
+            "title": "Виза D-2 (дипломные программы)",
             "items": [
               {
-                "title": "issued to students admitted to:",
+                "title": "Выдаётся студентам, зачисленным на:",
                 "list": [
-                  "Bachelor’s programs",
-                  "Master’s programs",
-                  "PhD programs"
+                  "программы бакалавриата",
+                  "программы магистратуры",
+                  "программы докторантуры"
                 ]
               }
             ]
           },
           {
-            "title": "D-4 Visa (Language / Non-Degree Study)",
+            "title": "Виза D-4 (языковое обучение / обучение без получения диплома)",
             "items": [
               {
-                "title": "Issued to students enrolling in:",
-                "list": ["Korean language programs", "Other non-degree courses"]
+                "title": "Выдаётся студентам, поступающим на:",
+                "list": [
+                  "программы корейского языка",
+                  "другие сертификационные курсы без присвоения степени"
+                ]
               },
               {
-                "title": "Your visa type affects:",
+                "title": "Тип вашей визы влияет на:",
                 "list": [
-                  "Length of stay",
-                  "Part-time work permissions",
-                  "Required documents and compliance obligations"
+                  "продолжительность пребывания",
+                  "разрешения на подработку",
+                  "перечень необходимых документов и требования к соблюдению правил"
                 ]
               }
             ]
           }
         ],
 
-        "footerText": "REC’s Academy helps students determine the most appropriate visa pathway based on their goals."
+        "footerText": "REC’s Academy помогает студентам определить наиболее подходящий визовый путь в соответствии с их целями."
       },
 
       "language": {
-        "title": "Language Requirements: Korean vs. English",
-        "description": "Korean universities usually require proof of language proficiency.",
+        "title": "Языковые требования: корейский vs английский",
+        "description": "Корейские университеты, как правило, требуют подтверждение языковой компетенции.",
         "list": [
           {
-            "title": "Korean (TOPIK)",
-            "subTitle": "Typical requirements:",
+            "title": "Корейский язык (TOPIK)",
+            "subTitle": "Типичные требования:",
             "list": [
-              "Undergraduate: TOPIK Level 3-4+",
-              "Graduate: TOPIK Level 4-5+"
+              "бакалавриат: TOPIK уровень 3–4+",
+              "магистратура / докторантура: TOPIK уровень 4–5+"
             ],
-            "displayText": "Some majors have more flexible standards, and some universities require TOPIK for graduation even if it was not required for admission."
+            "displayText": "Некоторые специальности имеют более гибкие требования, а отдельные университеты требуют TOPIK для получения диплома, даже если он не был обязателен при поступлении."
           },
           {
-            "title": "English Proficiency",
-            "subTitle": "For English-taught programs:",
+            "title": "Владение английским языком",
+            "subTitle": "Для программ, преподаваемых на английском языке:",
             "list": ["TOEFL iBT: 80+", "IELTS: 6.0-6.5+"],
-            "displayText": "REC’s Academy helps students identify whether Korean or English pathways are more realistic."
+            "displayText": "REC’s Academy помогает студентам определить, какой путь — на корейском или английском языке — является наиболее реалистичным."
           }
         ]
       },
 
       "university": {
-        "title": "How should I choose a university?",
+        "title": "Как выбрать университет?",
         "display": {
-          "title": "When selecting a university, consider:",
+          "title": "При выборе университета учитывайте:",
           "list": [
-            "Major availability",
-            "Language of instruction",
-            "Location (metropolitan vs. regional)",
-            "Dormitory and international student support",
-            "Pathway flexibility"
+            "наличие нужной специальности",
+            "язык обучения",
+            "расположение (крупный город или регион)",
+            "общежитие и поддержку для иностранных студентов",
+            "гибкость образовательного маршрута"
           ]
         },
 
-        "footerText": "If your TOPIK level is not sufficient, English-taught or language-linked pathways may be more suitable."
+        "footerText": "Если ваш уровень TOPIK недостаточен, программы на английском языке или языково-ориентированные маршруты могут быть более подходящим вариантом."
       },
 
       "preparation": {
-        "title": "Recommended Preparation Order",
+        "title": "Рекомендуемый порядок подготовки",
         "display": {
-          "title": "A realistic preparation sequence:",
+          "title": "Реалистичная последовательность подготовки:",
           "list": [
-            "Consultation & planning",
-            "University and major selection",
-            "Document preparation",
-            "Application submission",
-            "Admission result → visa preparation",
-            "Departure preparation",
-            "Arrival and settlement"
+            "консультация и планирование",
+            "выбор университета и специальности",
+            "подготовка документов",
+            "подача заявки",
+            "результат поступления → подготовка визы",
+            "подготовка к отъезду",
+            "прибытие и обустройство"
           ]
         },
 
-        "footerText": "This process typically takes <semibold>3-6 months or longer,</semibold> depending on circumstances."
+        "footerText": "Этот процесс обычно занимает <semibold>от 3 до 6 месяцев или более,</semibold> в зависимости от обстоятельств."
       }
     },
 
     "section3": {
-      "title": "Final note",
-      "description": "Studying in Korea is not just an application, it is a life transition into a new academic and cultural environment.<br></br>Start step by step, based on what you can prepare now.",
+      "title": "Заключительная заметка",
+      "description": "Изучение в Корее – это не просто приложение, это переход жизни в новую академическую и культурную среду.<br></br>Начните шаг за шагом, основываясь на том, что вы можете подготовить сейчас.",
       "display": {
-        "title": "REC’s Academy provides structured guidance throughout:",
+        "title": "REC’s Academy обеспечивает структурированное руководство по всем направлениям:",
         "list": [
-          "Planning",
-          "University selection",
-          "Document preparation",
-          "Admission support",
-          "Visa pathway explanation",
-          "Settlement guidance"
+          "Планирование",
+          "Выбор университета",
+          "Подготовка документов",
+          "Поддержка приема",
+          "Объяснение визового пути",
+          "Руководство по урегулированию"
         ]
       },
       "footerDisplay": {
-        "title": "Contact REC’s Academy",
+        "title": "Связаться с REC’s Academy",
         "email": "recsacademy@recss.co.kr"
       }
     }

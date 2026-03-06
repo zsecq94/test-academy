@@ -1,193 +1,188 @@
 {
-  "title": "Contact",
+  "title": "문의",
   "tabs": [
     {
-      "title": "Korea Headquarters",
+      "title": "한국 본사",
       "subTitle": null,
       "items": [
         {
           "render": "text",
-          "key": "Location",
-          "value": "Naju City, Republic of Korea"
+          "key": "위치",
+          "value": "대한민국 나주시"
         },
         {
           "render": "text",
-          "key": "Address",
+          "key": "주소",
           "value": "REC’s Academy Smart Park – G Suite 201 & 207 13 Gyoyuk-gil, Naju-si, Jeollanam-do, Republic of Korea"
         },
         {
           "render": "text",
-          "key": "Email",
+          "key": "이메일",
           "value": "recsacademy@recss.co.kr"
         },
         {
           "render": "list",
-          "key": "Phone",
+          "key": "전화",
           "value": ["+82 70 4351 1625", "+82 70 8230 7533"]
         }
       ]
     },
     {
-      "title": "Uganda Office",
-      "subTitle": "Regional Office",
+      "title": "우간다 사무소",
+      "subTitle": "지역 사무소",
       "items": [
         {
           "render": "text",
-          "key": "Country Director",
+          "key": "국가 책임자",
           "value": "David Kiryapawo"
         },
         {
           "render": "text",
-          "key": "Address",
+          "key": "주소",
           "value": "Plot 4–5, Nyabong Road, Off Wampewo Avenue Suite 305A, BMK House Next to Hotel Avenue, Kampala, Uganda"
         },
         {
           "render": "list",
-          "key": "Email",
+          "key": "이메일",
           "value": ["david@recss.co.kr", "davidkiryapawo@gmail.com"]
         },
         {
           "render": "list",
-          "key": "Phone",
-          "value": [
-            "+256 760 105 934",
-            "+256 783 187 534(Available on WhatsApp)"
-          ]
+          "key": "전화",
+          "value": ["+256 760 105 934", "+256 783 187 534(WhatsApp 사용 가능)"]
         }
       ]
     },
     {
-      "title": "DR Congo Office",
-      "subTitle": "Regional Office",
+      "title": "DR 콩고 사무소",
+      "subTitle": "지역 사무소",
       "items": [
         {
           "render": "text",
-          "key": "Country Director",
+          "key": "국가 책임자",
           "value": "Biaya Greg"
         },
         {
           "render": "text",
-          "key": "Address",
+          "key": "주소",
           "value": "16, Avenue Matobo Quartier Golf Lido Lubumbashi, DRC (Reference: École Ufundi)"
         },
         {
           "render": "list",
-          "key": "Email",
+          "key": "이메일",
           "value": ["biaya.hgreg@yahoo.com", "merveillemaduali3@gmail.com"]
         },
         {
           "render": "list",
-          "key": "Phone",
+          "key": "전화",
           "value": [
-            "<semibold>Kinshasa:</semibold> +243 900 265 268 / +243 828 296 043",
-            "<semibold>Lubumbashi:</semibold> +243 900 268 268(Available on WhatsApp)"
+            "<semibold>킨샤사:</semibold> +243 900 265 268 / +243 828 296 043",
+            "<semibold>루붐바시:</semibold> +243 900 268 268(WhatsApp 사용 가능)"
           ]
         }
       ]
     },
     {
-      "title": "Ghana Office",
-      "subTitle": "Partner Office",
+      "title": "가나 사무소",
+      "subTitle": "파트너 사무소",
       "items": [
         {
           "render": "text",
-          "key": "Office Name",
+          "key": "사무소 이름",
           "value": "MENS-K EXPRESS GLOBAL LTD"
         },
         {
           "render": "text",
-          "key": "Address",
-          "value": "Darkuman, Opposite Accra Station - Accra, Ghana"
+          "key": "주소",
+          "value": "Darkuman, Opposite Accra Station - Accra, Ghana"
         },
         {
           "render": "text",
-          "key": "Email",
+          "key": "이메일",
           "value": "info@menskexpressgloballtd.com"
         },
         {
           "render": "list",
-          "key": "Phone",
+          "key": "전화",
           "value": [
-            "<semibold>Ghana:</semibold>  +233 30 230 9477 / +233 25 696 3100",
-            "<semibold>Dubai:</semibold>  +971 (0) 54 324 4267"
+            "<semibold>가나:</semibold>  +233 30 230 9477 / +233 25 696 3100",
+            "<semibold>두바이:</semibold>  +971 (0) 54 324 4267"
           ]
         },
         {
           "render": "text",
-          "key": "Website",
+          "key": "웹사이트",
           "value": "www.menskexpressgloballtd.com"
         }
       ]
     }
   ],
-
-  "comfirm": {
-    "title": "Online Inquiry",
-    "subTitle": "Do You Have Questions About Studying in Korea?",
-    "description": "If you have any questions about studying in Korea, feel free to contact <semibold>REC’s Academy.</semibold><br></br>You may ask about majors, university selection, costs, admission requirements, visas, or any other study-abroad-related concerns.<br></br>Our experienced study-abroad consultants will review your inquiry and respond <semibold>within 24 hours.</semibold>",
+  "confirm": {
+    "title": "온라인 문의",
+    "subTitle": "한국 유학에 대해 궁금하신가요?",
+    "description": "한국 유학과 관련하여 궁금한 점이 있으시면 언제든지 <semibold>REC’s Academy</semibold>로 문의해 주세요.<br></br>전공 선택, 대학 추천, 학비, 입학 요건, 비자 등 유학과 관련된 다양한 질문을 하실 수 있습니다.<br></br>경험이 풍부한 유학 컨설턴트가 문의 내용을 확인한 후 <semibold>24시간 이내에</semibold> 답변드리겠습니다.",
     "display": {
-      "key": "Email",
+      "key": "이메일",
       "value": "recsacademy@recss.co.kr"
     },
-
     "formFields": [
       {
         "type": "input",
         "id": "name",
-        "label": "Name",
+        "label": "이름",
         "description": null,
         "required": true,
-        "placeholder": "Value"
+        "placeholder": "입력"
       },
       {
         "type": "input",
         "id": "nationality",
-        "label": "Nationality",
+        "label": "국적",
         "description": null,
         "required": true,
-        "placeholder": "Value"
+        "placeholder": "입력"
       },
       {
         "type": "input",
         "id": "email",
-        "label": "Email",
+        "label": "이메일",
         "description": null,
         "required": true,
-        "placeholder": "Value"
+        "placeholder": "입력"
       },
       {
         "type": "input",
         "id": "contactable",
-        "label": "Contactable messenger ID or phone number",
-        "description": "WhatsApp / KakaoTalk / Telegram, etc.",
+        "label": "연락 가능한 메신저 ID 또는 전화번호",
+        "description": "WhatsApp / KakaoTalk / Telegram 등",
         "required": true,
-        "placeholder": "Value"
+        "placeholder": "입력"
       },
       {
         "type": "radio-group",
         "id": "area",
-        "label": "Area of Interest",
-        "description": "Please select one or more",
+        "label": "관심 분야",
+        "description": "하나 이상 선택해 주세요",
         "required": false,
         "options": [
           {
-            "label": "I would like to receive a university and major recommendation",
+            "label": "대학 및 전공 추천을 받고 싶습니다",
             "value": "recommendation"
           },
           {
-            "label": "I would like to understand the admission requirements",
+            "label": "입학 요건을 알고 싶습니다",
             "value": "admission"
           },
           {
-            "label": "Visa and living consultation",
+            "label": "비자 및 생활 상담",
             "value": "visa"
           },
           {
-            "label": "Study pathway planning (Language → Degree/Direct Degree)",
+            "label": "유학 경로 설계 (어학 → 학위 / 바로 학위 과정)",
             "value": "pathway"
           },
           {
-            "label": "Other inquiries (please specify)",
+            "label": "기타 문의 (직접 작성)",
             "value": "other"
           }
         ]
@@ -195,20 +190,19 @@
       {
         "type": "textarea",
         "id": "inquiry",
-        "label": "Inquiry Details",
-        "description": "Please describe your academic background, interests, or questions in detail.",
+        "label": "문의 내용",
+        "description": "학력, 관심 전공 또는 궁금한 사항을 자세히 작성해 주세요.",
         "required": true,
-        "placeholder": "Value"
+        "placeholder": "입력"
       },
       {
         "type": "checkbox",
         "id": "agree",
-        "label": "I agree to the collection and use of my personal information.",
+        "label": "개인정보 수집 및 이용에 동의합니다.",
         "required": true
       }
     ],
-
-    "buttonText": "Confirm",
-    "footerText": "REC’s Academy helps students determine the most appropriate visa pathway based on their goals."
+    "buttonText": "문의 보내기",
+    "footerText": "REC’s Academy는 학생의 목표에 맞는 가장 적절한 비자 경로를 안내합니다."
   }
 }

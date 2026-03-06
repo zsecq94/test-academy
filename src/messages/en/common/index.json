@@ -1,6 +1,6 @@
 {
   "locales": {
-    "kr": "KR",
+    "ko": "KR",
     "en": "EN",
     "fr": "FR",
     "ru": "RU"
@@ -34,7 +34,7 @@
   ],
 
   "menuOverlayText": {
-    "address": "REC’s Academy Smart Park<br></br>G Suite 201 & 207 13 Gyoyuk-gil,<br></br>Naju-si, Jeollanam-do, Republic of Korea",
+    "address": "REC’s Academy<br></br>Smart Park G Suite 201 & 207 13 Gyoyuk-gil,<br></br>Naju-si, Jeollanam-do, Republic of Korea",
     "email": "recsacademy@recss.co.kr",
     "phone": "+82 70 8230 7533 / +82 70 4351 1625<br></br>(Available on WhatsApp)",
     "title": "REC’s Academy"

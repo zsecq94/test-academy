@@ -15,7 +15,7 @@ export function Hero() {
           isOverlay={false}
         />
 
-        <h1 className="v1280:text-11xl from-primary to-accent bg-linear-to-r bg-clip-text text-center text-5xl leading-none font-bold text-transparent">
+        <h1 className="v1280:text-11xl from-primary to-accent bg-linear-to-r bg-clip-text p-7 text-center text-5xl leading-none font-bold text-transparent">
           {richKey(t, 'title')}
         </h1>
 

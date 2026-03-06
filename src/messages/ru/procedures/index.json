@@ -1,69 +1,75 @@
 {
-  "title": "Procedures",
-  "description": "REC’s Academy provides structured support across six key stages, guiding students from<br></br>the start of their study-abroad journey through admission and settlement in Korea.",
+  "title": "Процедуры",
+  "description": "REC’s Academy предоставляет структурированную поддержку через шесть ключевых этапов,<br></br>сопровождая студентов от начала проекта обучения за рубежом до поступления и обустройства в Корее.",
   "hero": {
-    "title": "Studying in Korea: How It Works",
-    "description": "Studying in Korea follows six structured steps, guiding students<br></br>from initial consultation through university admission, visa preparation, and settlement support."
+    "title": "Обучение в Корее: как это работает",
+    "description": "Обучение в Корее проходит по шести структурированным этапам,<br></br>которые ведут студентов от первичной консультации до поступления в университет, подготовки визы и поддержки при обустройстве."
   },
   "grid": [
     {
+      "step": "Этап 1.",
       "iconName": "briefcase",
-      "title": "Pre-Consultation",
-      "description": "We collect essential information such as:",
+      "title": "Предварительная консультация",
+      "description": "Мы собираем ключевую информацию о кандидате, включая:",
       "list": [
-        "Academic background",
-        "Intended major or field of study",
-        "Budget and timeline"
+        "академический путь,",
+        "желаемую область обучения,",
+        "предполагаемый бюджет и сроки."
       ],
-      "footerText": "This stage helps define a realistic and strategic study-abroad direction."
+      "footerText": "Этот первый этап позволяет определить реалистичный, последовательный и стратегический проект обучения за рубежом."
     },
     {
+      "step": "Этап 2.",
       "iconName": "listCheck",
-      "title": "University & Program Selection",
-      "description": "REC’s Academy compares and recommends suitable<br></br>Korean universities and majors based on each student’s<br></br>academic profile, goals, and eligibility.",
+      "title": "Выбор университета и программы",
+      "description": "REC’s Academy анализирует академический профиль, цели и критерии соответствия каждого студента, чтобы рекомендовать наиболее подходящие корейские университеты и программы.",
       "list": null,
       "footerText": null
     },
     {
+      "step": "Этап 3.",
       "iconName": "document",
-      "title": "Document Preparation",
-      "description": "We support the preparation and review of required application documents, including:",
+      "title": "Подготовка документов",
+      "description": "Мы сопровождаем студентов в подготовке и проверке всех необходимых документов, включая:",
       "list": [
-        "Personal statements",
-        "Study plans",
-        "Academic records and supporting materials"
+        "мотивационное письмо",
+        "учебный проект",
+        "академические выписки и дипломы, а также подтверждающие документы"
       ],
       "footerText": null
     },
     {
+      "step": "Этап 4.",
       "iconName": "edit",
-      "title": "University Application",
-      "description": "Applications and documents are submitted within official deadlines, and we assist students throughout the university selection process.",
+      "title": "Подача заявки",
+      "description": "Заявки подаются в соответствии с официальными сроками, и мы сопровождаем студентов на протяжении всего процесса университетского отбора.",
       "list": null,
       "footerText": null
     },
     {
+      "step": "Этап 5.",
       "iconName": "id",
-      "title": "Admission Result &<br></br>Visa Guidance",
-      "description": "Once admission is granted:",
+      "title": "Результаты поступления и сопровождение по визе",
+      "description": "После зачисления:",
       "list": [
-        "Students receive their official admission letter",
-        "REC’s Academy provides guidance on required visa documents and application procedures (Visa issuance is governed by Korean immigration authorities.)"
+        "студент получает официальное письмо о зачислении,",
+        "REC’s Academy предоставляет подробные рекомендации по необходимым документам и процедурам подачи на визу."
       ],
       "footerText": null
     },
     {
+      "step": "Этап 6.",
       "iconName": "home",
-      "title": "Departure &<br></br>Settlement Support",
-      "description": "We provide practical guidance for:",
+      "title": "Отъезд и обустройство",
+      "description": "Мы оказываем практическую помощь в:",
       "list": [
-        "Flight preparation",
-        "Accommodation arrangements",
-        "Initial settlement and orientation after arrival in Korea"
+        "подготовке к отъезду и перелёту,",
+        "организации проживания,",
+        "первоначальном обустройстве и ориентации после прибытия в Корею."
       ],
       "footerText": null
     }
   ],
 
-  "footerText": "This structured process ensures a<highlight>smooth and confident transition</highlight>into university life in Korea."
+  "footerText": "Данный структурированный процесс обеспечивает<highlight>плавный и уверенный переход</highlight>к университетской жизни в Корее."
 }

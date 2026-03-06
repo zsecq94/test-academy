@@ -1,129 +1,129 @@
 {
-  "title": "Program",
-  "description": "REC’s Academy offers structured language preparation, degree admission support, short-term study experiences,<br></br>and customized study-abroad pathways for international students aspiring to study in Korea.",
+  "title": "Программа",
+  "description": "REC’s Academy предлагает структурированную языковую подготовку, поддержку при поступлении на программы высшего образования, краткосрочные учебные программы,<br></br>а также индивидуальные образовательные маршруты для иностранных студентов, желающих учиться в Корее.",
   "sections": [
     {
       "bgColor": "accent",
-      "title": "Language Training",
-      "description": "via Partner Institutions",
+      "title": "Языковая подготовка",
+      "description": "(через партнёрские учреждения)",
       "banner": {
         "src": "/images/pages/program/thumb1.png",
         "alt": "Language Training",
-        "title": "Intensive Korean Language Study Program",
+        "title": "Интенсивная программа изучения корейского языка",
         "list": [
-          "REC’s Academy coordinates Korean language training in collaboration with <bold>university-affiliated language schools</bold> at national and private Korean universities.",
-          "Students develop core language skills, including <bold>speaking, listening, reading, and writing</bold> through structured, accredited programs."
+          "REC’s Academy координирует обучение корейскому языку в сотрудничестве с языковыми школами, аффилированными с государственными и частными университетами Кореи.",
+          "Студенты развивают базовые языковые навыки — устную речь, аудирование, чтение и письмо — благодаря аккредитованным и структурированным программам."
         ],
-        "buttonText": "Apply for Language Study Consultation"
+        "buttonText": "Консультация по обучению"
       },
 
       "items": [
         {
           "itemType": "key",
           "icon": "star",
-          "title": "Key Features",
+          "title": "Ключевые характеристики",
           "list": [
-            { "key": "Duration", "value": "10 weeks to 1 year" },
+            { "key": "Продолжительность", "value": "от 10 недель до 1 года" },
             {
-              "key": "Intakes",
-              "value": "4 times per year (March, June, September, December)"
+              "key": "Наборы",
+              "value": "4 раза в год (март, июнь, сентябрь, декабрь)"
             },
             {
-              "key": "Study Load",
-              "value": "20+ hours per week (regular classes)"
+              "key": "Учебная нагрузка",
+              "value": "более 20 часов в неделю (регулярные занятия)"
             },
-            { "key": "Outcome", "value": "Certificate of Completion" },
+            { "key": "Результат", "value": "сертификат об окончании обучения" },
             {
-              "key": "Progression",
-              "value": "Conditional admission to selected universities may be possible"
+              "key": "Прогрессия",
+              "value": "возможно условное зачисление в некоторые университеты"
             },
             {
-              "key": "Housing Support",
-              "value": "Guidance for dormitories or approved external accommodation"
+              "key": "Жилищная поддержка",
+              "value": "консультации по общежитиям или аккредитованному внешнему жилью"
             }
           ]
         },
         {
           "itemType": "list",
           "icon": "recommend",
-          "title": "Recommended For",
+          "title": "Рекомендуется для",
           "list": [
-            "Prospective international students preparing for Korean university entry",
-            "Learners seeking to improve Korean language proficiency",
-            "Students preparing for the <bold>TOPIK</bold> examination"
+            "Будущих иностранных студентов, готовящихся к поступлению в университеты Кореи.",
+            "Обучающихся, стремящихся улучшить уровень владения корейским языком.",
+            "Студентов, готовящихся к экзамену TOPIK."
           ]
         }
       ]
     },
     {
       "bgColor": "primary",
-      "title": "Degree Programs",
-      "description": "Bachelor’s / Master’s",
+      "title": "Дипломные программы",
+      "description": "Бакалавриат / Магистратура",
       "banner": {
         "src": "/images/pages/program/thumb2.png",
         "alt": "Degree Programs",
-        "title": "Korean University Degree Admission Support",
+        "title": "Поддержка при поступлении на программы высшего образования в Корее",
         "list": [
-          "REC’s Academy provides <bold>professional consulting and document support</bold> for international students applying<br></br>to <bold>Bachelor’s and Master’s degree programs</bold> at Korean universities.",
-          "We offer step-by-step guidance to help students meet academic, language, and institutional admission requirements."
+          "REC’s Academy предоставляет профессиональные консультации и документальное сопровождение для иностранных студентов, подающих заявки на программы бакалавриата и магистратуры в корейских университетах.",
+          "Мы предлагаем пошаговую поддержку, помогая студентам соответствовать академическим, языковым и институциональным требованиям для поступления."
         ],
-        "buttonText": "Apply for Degree Program Counseling"
+        "buttonText": "Консультация по дипломной программе"
       },
       "items": [
         {
           "itemType": "list",
           "icon": "star",
-          "title": "Key Features",
+          "title": "Ключевые характеристики",
           "list": [
-            "Guidance for admission to Korean universities (undergraduate & graduate levels)",
-            "Support for applicants planning a <bold>major change or long-term career development in Korea</bold>"
+            "Консультации по поступлению в корейские университеты (бакалавриат и программы последипломного образования).",
+            "Поддержка абитуриентов, планирующих смену специальности или долгосрочное развитие карьеры в Корее."
           ]
         },
         {
           "itemType": "list",
           "icon": "listCheck",
-          "title": "Our Support Includes",
+          "title": "Наша поддержка включает",
           "list": [
-            "Major counseling and university matching",
-            "Analysis of admission requirements (TOPIK, English proficiency, GPA, etc.)",
-            "Writing and editing of personal statements and study plans",
-            "Coordination of application submission and preparation for the selection process"
+            "Консультации по выбору специальности и подбору подходящего университета.",
+            "Анализ требований к поступлению (TOPIK, уровень владения английским языком, GPA и т. д.).",
+            "Подготовку и редактирование мотивационных писем и учебных проектов.",
+            "Координацию подачи заявок и подготовку к процессу отбора."
           ]
         }
       ]
     },
     {
       "bgColor": "secondary",
-      "title": "Short-term study abroad",
+      "title": "Краткосрочное обучение за рубежом",
       "description": null,
       "banner": {
         "src": "/images/pages/program/thumb3.png",
         "alt": "Short-term study abroad",
-        "title": "An intensive program that allows you to experience Korea for a short period of time",
+        "title": "Интенсивная программа, позволяющая познакомиться с Кореей за короткий период.",
         "list": [
-          "We offer short-term training programs that allow you to experience the Korean language,<br></br>culture, and university life for a short period of 3 to 8 weeks."
+          "Мы предлагаем краткосрочные учебные программы, которые дают возможность изучить корейский язык, культуру и университетскую жизнь в течение от 3 до 8 недель."
         ],
-        "buttonText": "Short-term Study Abroad Counseling"
+        "buttonText": "Консультация по краткосрочной программе"
       },
       "items": [
         {
           "itemType": "list",
           "icon": "star",
-          "title": "Key Features",
+          "title": "Ключевые характеристикиs",
           "list": [
-            "Foreign students who want to experience Korea during their vacation",
-            "Prospective international students who want to experience the Korean university environment before enrolling"
+            "Иностранные студенты, желающие познакомиться с Кореей во время каникул.",
+            "Будущие иностранные студенты, которые хотят заранее познакомиться с корейской университетской средой перед поступлением."
           ]
         },
         {
           "itemType": "list",
           "icon": "recommend",
-          "title": "Recommended For",
+          "title": "Рекомендуется для",
           "list": [
-            "Program duration: 3-8 weeks",
-            "Korean language classes + cultural experiences (hanbok, traditional food, company tours, etc.)",
-            "Accommodation provided on or connected to the university campus",
-            "Issuance of the certificate of completion and provision of confirmation of participation"
+            "Продолжительность программы: от 3 до 8 недель.",
+            "курсы корейского языка + культурные мероприятия (ханбок, традиционная кухня, визиты на предприятия и др.).",
+            "предоставляется на территории университета или поблизости.",
+            "выдаётся сертификат об окончании программы и справка об участии."
           ]
         }
       ]

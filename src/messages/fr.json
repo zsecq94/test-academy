@@ -1,122 +1,122 @@
 {
   "about": {
-    "title": "About the Universities",
-    "description": "REC’s Academy partners with universities across Korea,<br></br>helping international students identify institutions that best match their academic goals, majors, and eligibility.",
+    "title": "À propos des universités",
+    "description": "La REC’s Academy est partenaire d'universités à travers toute la Corée,<br></br>aidant les étudiants internationaux à identifier les établissements qui correspondent le mieux à leurs objectifs académiques, à leurs spécialisations et à leur éligibilité.",
     "hero": {
-      "title": "Explore Top Korean Universities<br></br>By Your Major and Academic Goals",
-      "description": "REC’s Academy partners with universities across Korea,<br></br>offering international students a wide range of academic options. Compare locations,<br></br>majors, and admission requirements to find the university that best matches your goals and eligibility."
+      "title": "Explorez les meilleures universités coréennes<br></br>selon votre spécialisation et vos objectifs académiques",
+      "description": "La REC’s Academy est partenaire d'universités à travers toute la Corée,<br></br>offrant aux étudiants internationaux un large éventail d'options académiques.<br></br>Comparez les emplacements, les spécialisations et les conditions d'admission pour trouver l'université qui correspond le mieux à vos objectifs et à votre éligibilité."
     },
     "swiper": {
-      "title": "Expanding Global<br></br>University Network",
-      "description": "Official partnerships<br></br>with universities you can trust",
+      "title": "Un réseau universitaire international en pleine expansion",
+      "description": "Nous développons des partenariats institutionnels solides avec des universités reconnues et fiables.",
       "items": [
         {
-          "title": "Kukdong University",
+          "title": "Université Kukdong",
           "url": "https://www.kdu.ac.kr/en",
           "logo": "/images/pages/about/kdu_logo.png",
           "list": [
             {
               "icon": "map",
-              "key": "Location",
+              "key": "Localisation",
               "value": "Eumseong-gun, Chungcheongbuk-do"
             },
             {
               "icon": "category",
-              "key": "Category",
-              "value": "Private"
+              "key": "Statut",
+              "value": "Université privée"
             },
             {
               "icon": "archive",
-              "key": "Key Academic Fields",
-              "value": "Smart Energy, Aviation, Engineering,<br></br>Health Sciences, and Global Business."
+              "key": "Domaines d’excellence",
+              "value": "Énergie intelligente, aviation, ingénierie, sciences de la santé et commerce international."
             }
           ]
         },
         {
-          "title": "Dongshin University",
+          "title": "Université Dongshin",
           "url": "https://www.dongshin.ac.kr/eng",
           "logo": "/images/pages/about/dsu_logo.png",
           "list": [
             {
               "icon": "map",
-              "key": "Location",
+              "key": "Localisation",
               "value": "Naju-si, Jeollanam-do"
             },
             {
               "icon": "category",
-              "key": "Category",
-              "value": "Private"
+              "key": "Statut",
+              "value": "Université privée"
             },
             {
               "icon": "archive",
-              "key": "Key Academic Fields",
-              "value": "Energy IoT, Battery Engineering (ESS),<br></br>AI Management,<br></br>and Electrical Engineering."
+              "key": "Domaines d’excellence",
+              "value": "Internet des objets (IoT) appliqué à l’énergie, ingénierie des systèmes de stockage d’énergie (ESS), gestion de l’intelligence artificielle et génie électrique."
             }
           ]
         },
         {
-          "title": "Kukdong University",
+          "title": "Université Kukdong",
           "url": "https://www.kdu.ac.kr/en",
           "logo": "/images/pages/about/kdu_logo.png",
           "list": [
             {
               "icon": "map",
-              "key": "Location",
+              "key": "Localisation",
               "value": "Eumseong-gun, Chungcheongbuk-do"
             },
             {
               "icon": "category",
-              "key": "Category",
-              "value": "Private"
+              "key": "Statut",
+              "value": "Université privée"
             },
             {
               "icon": "archive",
-              "key": "Key Academic Fields",
-              "value": "Smart Energy, Aviation, Engineering,<br></br>Health Sciences, and Global Business."
+              "key": "Domaines d’excellence",
+              "value": "Énergie intelligente, aviation, ingénierie, sciences de la santé et commerce international."
             }
           ]
         },
         {
-          "title": "Dongshin University",
+          "title": "Université Dongshin",
           "url": "https://www.dongshin.ac.kr/eng",
           "logo": "/images/pages/about/dsu_logo.png",
           "list": [
             {
               "icon": "map",
-              "key": "Location",
+              "key": "Localisation",
               "value": "Naju-si, Jeollanam-do"
             },
             {
               "icon": "category",
-              "key": "Category",
-              "value": "Private"
+              "key": "Statut",
+              "value": "Université privée"
             },
             {
               "icon": "archive",
-              "key": "Key Academic Fields",
-              "value": "Energy IoT, Battery Engineering (ESS),<br></br>AI Management,<br></br>and Electrical Engineering."
+              "key": "Domaines d’excellence",
+              "value": "Internet des objets (IoT) appliqué à l’énergie, ingénierie des systèmes de stockage d’énergie (ESS), gestion de l’intelligence artificielle et génie électrique."
             }
           ]
         },
         {
-          "title": "Kukdong University",
+          "title": "Université Kukdong",
           "logo": "/images/pages/about/kdu_logo.png",
           "url": "https://www.kdu.ac.kr/en",
           "list": [
             {
               "icon": "map",
-              "key": "Location",
+              "key": "Localisation",
               "value": "Eumseong-gun, Chungcheongbuk-do"
             },
             {
               "icon": "category",
-              "key": "Category",
-              "value": "Private"
+              "key": "Statut",
+              "value": "Université privée"
             },
             {
               "icon": "archive",
-              "key": "Key Academic Fields",
-              "value": "Smart Energy, Aviation, Engineering,<br></br>Health Sciences, and Global Business."
+              "key": "Domaines d’excellence",
+              "value": "Énergie intelligente, aviation, ingénierie, sciences de la santé et commerce international."
             }
           ]
         }
@@ -125,7 +125,7 @@
   },
   "common": {
     "locales": {
-      "kr": "KR",
+      "ko": "KR",
       "en": "EN",
       "fr": "FR",
       "ru": "RU"
@@ -136,15 +136,15 @@
         "path": "/introduction"
       },
       {
-        "name": "Program",
+        "name": "Programme",
         "path": "/program"
       },
       {
-        "name": "About the Universities",
+        "name": "À propos des universités",
         "path": "/about-the-universities"
       },
       {
-        "name": "Procedures",
+        "name": "Procédures",
         "path": "/procedures"
       },
       {
@@ -157,25 +157,25 @@
       }
     ],
     "menuOverlayText": {
-      "address": "REC’s Academy Smart Park<br></br>G Suite 201 & 207 13 Gyoyuk-gil,<br></br>Naju-si, Jeollanam-do, Republic of Korea",
+      "address": "REC’s Academy<br></br>Smart Park Bureau G, Suites 201 & 207,<br></br>13 Gyoyuk-gil, Naju-si, Jeollanam-do, République de Corée",
       "email": "recsacademy@recss.co.kr",
-      "phone": "+82 70 8230 7533 / +82 70 4351 1625<br></br>(Available on WhatsApp)",
+      "phone": "+82 70 8230 7533 / +82 70 4351 1625<br></br>(disponible sur WhatsApp)",
       "title": "REC’s Academy"
     },
     "footerSection1": {
-      "title": "Welcome to <medium>REC’s Academy</medium>",
-      "topButton": "BACK TO TOP",
+      "title": "Bienvenue à <medium>REC’s Academy</medium>",
+      "topButton": "Retour en haut",
       "mobileTopButton": "TOP"
     },
     "footerSection2": {
-      "siteMapText": "Site Map",
+      "siteMapText": "Plan du site",
       "links": [
         {
-          "name": "Privacy Policy",
+          "name": "Politique de confidentialité",
           "path": "/privacy-policy"
         },
         {
-          "name": "Terms of Use",
+          "name": "Conditions d’utilisation",
           "path": "/terms-of-use"
         }
       ],
@@ -183,24 +183,24 @@
         "title": "REC’s Academy Email",
         "email": "recsacademy@recss.co.kr"
       },
-      "copyright": "© 2026 REC’s Academy. All rights Reserved."
+      "copyright": "© 2025 REC’s Academy. Tous droits réservés."
     }
   },
   "contact": {
     "title": "Contact",
     "tabs": [
       {
-        "title": "Korea Headquarters",
+        "title": "Siège en Corée",
         "subTitle": null,
         "items": [
           {
             "render": "text",
-            "key": "Location",
-            "value": "Naju City, Republic of Korea"
+            "key": "Localisation",
+            "value": "Naju-si, République de Corée"
           },
           {
             "render": "text",
-            "key": "Address",
+            "key": "Adresse",
             "value": "REC’s Academy Smart Park – G Suite 201 & 207 13 Gyoyuk-gil, Naju-si, Jeollanam-do, Republic of Korea"
           },
           {
@@ -210,7 +210,7 @@
           },
           {
             "render": "list",
-            "key": "Phone",
+            "key": "Téléphone",
             "value": [
               "+82 70 4351 1625",
               "+82 70 8230 7533"
@@ -219,17 +219,17 @@
         ]
       },
       {
-        "title": "Uganda Office",
-        "subTitle": "Regional Office",
+        "title": "Bureau en Ouganda",
+        "subTitle": "Bureau régional",
         "items": [
           {
             "render": "text",
-            "key": "Country Director",
+            "key": "Directeur national",
             "value": "David Kiryapawo"
           },
           {
             "render": "text",
-            "key": "Address",
+            "key": "Adresse",
             "value": "Plot 4–5, Nyabong Road, Off Wampewo Avenue Suite 305A, BMK House Next to Hotel Avenue, Kampala, Uganda"
           },
           {
@@ -242,26 +242,26 @@
           },
           {
             "render": "list",
-            "key": "Phone",
+            "key": "Téléphone",
             "value": [
               "+256 760 105 934",
-              "+256 783 187 534(Available on WhatsApp)"
+              "+256 783 187 534(Disponible sur WhatsApp)"
             ]
           }
         ]
       },
       {
-        "title": "DR Congo Office",
-        "subTitle": "Regional Office",
+        "title": "Bureau en RDC",
+        "subTitle": "Bureau régional",
         "items": [
           {
             "render": "text",
-            "key": "Country Director",
+            "key": "Directeur national",
             "value": "Biaya Greg"
           },
           {
             "render": "text",
-            "key": "Address",
+            "key": "Adresse",
             "value": "16, Avenue Matobo Quartier Golf Lido Lubumbashi, DRC (Reference: École Ufundi)"
           },
           {
@@ -274,27 +274,27 @@
           },
           {
             "render": "list",
-            "key": "Phone",
+            "key": "Téléphone",
             "value": [
-              "<semibold>Kinshasa:</semibold> +243 900 265 268 / +243 828 296 043",
-              "<semibold>Lubumbashi:</semibold> +243 900 268 268(Available on WhatsApp)"
+              "<semibold>Kinshasa :</semibold> +243 900 265 268 / +243 828 296 043",
+              "<semibold>Lubumbashi :</semibold> +243 900 268 268(Disponible sur WhatsApp)"
             ]
           }
         ]
       },
       {
-        "title": "Ghana Office",
-        "subTitle": "Partner Office",
+        "title": "Bureau au Ghana",
+        "subTitle": "Bureau partenaire",
         "items": [
           {
             "render": "text",
-            "key": "Office Name",
+            "key": "Nom du bureau",
             "value": "MENS-K EXPRESS GLOBAL LTD"
           },
           {
             "render": "text",
-            "key": "Address",
-            "value": "Darkuman, Opposite Accra Station - Accra, Ghana"
+            "key": "Adresse",
+            "value": "Darkuman, Opposite Accra Station - Accra, Ghana"
           },
           {
             "render": "text",
@@ -303,24 +303,24 @@
           },
           {
             "render": "list",
-            "key": "Phone",
+            "key": "Téléphone",
             "value": [
-              "<semibold>Ghana:</semibold>  +233 30 230 9477 / +233 25 696 3100",
-              "<semibold>Dubai:</semibold>  +971 (0) 54 324 4267"
+              "<semibold>Ghana :</semibold>  +233 30 230 9477 / +233 25 696 3100",
+              "<semibold>Dubaï :</semibold>  +971 (0) 54 324 4267"
             ]
           },
           {
             "render": "text",
-            "key": "Website",
+            "key": "Site web",
             "value": "www.menskexpressgloballtd.com"
           }
         ]
       }
     ],
-    "comfirm": {
-      "title": "Online Inquiry",
-      "subTitle": "Do You Have Questions About Studying in Korea?",
-      "description": "If you have any questions about studying in Korea, feel free to contact <semibold>REC’s Academy.</semibold><br></br>You may ask about majors, university selection, costs, admission requirements, visas, or any other study-abroad-related concerns.<br></br>Our experienced study-abroad consultants will review your inquiry and respond <semibold>within 24 hours.</semibold>",
+    "confirm": {
+      "title": "Demande en ligne",
+      "subTitle": "Avez-vous des questions sur les études en Corée ?",
+      "description": "Si vous avez des questions concernant les études en Corée, n'hésitez pas à contacter <semibold>REC’s Academy.</semibold><br></br>Vous pouvez poser des questions sur les filières, le choix des universités, les frais, les conditions d’admission, les visas ou tout autre sujet lié aux études à l’étranger.<br></br>Nos conseillers spécialisés examineront votre demande et vous répondront <semibold>dans les 24 heures.</semibold>",
       "display": {
         "key": "Email",
         "value": "recsacademy@recss.co.kr"
@@ -329,18 +329,18 @@
         {
           "type": "input",
           "id": "name",
-          "label": "Name",
+          "label": "Nom",
           "description": null,
           "required": true,
-          "placeholder": "Value"
+          "placeholder": "Valeur"
         },
         {
           "type": "input",
           "id": "nationality",
-          "label": "Nationality",
+          "label": "Nationalité",
           "description": null,
           "required": true,
-          "placeholder": "Value"
+          "placeholder": "Valeur"
         },
         {
           "type": "input",
@@ -348,41 +348,41 @@
           "label": "Email",
           "description": null,
           "required": true,
-          "placeholder": "Value"
+          "placeholder": "Valeur"
         },
         {
           "type": "input",
           "id": "contactable",
-          "label": "Contactable messenger ID or phone number",
+          "label": "ID de messagerie ou numéro de téléphone joignable",
           "description": "WhatsApp / KakaoTalk / Telegram, etc.",
           "required": true,
-          "placeholder": "Value"
+          "placeholder": "Valeur"
         },
         {
           "type": "radio-group",
           "id": "area",
-          "label": "Area of Interest",
-          "description": "Please select one or more",
+          "label": "Domaine d'intérêt",
+          "description": "Veuillez sélectionner une ou plusieurs options",
           "required": false,
           "options": [
             {
-              "label": "I would like to receive a university and major recommendation",
+              "label": "Je souhaite recevoir des recommandations d’universités et de spécialités",
               "value": "recommendation"
             },
             {
-              "label": "I would like to understand the admission requirements",
+              "label": "Je souhaite comprendre les conditions d’admission",
               "value": "admission"
             },
             {
-              "label": "Visa and living consultation",
+              "label": "Consultation sur le visa et la vie en Corée",
               "value": "visa"
             },
             {
-              "label": "Study pathway planning (Language → Degree/Direct Degree)",
+              "label": "Planification du parcours d’études (Langue → Diplôme / Diplôme direct)",
               "value": "pathway"
             },
             {
-              "label": "Other inquiries (please specify)",
+              "label": "Autres questions (veuillez préciser)",
               "value": "other"
             }
           ]
@@ -390,84 +390,84 @@
         {
           "type": "textarea",
           "id": "inquiry",
-          "label": "Inquiry Details",
-          "description": "Please describe your academic background, interests, or questions in detail.",
+          "label": "Détails de la demande",
+          "description": "Veuillez décrire en détail votre parcours académique, vos intérêts ou vos questions.",
           "required": true,
-          "placeholder": "Value"
+          "placeholder": "Valeur"
         },
         {
           "type": "checkbox",
           "id": "agree",
-          "label": "I agree to the collection and use of my personal information.",
+          "label": "J’accepte la collecte et l’utilisation de mes informations personnelles.",
           "required": true
         }
       ],
-      "buttonText": "Confirm",
-      "footerText": "REC’s Academy helps students determine the most appropriate visa pathway based on their goals."
+      "buttonText": "Envoyer",
+      "footerText": "REC’s Academy aide les étudiants à choisir la voie de visa la plus adaptée à leurs objectifs."
     }
   },
   "guide": {
     "title": "Guide",
-    "description": "REC’s Academy provides a practical settlement guide to help international students preparing to study in Korea,<br></br>or those who have just arrived, quickly access essential information for daily life and smooth academic adjustment.",
+    "description": "REC’s Academy propose un guide d'installation pratique pour aider les étudiants internationaux se préparant à étudier en Corée, ou ceux qui viennent d'arriver,<br></br>à accéder rapidement aux informations essentielles pour la vie quotidienne et à s'adapter sereinement à leur nouvel environnement académique.",
     "links": [
       {
         "bg": "/images/pages/guide/thumb1.png",
         "icon": "/images/pages/guide/school.png",
-        "title": "Is it possible to enter<br></br>a Korean university without TOPIK?",
-        "description": "Studying in Korea without TOPIK is possible,<br></br>depending on your university and major.",
+        "title": "Est-il possible d'entrer dans<br></br>une université coréenne sans le TOPIK?",
+        "description": "Étudier en Corée sans le TOPIK est possible,<br></br>selon votre université et votre spécialisation.",
         "url": "/guide/without-topik"
       },
       {
         "bg": "/images/pages/guide/thumb2.png",
         "icon": "/images/pages/guide/rocket.png",
-        "title": "Studying in Korea<br></br>Where should I start?",
-        "description": "A step-by-step guide for international students starting<br></br>their study-abroad journey in Korea.",
+        "title": "Étudier en Corée<br></br>par où commencer?",
+        "description": "Un guide étape par étape pour les étudiants internationaux commençant<br></br>leur voyage d'études à l'étranger en Corée.",
         "url": "/guide/getting-started"
       }
     ],
     "withoutTopik": {
       "section1": {
-        "text1": "If you are considering studying abroad in Korea,<br></br>one of the most common questions you will encounter is:<br></br><bold>Is TOPIK (Test of Proficiency in Korean) really necessary?</bold>",
-        "text2": "For students who are new to the Korean language,<br></br>high TOPIK score requirements can feel daunting.",
-        "text3": "However, with the expansion of <bold>English-taught programs, conditional admissions,</bold><br></br>and <bold>language linked pathways,</bold><br></br>it is increasingly possible to study in Korea <bold>without TOPIK,</bold><br></br>depending on your chosen university and major.",
-        "text4": "In this guide, REC’s Academy explains:",
+        "text1": "Si vous envisagez d'étudier à l'étranger en Corée,<br></br>l'une des questions les plus courantes que vous rencontrerez est la suivante:<br></br><bold>Le TOPIK (Test de compétence en coréen) est-il vraiment nécessaire?</bold>",
+        "text2": "Pour les étudiants qui découvrent la langue coréenne,<br></br>les exigences d'un score TOPIK élevé peuvent sembler intimidantes.",
+        "text3": "Cependant, avec l'expansion des <bold>programmes enseignés en anglais, </bold><br></br>des <bold>admissions conditionnelles,</bold> et des <bold>parcours liés à la langue,</bold><br></br>il est de plus en plus possible d'étudier en Corée <bold>sans le TOPIK,</bold><br></br>selon l'université et la spécialisation choisies.",
+        "text4": "Dans ce guide, la REC’s Academy explique :",
         "list": [
-          "When TOPIK is<br></br>required",
-          "When TOPIK is<br></br>not required",
-          "Realistic admission pathways<br></br>even without TOPIK"
+          "Quand le TOPIK<br></br>est requis",
+          "Quand le TOPIK<br></br>n'est pas requis",
+          "Les voies d'admission<br></br>réalistes même sans le TOPIK"
         ]
       },
       "section2": {
         "questions": [
-          "Are There Universities<br></br>You Can Enter Without TOPIK?",
-          "Admission Based<br></br>on English Proficiency",
-          "Conditional Admission &<br></br>Language-Linked Programs",
-          "Are There TOPIK Requirements<br></br>After Admission?",
-          "Things to Consider<br></br>When Choosing a university"
+          "Existe-t-il des universités<br></br>où l'on peut entrer sans le TOPIK ?",
+          "Admission basée sur<br></br>la maîtrise de l'anglais",
+          "Admission conditionnelle<br></br>et programmes liés à la langue",
+          "Existe-t-il des exigences<br></br>de TOPIK après l'admission?",
+          "Éléments à prendre en compte<br></br>lors du choix d'une université"
         ],
         "eligibility": {
-          "q": "Are There Universities You Can Enter Without TOPIK?",
-          "a": "Yes.",
-          "title": "Many Korean universities operate admission processes for international students that <semibold>do not require TOPIK at the time of application,</semibold> or that evaluate applicants based on alternative criteria.",
+          "q": "Existe-t-il des universités où l'on peut entrer sans le TOPIK?",
+          "a": "Oui.",
+          "title": "De nombreuses universités coréennes gèrent des processus d'admission pour les étudiants internationaux qui <semibold>ne requièrent pas le TOPIK au moment de la candidature,</semibold> ou qui évaluent les candidats sur la base de critères alternatifs.",
           "display": {
-            "title": "TOPIK may not be required for:",
+            "title": "Le TOPIK peut ne pas être requis pour:",
             "list": [
-              "<semibold>Global Studies / International Programs</semibold>",
-              "<semibold>Departments taught entirely in English</semibold>",
-              "Programs where admissions focus more on:"
+              "<semibold>Les études globales / Programmes internationaux</semibold>",
+              "<semibold>Les départements dont les cours sont entièrement dispensés en anglais</semibold>",
+              "Les programmes où l'admission se concentre davantage sur:"
             ],
             "items": [
-              "Academic background",
-              "Portfolios",
-              "Interviews",
-              "Motivation and study plans"
+              "Le parcours académique",
+              "Les portfolios",
+              "Les entretiens",
+              "La motivation et les projets d'études"
             ]
           },
-          "footerText": "In such cases, TOPIK is <semibold>not a prerequisite for admission.</semibold><br></br>REC’s Academy helps students identify universities and majors where TOPIK is not initially required<br></br>and where admission pathways are realistic."
+          "footerText": "Dans ces cas précis, le TOPIK n'est <semibold>pas un prérequis pour l'admission.</semibold><br></br>La REC’s Academy aide les étudiants à identifier les universités et les spécialisations où le TOPIK n'est pas initialement requis et où les parcours d'admission sont réalistes."
         },
         "english": {
-          "q": "Admission process based on English proficiency",
-          "title": "Many Korean universities offer <semibold>English-taught degree programs</semibold><br></br>and accept internationally recognized English test scores, such as:",
+          "q": "Processus d’admission basé sur la maîtrise de l’anglais",
+          "title": "De nombreuses universités coréennes proposent des <semibold>programmes de diplôme enseignés en anglais </semibold><br></br>et acceptent des scores de tests d'anglais reconnus internationalement, tels que:",
           "table": {
             "head": [
               "Test",
@@ -488,238 +488,238 @@
               }
             ]
           },
-          "footerText": "In some cases, students from <semibold>English-speaking countries</semibold> may be exempt from English proficiency requirements. REC’s Academy evaluates each student’s English level and matches them with suitable English-based programs."
+          "footerText": "Dans certains cas, les étudiants originaires de <semibold>pays anglophones</semibold> peuvent être exemptés des exigences de maîtrise de l'anglais. La REC’s Academy évalue le niveau d'anglais de chaque étudiant et le met en correspondance avec des programmes basés sur l'anglais appropriés."
         },
         "conditional": {
-          "q": "Conditional Admission & Language-Linked Programs",
-          "title": "If you do not have TOPIK but wish to enroll in a Korean-taught degree program, you may apply through:",
+          "q": "Admission conditionnelle et programmes liés à la langue",
+          "title": "Si vous n'avez pas le TOPIK mais souhaitez vous inscrire à un programme de diplôme enseigné en coréen, vous pouvez postuler via:",
           "list": [
             {
-              "title": "Conditional Admission",
+              "title": "Admission conditionnelle",
               "items": [
                 {
-                  "title": "Admission is granted on the condition that the student achieves a required Korean level within a specified period.",
+                  "title": "L'admission est accordée à condition que l'étudiant atteigne le niveau de coréen requis dans un délai spécifié.",
                   "list": []
                 },
                 {
-                  "title": "Progress may be assessed through:",
+                  "title": "Les progrès peuvent être évalués par:",
                   "list": [
-                    "University-administered tests",
-                    "Completion of required language courses"
+                    "Des tests administrés par l'université",
+                    "La réussite des cours de langue requis"
                   ]
                 }
               ]
             },
             {
-              "title": "Language-Linked Pathway",
+              "title": "Parcours lié à la langue",
               "items": [
                 {
-                  "title": "Students first enroll in a <semibold>university-affiliated Korean language institute.</semibold>",
+                  "title": "Les étudiants s'inscrivent d'abord dans un <semibold>institut de langue coréenne affilié à une université.</semibold>",
                   "list": []
                 },
                 {
-                  "title": "After reaching the required level, they transition into a degree program.",
+                  "title": "Après avoir atteint le niveau requis, ils passent à un programme de diplôme.",
                   "list": []
                 }
               ]
             },
             {
-              "title": "This pathway typically involves:",
+              "title": "Ce parcours implique généralement:",
               "items": [
                 {
-                  "title": "Entry to Korea on a <semibold>D-4 (language) visa</semibold>",
+                  "title": "Une entrée en Corée avec un <semibold>visa D-4 (langue)</semibold>",
                   "list": []
                 },
                 {
-                  "title": "Later change to a <semibold>D-2 (degree) visa</semibold>",
+                  "title": "Un changement ultérieur pour un <semibold>visa D-2 (diplôme)</semibold>",
                   "list": []
                 }
               ]
             }
           ],
-          "footerText": "REC’s Academy explains these options clearly and helps students plan <semibold>realistic timelines.</semibold>"
+          "footerText": "REC’s Academy explique ces options clairement et aide les étudiants à planifier des calendriers réalistes."
         },
         "topik": {
-          "q": "Are There TOPIK Requirements After Admission?",
-          "title": "Even if TOPIK is not required for admission, some universities require TOPIK for graduation.<br></br>Common graduation-related requirements include:",
+          "q": "Existe-t-il des exigences de TOPIK après l'admission?",
+          "title": "Même si le TOPIK n'est pas requis pour l'admission, certaines universités l'exigent pour l'obtention du diplôme.<br></br>Les exigences courantes liées à l'obtention du diplôme comprennent:",
           "list": [
-            "Submission of a TOPIK score (often <semibold>Level 4 or higher</semibold>)",
-            "Passing university-administered Korean proficiency evaluations",
-            "Completion of mandatory Korean language courses"
+            "Soumission d'un score TOPIK (souvent de <semibold>niveau 4 ou supérieur</semibold>)",
+            "Réussite des évaluations de compétence en coréen administrées par l'université.",
+            "Achèvement de cours de langue coréenne obligatoires."
           ],
           "footerDisplay": {
             "title": "Important",
-            "description": "Always check <semibold>graduation requirements,</semibold> not just admission conditions.<br></br>REC’s Academy reviews both admission and graduation language requirements before students apply."
+            "description": "Vérifiez toujours les <semibold>exigences de l'obtention du diplôme,</semibold> et pas seulement les conditions d'admission.<br></br>La REC’s Academy examine à la fois les exigences linguistiques d'admission et d'obtention du diplôme avant que les étudiants ne postulent."
           }
         },
         "considerations": {
-          "q": "Things to Consider When Choosing a university",
-          "title": "If you plan to apply without TOPIK, carefully check:",
+          "q": "Éléments à prendre en compte lors du choix d'une université",
+          "title": "Si vous prévoyez de postuler sans le TOPIK, vérifiez attentivement:",
           "list": [
-            "Are <semibold>English-taught courses</semibold> available?",
-            "Is <semibold>English-based or conditional admission</semibold> offered?",
-            "Does the university operate a <semibold>language institute</semibold>?",
-            "Is TOPIK required for <semibold>graduation</semibold>?",
-            "Are language requirements clearly stated in official guidelines?"
+            "Des <semibold>cours enseignés en anglais</semibold> sont-ils disponibles?",
+            "Une <semibold>admission basée sur l'anglais ou conditionnelle</semibold> est-elle proposée?",
+            "L'université gère-t-elle un <semibold>institut de langue</semibold>?",
+            "Le TOPIK est-il requis pour l'obtention du <semibold>diplôme</semibold>?",
+            "Les exigences linguistiques sont-elles clairement énoncées dans les directives officielles?"
           ],
           "footerDisplay": {
             "title": "Note",
-            "description": "Language requirements may vary by major. Programs in <semibold>arts, design, and physical education</semibold> often have more flexible standards than theory-heavy majors."
+            "description": "Les exigences linguistiques peuvent varier selon la spécialisation.<br></br>Les programmes en <semibold>arts, design et éducation physique</semibold> ont souvent des critères plus souples que les spécialisations théoriques plus denses."
           }
         }
       },
       "section3": {
         "title": "Conclusion",
-        "description": "Studying in Korea <semibold>without TOPIK is possible,</semibold> but it requires <semibold>strategic planning.</semibold>",
+        "description": "Étudier en Corée <semibold>sans le TOPIK est possible,</semibold> mais cela nécessite une <semibold>planification stratégique.</semibold>",
         "list": [
           {
-            "title": "By using:",
+            "title": "En utilisant:",
             "items": [
-              "English proficiency–based admissions",
-              "Conditional or language-linked pathways",
-              "Careful university and major selection"
+              "Les admissions basées sur la maîtrise de l'anglais",
+              "Les parcours conditionnels ou liés à la langue",
+              "Une sélection minutieuse de l'université et de la spécialisation"
             ]
           },
           {
-            "title": "Students can successfully enter Korean universities even without prior Korean language certification.<br></br>REC’s Academy supports students by:",
+            "title": "Les étudiants peuvent entrer avec succès dans les universités coréennes même sans certification préalable en langue coréenne. La REC’s Academy soutient les étudiants en:",
             "items": [
-              "Evaluating academic and language readiness",
-              "Identifying realistic admission pathways",
-              "Providing structured, compliant, and transparent guidance"
+              "Évaluant la préparation académique et linguistique",
+              "Identifiant des parcours d'admission réalistes",
+              "Fournissant un accompagnement structuré, conforme et transparent"
             ]
           }
         ],
-        "description2": "There are many ways to open the door to studying in Korea.<br></br><semibold>The most important step is choosing the path that fits you best.</semibold>",
+        "description2": "Il existe de nombreuses façons d'ouvrir la porte aux études en Corée.<br></br><semibold>L'étape la plus importante est de choisir le chemin qui vous convient le mieux.</semibold>",
         "display": {
-          "title": "Contact REC’s Academy",
-          "description": "For personalized guidance on studying at a Korean university",
+          "title": "Contactez la REC’s Academy",
+          "description": "Pour un accompagnement personnalisé sur les études dans une université coréenne:",
           "email": "recsacademy@recss.co.kr"
         }
       }
     },
     "gettingStarted": {
       "section1": {
-        "text1": "If you are considering studying abroad in Korea, you may wonder where to begin.<br></br>Admission requirements, language preparation, visas,<br></br>and university selection can feel overwhelming at first.",
-        "text2": "This guide provides a <semibold>step-by-step starting point</semibold><br></br>for international students, especially from <semibold>Africa and Central Asia,</semibold><br></br>who are beginning their study-abroad planning."
+        "text1": "Si vous envisagez d'étudier à l'étranger en Corée, vous vous demandez peut-être par où commencer.<br></br>Les conditions d'admission, la préparation linguistique, les visas et la sélection de l'université peuvent sembler accablants au début.",
+        "text2": "Ce guide fournit un <semibold>point de départ étape par étape</semibold><br></br>pour les étudiants internationaux, en particulier ceux <semibold>d'Afrique et d'Asie centrale,</semibold><br></br>qui commencent la planification de leur projet d'études à l'étranger."
       },
       "section2": {
         "questions": [
-          "Visa Types:<br></br>Which Visa Do You Need?",
-          "Language Requirements:<br></br>Korean vs. English",
-          "How to Choose<br></br>the Right University",
-          "Recommended<br></br>Preparation Order?"
+          "Types de visa:<br></br>De quel visa avez-vous besoin?",
+          "Exigences linguistiques:<br></br>Coréen vs Anglais",
+          "Comment choisir<br></br>la bonne université",
+          "Ordre de<br></br>préparation recommandé"
         ],
         "visa": {
-          "title": "Visa Types: Which Visa Do You Need?",
-          "description": "The first step is identifying your <semibold>study goal,</semibold> as your visa depends on it.",
+          "title": "Types de visa : De quel visa avez-vous besoin?",
+          "description": "La première étape consiste à identifier votre <semibold>objectif d'études,</semibold> car votre visa en dépend.",
           "list": [
             {
-              "title": "D-2 Visa (Degree Program)",
+              "title": "Visa D-2 (Programme de diplôme)",
               "items": [
                 {
-                  "title": "issued to students admitted to:",
+                  "title": "Délivré aux étudiants admis en:",
                   "list": [
-                    "Bachelor’s programs",
-                    "Master’s programs",
-                    "PhD programs"
+                    "Programmes de Licence",
+                    "Programmes de Master",
+                    "Programmes de Doctorat"
                   ]
                 }
               ]
             },
             {
-              "title": "D-4 Visa (Language / Non-Degree Study)",
+              "title": "Visa D-4 (Langue / Études sans diplôme)",
               "items": [
                 {
-                  "title": "Issued to students enrolling in:",
+                  "title": "Délivré aux étudiants s'inscrivant en :",
                   "list": [
-                    "Korean language programs",
-                    "Other non-degree courses"
+                    "Programmes de langue coréenne",
+                    "Autres cours certifiants sans diplôme"
                   ]
                 },
                 {
-                  "title": "Your visa type affects:",
+                  "title": "Votre type de visa affecte:",
                   "list": [
-                    "Length of stay",
-                    "Part-time work permissions",
-                    "Required documents and compliance obligations"
+                    "La durée du séjour",
+                    "Les autorisations de travail à temps partiel",
+                    "Les documents requis et les obligations de conformité"
                   ]
                 }
               ]
             }
           ],
-          "footerText": "REC’s Academy helps students determine the most appropriate visa pathway based on their goals."
+          "footerText": "La REC’s Academy aide les étudiants à déterminer le parcours de visa le plus approprié en fonction de leurs objectifs.."
         },
         "language": {
-          "title": "Language Requirements: Korean vs. English",
-          "description": "Korean universities usually require proof of language proficiency.",
+          "title": "Exigences linguistiques: Coréen vs Anglais",
+          "description": "Les universités coréennes exigent généralement une preuve de compétence linguistique.",
           "list": [
             {
-              "title": "Korean (TOPIK)",
-              "subTitle": "Typical requirements:",
+              "title": "Coréen (TOPIK)",
+              "subTitle": "Exigences typiques:",
               "list": [
-                "Undergraduate: TOPIK Level 3-4+",
-                "Graduate: TOPIK Level 4-5+"
+                "Premier cycle (Licence) : TOPIK Niveau 3-4+",
+                "Études supérieures (Master/Doctorat) : TOPIK Niveau 4-5+"
               ],
-              "displayText": "Some majors have more flexible standards, and some universities require TOPIK for graduation even if it was not required for admission."
+              "displayText": "Certaines spécialisations ont des normes plus souples, et certaines universités exigent le TOPIK pour l'obtention du diplôme même s'il n'était pas requis pour l'admission."
             },
             {
-              "title": "English Proficiency",
-              "subTitle": "For English-taught programs:",
+              "title": "Maîtrise de l'anglais",
+              "subTitle": "Pour les programmes enseignés en anglais:",
               "list": [
                 "TOEFL iBT: 80+",
                 "IELTS: 6.0-6.5+"
               ],
-              "displayText": "REC’s Academy helps students identify whether Korean or English pathways are more realistic."
+              "displayText": "La REC’s Academy aide les étudiants à déterminer si les parcours en coréen ou en anglais sont les plus réalistes."
             }
           ]
         },
         "university": {
-          "title": "How should I choose a university?",
+          "title": "Comment devrais-je choisir une université?",
           "display": {
-            "title": "When selecting a university, consider:",
+            "title": "Lors de la sélection d'une université, considérez:",
             "list": [
-              "Major availability",
-              "Language of instruction",
-              "Location (metropolitan vs. regional)",
-              "Dormitory and international student support",
-              "Pathway flexibility"
+              "La disponibilité de la spécialisation",
+              "La langue d'enseignement",
+              "L'emplacement (métropolitain vs régional)",
+              "Le dortoir et le soutien aux étudiants internationaux",
+              "La flexibilité du parcours"
             ]
           },
-          "footerText": "If your TOPIK level is not sufficient, English-taught or language-linked pathways may be more suitable."
+          "footerText": "Si votre niveau de TOPIK n'est pas suffisant, les parcours enseignés en anglais ou liés à la langue peuvent être plus appropriés."
         },
         "preparation": {
-          "title": "Recommended Preparation Order",
+          "title": "Ordre de préparation recommandé",
           "display": {
-            "title": "A realistic preparation sequence:",
+            "title": "Une séquence de préparation réaliste:",
             "list": [
-              "Consultation & planning",
-              "University and major selection",
-              "Document preparation",
-              "Application submission",
-              "Admission result → visa preparation",
-              "Departure preparation",
-              "Arrival and settlement"
+              "Consultation et planification",
+              "Sélection de l'université et de la spécialisation",
+              "Préparation des documents",
+              "Soumission de la candidature",
+              "Résultat d'admission → préparation du visa",
+              "Préparation au départ",
+              "Arrivée et installation"
             ]
           },
-          "footerText": "This process typically takes <semibold>3-6 months or longer,</semibold> depending on circumstances."
+          "footerText": "Ce processus prend généralement <semibold>3 à 6 mois ou plus,</semibold> selon les circonstances."
         }
       },
       "section3": {
-        "title": "Final note",
-        "description": "Studying in Korea is not just an application, it is a life transition into a new academic and cultural environment.<br></br>Start step by step, based on what you can prepare now.",
+        "title": "Note finale",
+        "description": "Étudier en Corée n'est pas seulement une application, c'est une transition vers un nouvel environnement universitaire et culturel.<br></br>Commencez étape par étape, en fonction de ce que vous pouvez préparer maintenant.",
         "display": {
-          "title": "REC’s Academy provides structured guidance throughout:",
+          "title": "REC’s Academy fournit une orientation structurée tout au long des étapes suivantes:",
           "list": [
-            "Planning",
-            "University selection",
-            "Document preparation",
-            "Admission support",
-            "Visa pathway explanation",
-            "Settlement guidance"
+            "Planification",
+            "Sélection des universités",
+            "Préparation des documents",
+            "Appui à l'admission",
+            "Explication du cheminement du visa",
+            "Directives concernant l'établissement"
           ]
         },
         "footerDisplay": {
-          "title": "Contact REC’s Academy",
+          "title": "Contacte REC’s Academy",
           "email": "recsacademy@recss.co.kr"
         }
       }
@@ -727,106 +727,106 @@
   },
   "home": {
     "hero": {
-      "buttonText": "APPLY FOR A FREE CONSULTATION",
-      "mobileButtonText": "FREE CONSULTATION",
+      "buttonText": "CONSULTATION GRATUITE",
+      "mobileButtonText": "CONSULTATION GRATUITE",
       "items": [
         {
           "type": "video",
           "src": "/images/pages/home/hero1.mp4",
-          "title": "Studying in Korea,<br></br>Certainly Get ready",
-          "description": "We will work with you as a single partner, from recommending schools that match your nationality,<br></br> major, and requirements, to admission, visa, and settlement"
+          "title": "Étudier en Corée,<br></br>préparez-vous sereinement",
+          "description": "Nous travaillerons avec vous en tant que partenaire unique,<br></br>depuis la recommandation d'écoles correspondant à votre nationalité,<br></br>votre spécialisation et vos critères, jusqu'à l'admission, le visa et l'installation."
         },
         {
           "type": "image",
           "src": "/images/pages/home/hero2.png",
-          "title": "From Selection to Visa, Done",
-          "description": "From filling out applications, analyzing admission requirements,<br></br>and applying for visas, our experts will help you navigate the complex process."
+          "title": "De la sélection à l’obtention du visa,<br></br>tout est pris en charge",
+          "description": "De la préparation des dossiers et l’analyse des conditions d’admission<br></br>jusqu’à la demande de visa, nos experts vous accompagnent à chaque étape."
         },
         {
           "type": "image",
           "src": "/images/pages/home/hero3.png",
-          "title": "Find the study abroad plan<br></br>that's right for you",
-          "description": "We suggest the most realistic study abroad path based on your desired major,<br></br>admission requirements, and budget"
+          "title": "Trouvez le projet d’études<br></br>à l’étranger qui vous correspond",
+          "description": "Nous proposons le parcours d’études à l’étranger le plus réaliste<br></br>en fonction de votre spécialité souhaitée, des conditions d’admission et de votre budget."
         }
       ],
       "navItems": [
-        "Why<br></br>REC’s Academy?",
-        "One-Stop<br></br>Support",
-        "Personalized<br></br>Pathway"
+        "Pourquoi choisir<br></br>REC’s Academy?",
+        "Un accompagnement complet<br></br>(guichet unique)",
+        "Un parcours<br></br>personnalisé"
       ]
     },
     "ourDifference": {
-      "pageName": "Our Difference",
-      "title": "Why REC’s Academy?",
-      "description": "Studying abroad on Earth begins with a different approach, not the same information.<br></br>We design real possibilities tailored to each student's unique circumstances.",
+      "pageName": "Nos points forts",
+      "title": "Pourquoi REC’s Academy?",
+      "description": "Etudier à l’étranger commence par une approche différente, pas par les mêmes informations standardisées.<br></br>Nous concevons de réelles opportunités adaptées à la situation unique de chaque étudiant.",
       "items": [
         {
           "id": 1,
-          "title": "Condition-based personalized college recommendations",
-          "description": "We recommend universities and programs tailored to each student’s nationality, goals, and language level."
+          "title": "Recommandations universitaires personnalisées selon le profil",
+          "description": "Nous recommandons des universités et des programmes adaptés à la nationalité, aux objectifs et au niveau linguistique de chaque étudiant."
         },
         {
           "id": 2,
-          "title": "Support for the entire process from admission to settlement",
-          "description": "We support you from document preparation to visa application, housing, and initial settlement."
+          "title": "Accompagnement sur l’ensemble du processus, de l’admission à l’installation",
+          "description": "Nous accompagnons les étudiants depuis la préparation des documents jusqu’à la demande de visa, au logement et à l’installation initiale."
         },
         {
           "id": 3,
-          "title": "Real-time 1:1 response consulting",
-          "description": "From consultations to schedule management and issues that arise, A dedicated manager will respond in real time."
+          "title": "Conseil personnalisé avec réponse en temps réel (1:1)",
+          "description": "De la consultation à la gestion du planning et au suivi des démarches, un responsable dédié répond et intervient en temps réel."
         },
         {
           "id": 4,
-          "title": "Study abroad design based on individual conditions",
-          "description": "We offer personalized study abroad programs tailored to your needs, including budget, age, and nationality."
+          "title": "Conception de programmes d’études à l’étranger basée sur les besoins individuels",
+          "description": "Nous proposons des programmes personnalisés d’études à l’étranger, adaptés à vos besoins, incluant le budget, l’âge et la nationalité."
         }
       ]
     },
     "realPossibilities": {
-      "pageName": "Real Possibilities",
-      "bubbleText": "Satisfied",
-      "title": "Personalized",
-      "description": "With personalized support tailored to each individual,<br></br>studying in Korea becomes a realistic goal for everyone when preparation is done right.",
+      "pageName": "Possibilités réelles",
+      "bubbleText": "Satisfait(e)",
+      "title": "Personnalisé",
+      "description": "Grâce à un accompagnement personnalisé adapté à chaque individu,<br></br>étudier en Corée devient un objectif réaliste pour tous lorsque la préparation est bien faite.",
       "items": [
-        "Tailored",
-        "Realistic",
-        "Preparation",
-        "Guidance",
-        "Accessibility",
-        "Feasibility",
-        "Student-Centered",
-        "Pathway"
+        "Personnalisé",
+        "Réaliste",
+        "Préparation",
+        "Accompagnement",
+        "Accessibilité",
+        "Faisabilité",
+        "Orientation centrée sur l’étudiant",
+        "Parcours"
       ]
     },
     "ourPartnerColleges": {
-      "pageName": "Our Partner Colleges",
-      "title": "Which College is right for me?",
-      "description": "Carefully selected colleges that match your goals, budget, and future plans.",
+      "pageName": "Universités Partenaires",
+      "title": "Quelle université me convient?",
+      "description": "Des établissements soigneusement sélectionnés, en adéquation avec vos objectifs, votre budget et vos projets d’avenir.",
       "universities": [
         {
           "imageSrc": "/images/pages/home/kdu.png",
           "imageAlt": "kdu",
           "logoSrc": "/images/pages/home/kdu_logo.svg",
           "logoAlt": "kdu-logo",
-          "name": "Kukdong University",
+          "name": "Université Kukdong",
           "imageText": "Key Strengths...",
-          "nextUniversity": "Dongshin University",
+          "nextUniversity": "Université Dongshin",
           "items": [
             {
-              "key": "Category",
-              "value": "Private"
+              "key": "Catégorie",
+              "value": "Université privée"
             },
             {
-              "key": "Location",
+              "key": "Localisation",
               "value": "Eumseong-gun, Chungcheongbuk-do"
             },
             {
-              "key": "Key Fields",
-              "value": "Smart Energy, Aviation, Engineering, Health Sciences, and Global Business."
+              "key": "Domaines clés",
+              "value": "Énergies intelligentes, aviation, ingénierie, sciences de la santé et commerce international."
             },
             {
-              "key": "Our Role",
-              "value": "Academic document review and direct recommendation for qualified candidates"
+              "key": "Notre rôle",
+              "value": "Examen des dossiers académiques et recommandation directe des candidats qualifiés."
             }
           ]
         },
@@ -835,44 +835,44 @@
           "imageAlt": "dsu",
           "logoSrc": "/images/pages/home/dsu_logo.svg",
           "logoAlt": "dsu-logo",
-          "name": "Dongshin University",
+          "name": "Université Dongshin",
           "imageText": "Key Strengths...",
-          "nextUniversity": "Kukdong University",
+          "nextUniversity": "Université Kukdong",
           "items": [
             {
-              "key": "Category",
-              "value": "Private"
+              "key": "Catégorie",
+              "value": "Université privée"
             },
             {
-              "key": "Location",
+              "key": "Localisation",
               "value": "Naju-si, Jeollanam-do"
             },
             {
-              "key": "Key Fields",
-              "value": "Smart Energy, Aviation, Engineering, Health Sciences, and Global Business."
+              "key": "Domaines clés",
+              "value": "Énergies intelligentes, aviation, ingénierie, sciences de la santé et commerce international."
             },
             {
-              "key": "Our Role",
-              "value": "Academic document review and direct recommendation for qualified candidates"
+              "key": "Notre rôle",
+              "value": "Examen des dossiers académiques et recommandation directe des candidats qualifiés."
             }
           ]
         }
       ]
     },
     "getStarted": {
-      "pageName": "Get Started",
-      "title": "Connecting Global Talent<br></br>to Korean Universities",
-      "description": "Structured preparation. Confident futures.",
-      "buttonText": "Get a Free Consultation",
+      "pageName": "Commencez Maintenant",
+      "title": "Relier les talents du monde<br></br>entier aux universités coréennes",
+      "description": "Une préparation structurée. Des avenirs confiants.",
+      "buttonText": "CONSULTATION GRATUITE",
       "items": [
         {
           "icon": "file",
-          "title": "View Our Study Abroad Programs",
+          "title": "Voir nos programmes d’études à l’étranger",
           "link": "/program"
         },
         {
           "icon": "stack",
-          "title": "Guide to<br></br>Studying Abroad",
+          "title": "Guide<br></br>pour étudier à l’étranger",
           "link": "/guide"
         }
       ]
@@ -880,99 +880,99 @@
   },
   "introduction": {
     "title": "Introduction",
-    "description": "To ensure that your journey in a foreign land is not lonely, Earth Study Abroad will accompany you on your study abroad journey",
+    "description": "Pour s’assurer que votre voyage en terre étrangère ne soit pas solitaire, la REC’s Academy vous accompagnera tout au long de votre parcours d’études à l’étranger.",
     "section1": {
-      "title": "Your Structured<br></br>Pathway to Korea",
-      "description1": "<introbold>REC’s Academy</introbold> was founded to be more than a study-abroad center.<br></br>We exist to serve as a trusted bridge for students from Africa and Central Asia who aspire to study<br></br>at Korean universities.<br></br>Studying in Korea is not simply an academic choice—it is the beginning of a new life in<br></br>an unfamiliar language, culture, and education system.<br></br>On this journey, the quality of guidance and support truly matters<br></br>REC’s Academy provides structured, end-to-end support, from university selection and document preparation to visa guidance and arrival orientation.",
-      "description2": "Our focus is on practical preparation, compliance, and long-term student stability, not quick placements or empty promises.<br></br>While we continue to expand partnerships with Korean universities, our greatest measure of success<br></br>remains unchanged: seeing our students adapt successfully, progress academically, and build a<br></br>sustainable future in Korea.",
-      "description3": "We remain committed to supporting every student’s journey with responsibility, sincerity, and real outcomes"
+      "title": "Votre voie structurée<br></br>vers la Corée",
+      "description1": "<introbold>REC’s Academy</introbold> a été fondée pour être plus qu’un simple centre d’études à l’étranger.<br></br>Nous existons pour servir de pont de confiance pour les étudiants d’Afrique et d’Asie centrale qui aspirent à étudier dans les universités coréennes.<br></br>Étudier en Corée n’est pas seulement un choix académique, c’est le début d’une nouvelle vie dans une langue, une culture et un système éducatif inconnus.<br></br>Dans ce voyage, la qualité de l’accompagnement et du soutien est primordiale. La REC’s Academy offre un soutien structuré de bout en bout, de la sélection de l’université et la préparation des documents jusqu’à l’assistance pour le visa et l’orientation à l’arrivée.",
+      "description2": "Notre priorité est la préparation concrète, la conformité et la stabilité à long terme des étudiants, et non les placements rapides ou les promesses sans fondement.<br></br>Alors que nous continuons à développer nos partenariats avec les universités coréennes, notre plus grande mesure de succès demeure inchangée : voir nos étudiants s’adapter avec succès, progresser académiquement et bâtir un avenir durable en Corée.",
+      "description3": "Nous restons déterminés à accompagner le parcours de chaque étudiant avec responsabilité, sincérité et des résultats concrets."
     },
     "section2": {
-      "title": "One-Stop Support from Admission to Settlement",
-      "description": "REC’s Academy supports you throughout the entire study-abroad journey—from start to finish.",
+      "title": "Soutien complet, de l'admission à l'installation",
+      "description": "La REC’s Academy vous accompagne tout au long de votre parcours d'études à l'étranger, du début à la fin.",
       "items": [
         {
           "icon": "global",
           "bg": "bg-primary",
-          "title": "End-to-End University<br></br>Admissions Assistance",
-          "description": "We provide systematic support for the full admissions process, including:",
+          "title": "Assistance complète pour l'admission à l'université",
+          "description": "Nous fournissons un soutien systématique pour l'ensemble du processus d'admission, incluant :",
           "list": [
-            "Writing and editing personal statements and study plans",
-            "Reviewing letters of recommendation",
-            "Completing and submitting application forms",
-            "Coordinating application timelines with universities"
+            "La rédaction et la révision des lettres de motivation et des projets d'études.",
+            "La révision des lettres de recommandation.",
+            "Le remplissage et l'envoi des formulaires d'inscription.",
+            "La coordination des calendriers d'inscription avec les universités."
           ]
         },
         {
           "icon": "id",
           "bg": "bg-electricviolet",
-          "title": "Visa Application<br></br>Guidance",
-          "description": "We offer accurate and countryspecific guidance on:",
+          "title": "Orientation pour la demande de visa",
+          "description": "Nous offrons des conseils précis et spécifiques à chaque pays sur:",
           "list": [
-            "Required visa documents",
-            "Student visa application procedures",
-            "Compliance with immigration regulations Visa issuance remains under the authority of the relevant immigration offices, but we ensure you are wellprepared."
+            "Les documents requis pour le visa.",
+            "Les procédures de demande de visa étudiant.",
+            "La conformité aux réglementations d'immigration (la délivrance du visa reste sous l'autorité des bureaux d'immigration compétents, mais nous veillons à ce que vous soyez bien préparé)."
           ]
         },
         {
           "icon": "map",
           "bg": "bg-accent",
-          "title": "Arrival & Settlement<br></br>Support",
-          "description": "To help students transition smoothly into life in Korea, we assist with:",
+          "title": "Soutien à l'arrivée et à l'installation",
+          "description": "Pour aider les étudiants à s'adapter en douceur à la vie en Corée, nous les assistons pour:",
           "list": [
-            "Dormitory or approved accommodation applications",
-            "Setting up telecommunications services",
-            "Opening a bank account",
-            "Initial settlement orientation after arrival"
+            "Les demandes de dortoir ou de logement approuvé.",
+            "L'installation des services de télécommunications.",
+            "L'ouverture d'un compte bancaire.",
+            "L'orientation initiale d'installation après l'arrivée."
           ]
         }
       ],
-      "footerText": "With REC’s Academy, students receive<highlight>structured</highlight><highlight>reliable</highlight>and<highlight>continuous support</highlight>— all in one place."
+      "footerText": "Avec la REC’s Academy, les étudiants bénéficient d'un soutien<highlight>Structuré</highlight><highlight>Fiable</highlight>et<highlight>Continu</highlight>le tout en un seul endroit."
     }
   },
   "policy": {
-    "title": "Privacy Policy",
+    "title": "Politique de confidentialité",
     "hero": {
       "title": "REC’s Academy",
-      "description1": "REC’s Academy (hereinafter referred to as the “Academy”) is committed to protecting your personal information and adheres to the <semibold>Personal Information Protection Act of the Republic of Korea,</semibold> as well as the <semibold>Act on Promotion of Information and Communications Network Utilization and Information Protection.</semibold>",
-      "description2": "Through this Privacy Policy, the Academy informs you of how and for what purposes your personal information is collected and used, and of the measures taken to protect it.",
-      "description3": "If the Academy revises this Privacy Policy, it will notify users through a website notice (or individual notice, where applicable).",
-      "description4": "This Policy shall be effective from <semibold>January 1, 2026</semibold>."
+      "description1": "REC’s Academy (ci-après dénommée « l’Académie ») attache une grande importance à la protection des informations personnelles et se conforme à la <semibold>Loi sur la protection des informations personnelles de la République de Corée</semibold> ainsi qu’à la <semibold>Loi sur la promotion de l’utilisation des réseaux d’information et de communication et la protection des informations</semibold>.",
+      "description2": "Par le biais de cette politique de confidentialité, l’Académie informe les utilisateurs de la manière et des finalités pour lesquelles leurs informations personnelles sont collectées et utilisées, ainsi que des mesures prises pour les protéger.",
+      "description3": "Si l’Académie révise cette politique de confidentialité, elle en informera les utilisateurs via une annonce sur le site web (ou par notification individuelle si nécessaire).",
+      "description4": "La présente politique entre en vigueur le <semibold>1er janvier 2026</semibold>."
     },
     "sections": [
       {
         "id": "infomation",
-        "title": "Personal Information Items Collected",
+        "title": "Informations personnelles collectées",
         "blocks": [
           {
-            "title": "The Academy collects the following personal information for consultations, university admission support, Korean language program coordination, visa guidance, and related educational services.",
+            "title": "L’Académie collecte les informations personnelles suivantes afin de fournir des consultations, un accompagnement pour l’admission universitaire, la coordination de programmes de langue coréenne, une assistance pour les visas et d’autres services éducatifs.",
             "marker": "dash"
           },
           {
-            "title": "<legal>Collected Items :</legal>",
+            "title": "<legal>Éléments collectés :</legal>",
             "marker": "text",
             "nested": {
               "marker": "bullet",
               "line": "inside",
               "values": [
-                "Full Name",
-                "Nationality",
-                "Email Address",
-                "Phone Number",
-                "Academic Background Information (when voluntarily submitted)"
+                "Nom complet",
+                "Nationalité",
+                "Adresse e-mail",
+                "Numéro de téléphone",
+                "Informations sur le parcours académique (si fournies volontairement)"
               ]
             }
           },
           {
-            "title": "<legal>Method of Collection :</legal>",
+            "title": "<legal>Méthodes de collecte :</legal>",
             "marker": "text",
             "nested": {
               "marker": "bullet",
               "line": "inside",
               "values": [
-                "Website (online inquiry or consultation form)",
-                "Email correspondence",
-                "Application or consultation documents"
+                "Site web (formulaire de consultation ou de demande en ligne)",
+                "Correspondance par e-mail",
+                "Documents de candidature ou de consultation"
               ]
             }
           }
@@ -980,52 +980,52 @@
       },
       {
         "id": "collection",
-        "title": "Purpose of Collection and Use of Personal Information",
+        "title": "Finalités de la collecte et de l’utilisation des informations personnelles",
         "blocks": [
           {
-            "title": "The Academy uses collected personal information for the following purposes:",
+            "title": "L’Académie utilise les informations personnelles collectées aux fins suivantes :",
             "marker": "dash",
             "nested": {
               "marker": "bullet",
               "line": "inside",
               "values": [
-                "Responding to inquiries and consultation requests",
-                "Providing academic pathway guidance and university matching",
-                "Coordinating admission applications",
-                "Assisting with visa documentation and immigration compliance",
-                "Identity verification for service use",
-                "Preventing misuse and unauthorized access",
-                "Handling complaints and delivering official notices",
-                "Understanding access frequency and compiling service usage statistics"
+                "Répondre aux demandes de renseignements et aux consultations",
+                "Fournir des conseils académiques et recommander des universités",
+                "Coordonner les procédures d’admission",
+                "Aider à la préparation des documents de visa et au respect des règles d’immigration",
+                "Vérifier l’identité pour l’utilisation des services",
+                "Prévenir les abus et les accès non autorisés",
+                "Traiter les plaintes et transmettre les notifications officielles",
+                "Analyser la fréquence d’accès et établir des statistiques d’utilisation du service"
               ]
             }
           },
           {
-            "title": "Personal information is not used for purposes other than those stated above.",
+            "title": "Les informations personnelles ne sont pas utilisées à d’autres fins que celles mentionnées ci-dessus.",
             "marker": "dash"
           }
         ]
       },
       {
         "id": "retention",
-        "title": "Personal Information Retention and Use Period",
+        "title": "Durée de conservation et d’utilisation des informations personnelles",
         "blocks": [
           {
-            "title": "In principle, once the purpose of collecting and using personal information has been achieved, the information is destroyed without delay.",
+            "title": "En principe, une fois l’objectif de la collecte et de l’utilisation atteint, les informations personnelles sont supprimées sans délai.",
             "marker": "dash"
           },
           {
-            "title": "However, where preservation is required by relevant laws and regulations, the Academy retains such information for the legally prescribed period as follows:",
+            "title": "Toutefois, lorsque leur conservation est requise par la loi, l’Académie conserve ces informations pendant la durée prescrite par la législation applicable :",
             "marker": "dash",
             "nested": {
               "marker": "alpha",
               "line": "inside",
               "values": [
-                "<legal>Log records, IP addresses, etc., required for communication fact confirmation data</legal> - 3 months (Protection of Communications Secrets Act)",
-                "<legal>Records of contracts or cancellations of subscription</legal> - 5 years (Electronic Commerce Act)",
-                "<legal>Records of payment and service provision</legal> - 5 years (Electronic Commerce Act)",
-                "<legal>Records of consumer complaints or dispute resolution</legal> - 3 years (Electronic Commerce Act)",
-                "<legal>Records of collection, processing, and use of credit information (if applicable)</legal> - 3 years (Act on the Use and Protection of Credit Information)"
+                "<policyblock>Données nécessaires à la vérification des faits de communication (journaux, adresses IP, etc.)</policyblock> - 3 mois (Loi sur la protection du secret des communications)",
+                "<policyblock>Enregistrements des contrats ou des annulations d’abonnement</policyblock> - 5 ans (Loi sur le commerce électronique)",
+                "<policyblock>Enregistrements des paiements et de la fourniture de services</policyblock> - 5 ans (Loi sur le commerce électronique)",
+                "<policyblock>Enregistrements des plaintes des consommateurs ou du règlement des litiges</policyblock> - 3 ans (Loi sur le commerce électronique)",
+                "<policyblock>Enregistrements relatifs à la collecte, au traitement et à l’utilisation des informations de crédit (le cas échéant)</policyblock> - 3 ans (Loi sur l’utilisation et la protection des informations de crédit)"
               ]
             }
           }
@@ -1033,36 +1033,36 @@
       },
       {
         "id": "destruction",
-        "title": "Procedures and Methods for Destruction of Personal Information",
+        "title": "Procédures et méthodes de destruction des informations personnelles",
         "blocks": [
           {
-            "title": "In principle, personal information is destroyed without delay when a user withdraws from services or when the purpose of collection and use has been fulfilled.",
+            "title": "En principe, les informations personnelles sont détruites sans délai lorsque l’utilisateur se désinscrit du service ou lorsque l’objectif de la collecte est atteint.",
             "marker": "dash"
           },
           {
-            "title": "<legalbold>A. Destruction Procedures</legalbold>",
+            "title": "<legalbold>A. Procédures de destruction</legalbold>",
             "titleFill": true,
             "marker": "text",
             "nested": {
               "marker": "bullet",
               "line": "outside",
               "values": [
-                "Personal information is transferred to a separate database (or separate filing cabinet in the case of paper documents) after the purpose has been achieved.",
-                "It is stored for a legally required period according to internal policies and applicable laws before being destroyed.",
-                "Retained personal information is not used for any purpose other than that required by law."
+                "Après l’accomplissement de l’objectif, les informations personnelles sont transférées vers une base de données séparée (ou vers un espace d’archivage distinct pour les documents papier).",
+                "Elles sont conservées pendant la durée requise par les politiques internes et la législation applicable avant d’être détruites.",
+                "Les informations conservées ne sont pas utilisées à d’autres fins que celles prévues par la loi."
               ]
             }
           },
           {
-            "title": "<legalbold>B. Destruction Methods</legalbold>",
+            "title": "<legalbold>B. Méthodes de destruction</legalbold>",
             "titleFill": true,
             "marker": "text",
             "nested": {
               "marker": "bullet",
               "line": "outside",
               "values": [
-                "Personal information printed on paper is destroyed by shredding or incineration.",
-                "Personal information stored in electronic file format is permanently deleted using technical methods that render recovery impossible."
+                "Les informations personnelles imprimées sur papier sont détruites par broyage ou incinération.",
+                "Les informations personnelles stockées sous forme électronique sont supprimées de manière permanente à l’aide de méthodes techniques rendant toute récupération impossible."
               ]
             }
           }
@@ -1070,22 +1070,22 @@
       },
       {
         "id": "provision",
-        "title": "Provision of Personal Information",
+        "title": "Transmission des informations personnelles",
         "blocks": [
           {
-            "title": "The Academy does not, in principle, provide users’ personal information to third parties.",
+            "title": "En principe, l’Académie ne fournit pas les informations personnelles des utilisateurs à des tiers.",
             "marker": "dash"
           },
           {
-            "title": "However, personal information may be provided in the following cases:",
+            "title": "Cependant, les informations personnelles peuvent être transmises dans les cas suivants :",
             "marker": "dash",
             "nested": {
               "marker": "bullet",
               "line": "inside",
               "values": [
-                "When users have given prior consent",
-                "When required by law",
-                "When requested by investigative agencies in accordance with lawful procedures"
+                "Lorsque l’utilisateur a donné son consentement préalable",
+                "Lorsque la loi l’exige",
+                "Lorsque les autorités d’enquête en font la demande conformément aux procédures légales"
               ]
             }
           }
@@ -1093,69 +1093,69 @@
       },
       {
         "id": "representative",
-        "title": "User and Legal Representative Rights and How to Exercise Them",
+        "title": "Droits de l’utilisateur et du représentant légal et modalités d’exercice",
         "blocks": [
           {
-            "title": "Users may view or modify their registered personal information at any time and may request withdrawal of service or cancellation of consent.",
+            "title": "Les utilisateurs peuvent à tout moment consulter ou modifier leurs informations personnelles enregistrées et demander la résiliation du service ou le retrait de leur consentement.",
             "marker": "dash"
           },
           {
-            "title": "To review or modify personal information, users may contact the Academy via official communication channels. To withdraw consent or cancel services, users may submit a written or email request.",
+            "title": "Pour consulter ou modifier leurs informations personnelles, les utilisateurs peuvent contacter l’Académie par les canaux de communication officiels. Pour retirer leur consentement ou résilier le service, ils peuvent envoyer une demande écrite ou un e-mail.",
             "marker": "dash"
           },
           {
-            "title": "After identity verification, the Academy will process requests without delay.",
+            "title": "Après vérification de l’identité, l’Académie traitera la demande sans délai.",
             "marker": "dash"
           },
           {
-            "title": "If a user requests correction of personal information, the Academy will not use or provide the relevant information until the correction is completed. If incorrect personal information has already been provided to a third party, the Academy will promptly notify the third party of the correction to ensure proper amendment.",
+            "title": "Si un utilisateur demande la correction de ses informations personnelles, l’Académie ne les utilisera ni ne les transmettra tant que la correction n’est pas terminée. Si des informations incorrectes ont déjà été fournies à un tiers, l’Académie l’informera rapidement afin que les corrections nécessaires soient effectuées.",
             "marker": "dash"
           },
           {
-            "title": "Personal information that has been withdrawn or deleted is processed in accordance with the retention policy and cannot be viewed or used for other purposes.",
+            "title": "Les informations personnelles retirées ou supprimées sont traitées conformément à la politique de conservation et ne peuvent être consultées ni utilisées à d’autres fins.",
             "marker": "dash"
           }
         ]
       },
       {
         "id": "automatic",
-        "title": "Installation, Operation, and Rejection of Automatic Personal Information Collection Devices",
+        "title": "Installation, fonctionnement et refus des dispositifs automatiques de collecte",
         "blocks": [
           {
-            "title": "The Academy operates “cookies” and similar technologies that store and retrieve user information from time to time.",
+            "title": "L’Académie utilise des « cookies » et des technologies similaires permettant de stocker et de récupérer des informations sur les utilisateurs.",
             "marker": "dash"
           },
           {
-            "title": "Cookies are small text files sent by the website server to the user’s browser and stored on the user’s device.",
+            "title": "Les cookies sont de petits fichiers texte envoyés par le serveur du site web au navigateur de l’utilisateur et stockés sur son appareil.",
             "marker": "dash"
           },
           {
-            "title": "<legal>Purpose of Cookie Use :</legal>",
+            "title": "<legal>Objectifs de l’utilisation des cookies :</legal>",
             "marker": "dash",
             "nested": {
               "marker": "bullet",
               "line": "inside",
               "values": [
-                "Analysis of access frequency and visit duration",
-                "Identification of user preferences and areas of interest",
-                "Statistical analysis to improve services",
-                "Provision of personalized services"
+                "Analyse de la fréquence d’accès et de la durée des visites",
+                "Identification des préférences et centres d’intérêt des utilisateurs",
+                "Analyse statistique afin d’améliorer les services",
+                "Fourniture de services personnalisés"
               ]
             }
           },
           {
-            "title": "Users may choose to allow all cookies, confirm each time a cookie is saved, or reject all cookies through browser settings.",
+            "title": "Les utilisateurs peuvent configurer leur navigateur pour autoriser tous les cookies, demander confirmation avant leur enregistrement ou les refuser totalement.",
             "marker": "dash"
           },
           {
-            "title": "<legal>Example (Internet Explorer) :</legal>",
+            "title": "<legal>Exemple (Internet Explorer) :</legal>",
             "marker": "dash",
             "nested": {
               "marker": "text",
               "line": "inside",
               "values": [
-                "Tools > Internet Options > Privacy",
-                "If cookies are rejected, certain services may not function properly."
+                "Outils > Options Internet > Confidentialité",
+                "Si les cookies sont refusés, certains services peuvent ne pas fonctionner correctement."
               ]
             }
           }
@@ -1163,40 +1163,40 @@
       },
       {
         "id": "protection",
-        "title": "Technical and Administrative Protection Measures",
+        "title": "Mesures techniques et administratives de protection",
         "blocks": [
           {
-            "title": "The Academy establishes and applies technical and administrative measures to protect personal information.",
+            "title": "L’Académie met en place des mesures techniques et administratives pour protéger les informations personnelles.",
             "marker": "dash"
           },
           {
-            "title": "<legalbold>1) Technical Measures</legalbold>",
+            "title": "<legalbold>1) Mesures techniques</legalbold>",
             "titleFill": true,
             "marker": "text",
             "nested": {
               "marker": "alpha",
               "line": "outside",
               "values": [
-                "Personal information is securely stored using encryption algorithms. Important data is protected through encrypted transmission and additional security mechanisms.",
-                "Antivirus programs are regularly updated to prevent damage caused by malicious software.",
-                "Intrusion prevention systems and vulnerability analysis systems are used to protect against hacking and external attacks."
+                "Les informations personnelles sont stockées de manière sécurisée à l’aide d’algorithmes de chiffrement. Les données sensibles sont protégées par une transmission chiffrée et d’autres mécanismes de sécurité.",
+                "Les programmes antivirus sont régulièrement mis à jour afin de prévenir les dommages causés par les logiciels malveillants.",
+                "Des systèmes de prévention des intrusions et d’analyse des vulnérabilités sont utilisés pour se protéger contre le piratage et les attaques externes."
               ]
             }
           },
           {
-            "title": "<legalbold>2) Administrative Measures</legalbold>",
+            "title": "<legalbold>2) Mesures administratives</legalbold>",
             "titleFill": true,
             "marker": "text",
             "nested": {
               "marker": "alpha",
               "line": "outside",
               "values": [
-                "The Academy establishes internal procedures for accessing and managing personal information and ensures employee compliance.",
-                "Access to personal information is limited to authorized personnel only.",
-                "Identification codes (ID) and passwords are assigned and regularly updated for authorized access.",
-                "Employees are required to sign confidentiality and personal information protection agreements.",
-                "Regular training is conducted on data protection obligations and security technologies.",
-                "Duties related to personal information processing are securely transferred, and responsibility for incidents is clearly defined."
+                "L’Académie établit des procédures internes pour l’accès et la gestion des informations personnelles et veille à leur respect par les employés.",
+                "L’accès aux informations personnelles est limité au personnel autorisé uniquement.",
+                "Des identifiants (ID) et mots de passe sont attribués et régulièrement mis à jour.",
+                "Les employés signent des accords de confidentialité et de protection des données personnelles.",
+                "Des formations régulières sont organisées concernant les obligations de protection des données et les technologies de sécurité.",
+                "Les responsabilités liées au traitement des données personnelles sont clairement définies lors des transferts de fonctions."
               ]
             }
           }
@@ -1204,14 +1204,14 @@
       },
       {
         "id": "complaint",
-        "title": "Personal Information Complaint Service",
+        "title": "Service de traitement des plaintes relatives aux informations personnelles",
         "blocks": [
           {
-            "title": "The Academy designates the following department and officer to handle complaints related to personal information:",
+            "title": "L’Académie désigne le service et le responsable suivants pour traiter les plaintes liées aux informations personnelles :",
             "marker": "dash"
           },
           {
-            "title": "<legal>Customer Service Department :</legal>",
+            "title": "<legal>Service client :</legal>",
             "marker": "dash",
             "nested": {
               "marker": "text",
@@ -1223,35 +1223,35 @@
             }
           },
           {
-            "title": "<legal>Personal Information Protection Officer :</legal>",
+            "title": "<legal>Responsable de la protection des informations personnelles :</legal>",
             "marker": "dash",
             "nested": {
               "marker": "text",
               "line": "inside",
               "values": [
-                "Name: IM JUNG MIN (CEO, REC’s Academy)",
+                "Nom : IM JUNG MIN (CEO, REC’s Academy)",
                 "Email: recsacademy@recss.co.kr"
               ]
             }
           },
           {
-            "title": "Users can report any complaints regarding personal information protection to the contact provided above.",
+            "title": "Les utilisateurs peuvent signaler toute plainte relative à la protection des informations personnelles via les contacts ci-dessus.",
             "marker": "dash"
           },
           {
-            "title": "The Academy will respond promptly and appropriately.",
+            "title": "L’Académie répondra rapidement et de manière appropriée.",
             "marker": "dash"
           },
           {
-            "title": "If you need to report or consult regarding other personal information infringements, please contact:",
+            "title": "Si vous souhaitez signaler ou consulter concernant d’autres violations liées aux informations personnelles, veuillez contacter :",
             "marker": "dash",
             "nested": {
               "marker": "bullet",
               "line": "inside",
               "values": [
-                "Personal Information Infringement Report Center: 118 (privacy.kisa.or.kr)",
-                "Supreme Prosecutors’ Office Cyber Crime Investigation Division: 02-3480-3571 (cybercid@spo.go.kr)",
-                "National Police Agency Cyber Security Bureau: 182 (<legala>www.ctrc.go.kr</legala>)"
+                "Centre de signalement des violations des informations personnelles : 118 (privacy.kisa.or.kr)",
+                "Division des crimes cybernétiques du parquet suprême : 02-3480-3571 (cybercid@spo.go.kr)",
+                "Bureau de cybersécurité de l’Agence nationale de police : 182 (<legala>www.ctrc.go.kr</legala>)"
               ]
             }
           }
@@ -1260,204 +1260,210 @@
     ]
   },
   "procedures": {
-    "title": "Procedures",
-    "description": "REC’s Academy provides structured support across six key stages, guiding students from<br></br>the start of their study-abroad journey through admission and settlement in Korea.",
+    "title": "Procédures",
+    "description": "La REC’s Academy offre un soutien structuré à travers six étapes clés,<br></br>guidant les étudiants du début de leur projet d'études à l'étranger jusqu'à l'admission et l'installation en Corée.",
     "hero": {
-      "title": "Studying in Korea: How It Works",
-      "description": "Studying in Korea follows six structured steps, guiding students<br></br>from initial consultation through university admission, visa preparation, and settlement support."
+      "title": "Étudier en Corée : comment ça marche",
+      "description": "Étudier en Corée suit six étapes structurées,<br></br>guidant les étudiants de la consultation initiale à l'admission à l'université, la préparation du visa et le soutien à l'installation."
     },
     "grid": [
       {
+        "step": "Étape 1.",
         "iconName": "briefcase",
-        "title": "Pre-Consultation",
-        "description": "We collect essential information such as:",
+        "title": "Pré-consultation",
+        "description": "Nous collectons les informations clés du candidat, notamment :",
         "list": [
-          "Academic background",
-          "Intended major or field of study",
-          "Budget and timeline"
+          "le parcours académique,",
+          "le domaine d’études souhaité,",
+          "le budget et le calendrier envisagés."
         ],
-        "footerText": "This stage helps define a realistic and strategic study-abroad direction."
+        "footerText": "Cette première étape permet de définir un projet d’études à l’étranger réaliste, cohérent et stratégique."
       },
       {
+        "step": "Étape 2.",
         "iconName": "listCheck",
-        "title": "University & Program Selection",
-        "description": "REC’s Academy compares and recommends suitable<br></br>Korean universities and majors based on each student’s<br></br>academic profile, goals, and eligibility.",
+        "title": "Sélection de l’université et du programme",
+        "description": "REC’s Academy analyse le profil académique, les objectifs et les critères d’éligibilité de chaque étudiant afin de recommander les universités et programmes coréens les plus adaptés.",
         "list": null,
         "footerText": null
       },
       {
+        "step": "Étape 3.",
         "iconName": "document",
-        "title": "Document Preparation",
-        "description": "We support the preparation and review of required application documents, including:",
+        "title": "Préparation des documents",
+        "description": "Nous accompagnons les étudiants dans la préparation et la vérification de l’ensemble des documents requis, notamment :",
         "list": [
-          "Personal statements",
-          "Study plans",
-          "Academic records and supporting materials"
+          "la lettre de motivation,",
+          "le projet d’études,",
+          "les relevés et diplômes académiques, ainsi que les pièces justificatives."
         ],
         "footerText": null
       },
       {
+        "step": "Étape 4.",
         "iconName": "edit",
-        "title": "University Application",
-        "description": "Applications and documents are submitted within official deadlines, and we assist students throughout the university selection process.",
+        "title": "Dépôt de la candidature",
+        "description": "Les dossiers de candidature sont soumis dans le respect des délais officiels, et nous assistons les étudiants tout au long du processus de sélection universitaire.",
         "list": null,
         "footerText": null
       },
       {
+        "step": "Étape 5.",
         "iconName": "id",
-        "title": "Admission Result &<br></br>Visa Guidance",
-        "description": "Once admission is granted:",
+        "title": "Résultats d’admission et accompagnement pour le visa",
+        "description": "Après l’admission :",
         "list": [
-          "Students receive their official admission letter",
-          "REC’s Academy provides guidance on required visa documents and application procedures (Visa issuance is governed by Korean immigration authorities.)"
+          "l’étudiant reçoit sa lettre d’admission officielle,",
+          "REC’s Academy fournit une orientation détaillée sur les documents requis et les procédures de demande de visa"
         ],
         "footerText": null
       },
       {
+        "step": "Étape 6.",
         "iconName": "home",
-        "title": "Departure &<br></br>Settlement Support",
-        "description": "We provide practical guidance for:",
+        "title": "Départ et installation",
+        "description": "Nous offrons un accompagnement pratique pour :",
         "list": [
-          "Flight preparation",
-          "Accommodation arrangements",
-          "Initial settlement and orientation after arrival in Korea"
+          "la préparation du départ et du vol,",
+          "l’organisation du logement,",
+          "l’installation initiale et l’orientation après l’arrivée en Corée."
         ],
         "footerText": null
       }
     ],
-    "footerText": "This structured process ensures a<highlight>smooth and confident transition</highlight>into university life in Korea."
+    "footerText": "Ce processus structuré assure une<highlight>transition fluide et confiante</highlight>vers la vie universitaire en Corée."
   },
   "program": {
-    "title": "Program",
-    "description": "REC’s Academy offers structured language preparation, degree admission support, short-term study experiences,<br></br>and customized study-abroad pathways for international students aspiring to study in Korea.",
+    "title": "Programme",
+    "description": "La REC’s Academy propose une préparation linguistique structurée, un soutien à l'admission aux diplômes universitaires,<br></br>des expériences d'études de courte durée et des parcours d'études à l'étranger personnalisés pour les étudiants internationaux souhaitant étudier en Corée.",
     "sections": [
       {
         "bgColor": "accent",
-        "title": "Language Training",
-        "description": "via Partner Institutions",
+        "title": "Formation Linguistique",
+        "description": "(Via des institutions partenaires)",
         "banner": {
           "src": "/images/pages/program/thumb1.png",
           "alt": "Language Training",
-          "title": "Intensive Korean Language Study Program",
+          "title": "Programme Intensif d'Étude de la Langue Coréenne",
           "list": [
-            "REC’s Academy coordinates Korean language training in collaboration with <bold>university-affiliated language schools</bold> at national and private Korean universities.",
-            "Students develop core language skills, including <bold>speaking, listening, reading, and writing</bold> through structured, accredited programs."
+            "La REC’s Academy coordonne la formation en langue coréenne en collaboration avec des <bold>écoles de langues affiliées à des universités</bold> nationales et privées en Corée.",
+            "Les étudiants développent des compétences linguistiques de base, notamment <bold>l'expression orale, l'écoute, la lecture et l'écriture, </bold> grâce à des programmes accrédités et structurés."
           ],
-          "buttonText": "Apply for Language Study Consultation"
+          "buttonText": "Consultation linguistique"
         },
         "items": [
           {
             "itemType": "key",
             "icon": "star",
-            "title": "Key Features",
+            "title": "Caractéristiques Clés",
             "list": [
               {
-                "key": "Duration",
-                "value": "10 weeks to 1 year"
+                "key": "Durée",
+                "value": "10 semaines à 1 an."
               },
               {
-                "key": "Intakes",
-                "value": "4 times per year (March, June, September, December)"
+                "key": "Sessions",
+                "value": "4 fois par an (mars, juin, septembre, décembre)."
               },
               {
-                "key": "Study Load",
-                "value": "20+ hours per week (regular classes)"
+                "key": "Charge d'étude",
+                "value": "Plus de 20 heures par semaine (cours réguliers)."
               },
               {
-                "key": "Outcome",
-                "value": "Certificate of Completion"
+                "key": "Résultat",
+                "value": "Certificat de fin d'études."
               },
               {
                 "key": "Progression",
-                "value": "Conditional admission to selected universities may be possible"
+                "value": "Une admission conditionnelle dans certaines universités peut être possible."
               },
               {
-                "key": "Housing Support",
-                "value": "Guidance for dormitories or approved external accommodation"
+                "key": "Soutien au logement",
+                "value": "Conseils pour les dortoirs ou les logements externes agréés."
               }
             ]
           },
           {
             "itemType": "list",
             "icon": "recommend",
-            "title": "Recommended For",
+            "title": "Recommandé Pour",
             "list": [
-              "Prospective international students preparing for Korean university entry",
-              "Learners seeking to improve Korean language proficiency",
-              "Students preparing for the <bold>TOPIK</bold> examination"
+              "Les futurs étudiants internationaux se préparant à l'entrée à l'université en Corée.",
+              "Les apprenants cherchant à améliorer leur maîtrise de la langue coréenne.",
+              "Les étudiants se préparant à l'examen TOPIK."
             ]
           }
         ]
       },
       {
         "bgColor": "primary",
-        "title": "Degree Programs",
-        "description": "Bachelor’s / Master’s",
+        "title": "Programmes de diplôme",
+        "description": "Licence / Master",
         "banner": {
           "src": "/images/pages/program/thumb2.png",
           "alt": "Degree Programs",
-          "title": "Korean University Degree Admission Support",
+          "title": "Soutien à l'admission aux diplômes universitaires coréens",
           "list": [
-            "REC’s Academy provides <bold>professional consulting and document support</bold> for international students applying<br></br>to <bold>Bachelor’s and Master’s degree programs</bold> at Korean universities.",
-            "We offer step-by-step guidance to help students meet academic, language, and institutional admission requirements."
+            "La REC’s Academy propose un conseil professionnel et un soutien documentaire pour les étudiants internationaux postulant à des programmes de Licence et de Master dans les universités coréennes.",
+            "Nous offrons un accompagnement étape par étape pour aider les étudiants à satisfaire aux exigences académiques, linguistiques et institutionnelles d'admission."
           ],
-          "buttonText": "Apply for Degree Program Counseling"
+          "buttonText": "Consultation diplôme"
         },
         "items": [
           {
             "itemType": "list",
             "icon": "star",
-            "title": "Key Features",
+            "title": "Caractéristiques Clés",
             "list": [
-              "Guidance for admission to Korean universities (undergraduate & graduate levels)",
-              "Support for applicants planning a <bold>major change or long-term career development in Korea</bold>"
+              "Orientation pour l'admission dans les universités coréennes (niveaux premier cycle et cycles supérieurs).",
+              "Soutien aux candidats prévoyant un <bold>changement de spécialisation ou un développement de carrière à long terme en Corée.</bold>"
             ]
           },
           {
             "itemType": "list",
             "icon": "listCheck",
-            "title": "Our Support Includes",
+            "title": "Notre soutien comprend",
             "list": [
-              "Major counseling and university matching",
-              "Analysis of admission requirements (TOPIK, English proficiency, GPA, etc.)",
-              "Writing and editing of personal statements and study plans",
-              "Coordination of application submission and preparation for the selection process"
+              "Conseil sur le choix de la spécialisation et mise en correspondance avec l'université.",
+              "Analyse des conditions d'admission (TOPIK, maîtrise de l'anglais, GPA, etc.).",
+              "Rédaction et révision des lettres de motivation et des projets d'études.",
+              "Coordination de la soumission des candidatures et préparation au processus de sélection."
             ]
           }
         ]
       },
       {
         "bgColor": "secondary",
-        "title": "Short-term study abroad",
+        "title": "Études à court terme à l'étranger",
         "description": null,
         "banner": {
           "src": "/images/pages/program/thumb3.png",
           "alt": "Short-term study abroad",
           "title": "An intensive program that allows you to experience Korea for a short period of time",
           "list": [
-            "We offer short-term training programs that allow you to experience the Korean language,<br></br>culture, and university life for a short period of 3 to 8 weeks."
+            "Un programme intensif qui vous permet de découvrir la Corée pendant une courte période Nous proposons des programmes de formation à court terme vous permettant de découvrir la langue coréenne,<br></br>la culture et la vie universitaire pour une période de 3 à 8 semaines."
           ],
-          "buttonText": "Short-term Study Abroad Counseling"
+          "buttonText": "Consultation programme court"
         },
         "items": [
           {
             "itemType": "list",
             "icon": "star",
-            "title": "Key Features",
+            "title": "Caractéristiques Clés",
             "list": [
-              "Foreign students who want to experience Korea during their vacation",
-              "Prospective international students who want to experience the Korean university environment before enrolling"
+              "Étudiants étrangers souhaitant découvrir la Corée pendant leurs vacances.",
+              "Futurs étudiants internationaux souhaitant découvrir l'environnement universitaire coréen avant de s'inscrire."
             ]
           },
           {
             "itemType": "list",
             "icon": "recommend",
-            "title": "Recommended For",
+            "title": "Recommandé Pour",
             "list": [
-              "Program duration: 3-8 weeks",
-              "Korean language classes + cultural experiences (hanbok, traditional food, company tours, etc.)",
-              "Accommodation provided on or connected to the university campus",
-              "Issuance of the certificate of completion and provision of confirmation of participation"
+              "Durée du programme: 3 à 8 semaines.",
+              "Cours de langue coréenne + expériences culturelles (hanbok, cuisine traditionnelle, visites d'entreprises, etc.).",
+              "Hébergement fourni sur le campus universitaire ou à proximité.",
+              "Délivrance d'un certificat de fin d'études et d'une attestation de participation."
             ]
           }
         ]
@@ -1465,101 +1471,101 @@
     ]
   },
   "terms": {
-    "title": "Terms of Use",
+    "title": "Conditions d’utilisation",
     "hero": {
       "title": "REC’s Academy",
-      "description": "These Terms of Use govern the conditions under which users access<br></br>and use the website and educational services provided by REC’s Academy (the “Academy”)."
+      "description": "Les présentes Conditions d’utilisation régissent les modalités selon lesquelles les utilisateurs accèdent<br></br>et utilisent le site web et les services éducatifs fournis par REC’s Academy (« l’Académie »)."
     },
     "sections": [
       {
         "id": "purpose",
-        "title": "Purpose",
+        "title": "Objet",
         "blocks": [
           {
-            "title": "These Terms regulate the use of academic consulting, university admission support, Korean language program coordination, visa documentation guidance, and related educational services provided by the Academy to its users (“Members”).",
+            "title": "Les présentes Conditions régissent l’utilisation des services de conseil académique, d’accompagnement pour l’admission universitaire, de coordination des programmes de langue coréenne, de conseils relatifs aux documents de visa et des autres services éducatifs fournis par l’Académie aux utilisateurs (« Membres »).",
             "marker": "text"
           }
         ]
       },
       {
         "id": "effectiveness",
-        "title": "Effectiveness and Changes",
+        "title": "Entrée en vigueur et modifications",
         "blocks": [
           {
-            "title": "These Terms become effective upon publication on the Academy’s website.",
+            "title": "Les présentes Conditions entrent en vigueur dès leur publication sur le site web de l’Académie.",
             "marker": "number"
           },
           {
-            "title": "The Academy may revise these Terms in accordance with applicable laws.",
+            "title": "L’Académie peut modifier ces Conditions conformément aux lois applicables.",
             "marker": "number"
           },
           {
-            "title": "Continued use of services after updates constitutes acceptance of the revised Terms.",
+            "title": "La poursuite de l’utilisation des services après une mise à jour constitue une acceptation des Conditions révisées.",
             "marker": "number"
           },
           {
-            "title": "Members who disagree with changes may request cancellation of services.",
+            "title": "Les Membres qui ne sont pas d’accord avec les modifications peuvent demander la résiliation des services.",
             "marker": "number"
           }
         ]
       },
       {
         "id": "service",
-        "title": "Service Agreement",
+        "title": "Contrat de service",
         "blocks": [
           {
-            "title": "A service agreement is formed when a Member agrees to these Terms and submits an official consultation or application form.",
+            "title": "Un contrat de service est conclu lorsqu’un Membre accepte les présentes Conditions et soumet un formulaire officiel de consultation ou de candidature.",
             "marker": "number"
           },
           {
-            "title": "Members must provide accurate and truthful personal and academic information.",
+            "title": "Les Membres doivent fournir des informations personnelles et académiques exactes et véridiques.",
             "marker": "number"
           },
           {
-            "title": "The Academy may refuse or terminate services in cases of false information, unlawful purpose, or violation of these Terms.",
+            "title": "L’Académie peut refuser ou mettre fin aux services en cas de fausses informations, d’utilisation à des fins illégales ou de violation des présentes Conditions.",
             "marker": "number"
           }
         ]
       },
       {
         "id": "scope",
-        "title": "Scope of Services",
+        "title": "Portée des services",
         "blocks": [
           {
-            "title": "The Academy provides:",
+            "title": "L’Académie fournit :",
             "marker": "dash",
             "nested": {
               "marker": "bullet",
               "line": "inside",
               "values": [
-                "Academic pathway consultation",
-                "University and major matching",
-                "Admission application coordination",
-                "Korean language program placement",
-                "Visa documentation guidance",
-                "Short-term study program coordination"
+                "Conseil sur le parcours académique",
+                "Correspondance université et spécialité",
+                "Coordination des candidatures d’admission",
+                "Placement dans des programmes de langue coréenne",
+                "Conseils concernant la documentation de visa",
+                "Coordination de programmes d’études de courte durée"
               ]
             }
           },
           {
-            "title": "<legal>Admission Guarantee</legal>",
+            "title": "<legal>Garantie d’admission</legal>",
             "marker": "dash",
             "nested": {
               "marker": "text",
               "line": "inside",
               "values": [
-                "Where a Member fully meets academic and documentation requirements and complies with the Academy’s guidance, the Academy guarantees university admission through its verified partner institutions or approved academic pathways."
+                "Lorsqu’un Membre satisfait pleinement aux exigences académiques et documentaires et respecte les recommandations de l’Académie, l’Académie garantit l’admission universitaire par l’intermédiaire de ses établissements partenaires vérifiés ou de parcours académiques approuvés."
               ]
             }
           },
           {
-            "title": "<legal>Visa Disclaimer</legal>",
+            "title": "<legal>Avertissement concernant le visa</legal>",
             "marker": "dash",
             "nested": {
               "marker": "text",
               "line": "inside",
               "values": [
-                "Visa approval is exclusively within the authority and discretion of the Korean immigration authorities. REC’s Academy provides visa documentation guidance and compliance support only and makes no representation or guarantee regarding visa issuance."
+                "L’approbation du visa relève exclusivement de l’autorité et de la discrétion des autorités d’immigration de la République de Corée. REC’s Academy fournit uniquement des conseils relatifs aux documents de visa et à la conformité administrative et ne garantit en aucun cas l’obtention d’un visa."
               ]
             }
           }
@@ -1567,90 +1573,90 @@
       },
       {
         "id": "obligation",
-        "title": "Member Obligations",
+        "title": "Obligations des Membres",
         "blocks": [
           {
-            "title": "Members agree to:",
+            "title": "Les Membres s’engagent à :",
             "marker": "dash",
             "nested": {
               "marker": "bullet",
               "line": "inside",
               "values": [
-                "Provide accurate and updated information",
-                "Submit genuine and complete documentation",
-                "Follow academic and visa compliance guidelines",
-                "Comply with applicable laws and Academy policies"
+                "Fournir des informations exactes et mises à jour",
+                "Soumettre des documents authentiques et complets",
+                "Respecter les exigences académiques et les règles relatives aux visas",
+                "Se conformer aux lois applicables et aux politiques de l’Académie"
               ]
             }
           },
           {
-            "title": "A violation may result in the suspension or termination of services.",
+            "title": "Toute violation peut entraîner la suspension ou la résiliation des services.",
             "marker": "dash"
           }
         ]
       },
       {
         "id": "intellectual",
-        "title": "Intellectual Property",
+        "title": "Propriété intellectuelle",
         "blocks": [
           {
-            "title": "Member-created content remains the property of the Member.",
+            "title": "Le contenu créé par les Membres reste la propriété du Membre concerné.",
             "marker": "dash"
           },
           {
-            "title": "Academy materials may not be reproduced or commercially used without written permission.",
+            "title": "Les documents de l’Académie ne peuvent être reproduits ni utilisés à des fins commerciales sans autorisation écrite.",
             "marker": "dash"
           }
         ]
       },
       {
         "id": "availability",
-        "title": "Service Availability",
+        "title": "Disponibilité du service",
         "blocks": [
           {
-            "title": "The Academy strives to provide stable services, but may temporarily suspend services for maintenance or due to force majeure events. The Academy is not liable for interruptions beyond its reasonable control.",
+            "title": "L’Académie s’efforce de fournir des services stables, mais peut suspendre temporairement les services pour maintenance ou en cas de force majeure. L’Académie n’est pas responsable des interruptions échappant à son contrôle raisonnable.",
             "marker": "dash"
           }
         ]
       },
       {
         "id": "limitation",
-        "title": "Limitation of Liability",
+        "title": "Limitation de responsabilité",
         "blocks": [
           {
-            "title": "The Academy guarantees admission only when eligibility requirements are satisfied and documentation is authentic.",
+            "title": "L’Académie garantit l’admission uniquement lorsque les conditions d’éligibilité sont remplies et que les documents fournis sont authentiques.",
             "marker": "number"
           },
           {
-            "title": "The Academy is not responsible for visa denial, government decisions, or delays caused by immigration authorities.",
+            "title": "L’Académie n’est pas responsable des refus de visa, des décisions gouvernementales ou des retards causés par les autorités d’immigration.",
             "marker": "number"
           },
           {
-            "title": "The Academy is not liable for indirect or consequential damages.",
+            "title": "L’Académie n’est pas responsable des dommages indirects ou consécutifs.",
             "marker": "number"
           },
           {
-            "title": "Total liability, where applicable, shall not exceed the amount paid for services within the preceding 12 months.",
+            "title": "Lorsque la responsabilité s’applique, le montant total de celle-ci ne peut dépasser le montant payé pour les services au cours des 12 mois précédents.",
             "marker": "number"
           }
         ]
       },
       {
         "id": "governing",
-        "title": "Governing Law",
+        "title": "Droit applicable",
         "blocks": [
           {
-            "title": "The laws of the Republic of Korea govern these Terms.",
+            "title": "Les présentes Conditions sont régies par les lois de la République de Corée.",
             "marker": "dash"
           },
           {
-            "title": "Any disputes shall be subject to the jurisdiction of the competent court where the Academy’s headquarters is located.",
+            "title": "Tout litige sera soumis à la juridiction du tribunal compétent situé au lieu du siège de l’Académie.",
             "marker": "dash",
             "nested": {
               "marker": "text",
               "line": "inside",
               "values": [
-                "<legal>Effective Date</legal> January 1, 2026"
+                "<termsblock>Date d’entrée en vigueur</termsblock> 1 janvier 2026"
               ]
             }
           }

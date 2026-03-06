@@ -23,7 +23,7 @@ export function HeroNav({
         <nav
           className={clsx([
             'absolute bottom-15 left-1/2 z-20 -translate-x-1/2 text-white',
-            'v1024:top-1/2 v1024:right-0 v1024:left-auto v1024:translate-x-0 v1024:bottom-auto',
+            'v1024:top-4/7 v1024:right-0 v1024:left-auto v1024:translate-x-0 v1024:bottom-auto',
           ])}
         >
           <ul className="v1024:flex-col flex gap-7">

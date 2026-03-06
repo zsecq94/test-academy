@@ -1,46 +1,46 @@
 {
-  "title": "Privacy Policy",
+  "title": "Политика конфиденциальности",
   "hero": {
     "title": "REC’s Academy",
-    "description1": "REC’s Academy (hereinafter referred to as the “Academy”) is committed to protecting your personal information and adheres to the <semibold>Personal Information Protection Act of the Republic of Korea,</semibold> as well as the <semibold>Act on Promotion of Information and Communications Network Utilization and Information Protection.</semibold>",
-    "description2": "Through this Privacy Policy, the Academy informs you of how and for what purposes your personal information is collected and used, and of the measures taken to protect it.",
-    "description3": "If the Academy revises this Privacy Policy, it will notify users through a website notice (or individual notice, where applicable).",
-    "description4": "This Policy shall be effective from <semibold>January 1, 2026</semibold>."
+    "description1": "REC’s Academy (далее — «Академия») придает большое значение защите персональных данных пользователей и соблюдает требования <semibold>Закона Республики Корея «О защите персональных данных»</semibold>, а также <semibold>Закона «О содействии использованию информационно-коммуникационных сетей и защите информации»</semibold>.",
+    "description2": "Настоящая Политика конфиденциальности разъясняет, каким образом и с какой целью собираются и используются персональные данные пользователей, а также какие меры принимаются для их защиты.",
+    "description3": "В случае внесения изменений в настоящую Политику конфиденциальности Академия уведомит пользователей через объявление на веб-сайте (или посредством индивидуального уведомления, если это необходимо).",
+    "description4": "Настоящая политика вступает в силу с <semibold>1 января 2026 года</semibold>."
   },
   "sections": [
     {
       "id": "infomation",
-      "title": "Personal Information Items Collected",
+      "title": "Собираемые персональные данные",
       "blocks": [
         {
-          "title": "The Academy collects the following personal information for consultations, university admission support, Korean language program coordination, visa guidance, and related educational services.",
+          "title": "Академия собирает следующие персональные данные для консультаций, поддержки поступления в университеты, координации программ изучения корейского языка, визовой поддержки и других образовательных услуг.",
           "marker": "dash"
         },
         {
-          "title": "<legal>Collected Items :</legal>",
+          "title": "<legal>Собираемые данные :</legal>",
           "marker": "text",
           "nested": {
             "marker": "bullet",
             "line": "inside",
             "values": [
-              "Full Name",
-              "Nationality",
-              "Email Address",
-              "Phone Number",
-              "Academic Background Information (when voluntarily submitted)"
+              "Полное имя",
+              "Гражданство",
+              "Адрес электронной почты",
+              "Номер телефона",
+              "Информация об образовании (если предоставляется добровольно)"
             ]
           }
         },
         {
-          "title": "<legal>Method of Collection :</legal>",
+          "title": "<legal>Способы сбора :</legal>",
           "marker": "text",
           "nested": {
             "marker": "bullet",
             "line": "inside",
             "values": [
-              "Website (online inquiry or consultation form)",
-              "Email correspondence",
-              "Application or consultation documents"
+              "Через веб-сайт (форма онлайн-запроса или консультации)",
+              "По электронной почте",
+              "Через документы для подачи заявки или консультации"
             ]
           }
         }
@@ -48,52 +48,52 @@
     },
     {
       "id": "collection",
-      "title": "Purpose of Collection and Use of Personal Information",
+      "title": "Цели сбора и использования персональных данных",
       "blocks": [
         {
-          "title": "The Academy uses collected personal information for the following purposes:",
+          "title": "Академия использует собранные персональные данные для следующих целей:",
           "marker": "dash",
           "nested": {
             "marker": "bullet",
             "line": "inside",
             "values": [
-              "Responding to inquiries and consultation requests",
-              "Providing academic pathway guidance and university matching",
-              "Coordinating admission applications",
-              "Assisting with visa documentation and immigration compliance",
-              "Identity verification for service use",
-              "Preventing misuse and unauthorized access",
-              "Handling complaints and delivering official notices",
-              "Understanding access frequency and compiling service usage statistics"
+              "Ответ на запросы и консультации пользователей",
+              "Предоставление рекомендаций по академическому пути и подбор университетов",
+              "Координация подачи заявлений на поступление",
+              "Помощь с визовыми документами и соблюдением иммиграционных требований",
+              "Подтверждение личности при использовании сервисов",
+              "Предотвращение злоупотреблений и несанкционированного доступа",
+              "Обработка жалоб и направление официальных уведомлений",
+              "Анализ частоты посещений и составление статистики использования сервиса"
             ]
           }
         },
         {
-          "title": "Personal information is not used for purposes other than those stated above.",
+          "title": "Персональные данные не используются для целей, отличных от указанных выше.",
           "marker": "dash"
         }
       ]
     },
     {
       "id": "retention",
-      "title": "Personal Information Retention and Use Period",
+      "title": "Срок хранения и использования персональных данных",
       "blocks": [
         {
-          "title": "In principle, once the purpose of collecting and using personal information has been achieved, the information is destroyed without delay.",
+          "title": "Как правило, после достижения цели сбора и использования персональные данные подлежат немедленному удалению.",
           "marker": "dash"
         },
         {
-          "title": "However, where preservation is required by relevant laws and regulations, the Academy retains such information for the legally prescribed period as follows:",
+          "title": "Однако если хранение требуется в соответствии с законодательством, данные сохраняются в течение сроков, установленных законом:",
           "marker": "dash",
           "nested": {
             "marker": "alpha",
             "line": "inside",
             "values": [
-              "<legal>Log records, IP addresses, etc., required for communication fact confirmation data</legal> - 3 months (Protection of Communications Secrets Act)",
-              "<legal>Records of contracts or cancellations of subscription</legal> - 5 years (Electronic Commerce Act)",
-              "<legal>Records of payment and service provision</legal> - 5 years (Electronic Commerce Act)",
-              "<legal>Records of consumer complaints or dispute resolution</legal> - 3 years (Electronic Commerce Act)",
-              "<legal>Records of collection, processing, and use of credit information (if applicable)</legal> - 3 years (Act on the Use and Protection of Credit Information)"
+              "<policyblock>Данные для подтверждения фактов связи (журналы, IP-адреса и др.)</policyblock> - 3 месяца (Закон о защите тайны коммуникаций)",
+              "<policyblock>Записи о договорах или отмене подписки</policyblock> - 5 лет (Закон об электронной коммерции)",
+              "<policyblock>Записи о платежах и предоставлении услуг</policyblock> - 5 лет (Закон об электронной коммерции)",
+              "<policyblock>Записи о жалобах потребителей или разрешении споров</policyblock> - 3 года (Закон об электронной коммерции)",
+              "<policyblock>Записи о сборе, обработке и использовании кредитной информации (если применимо)</policyblock> - 3 года (Закон об использовании и защите кредитной информации)"
             ]
           }
         }
@@ -101,36 +101,36 @@
     },
     {
       "id": "destruction",
-      "title": "Procedures and Methods for Destruction of Personal Information",
+      "title": "Процедуры и методы уничтожения персональных данных",
       "blocks": [
         {
-          "title": "In principle, personal information is destroyed without delay when a user withdraws from services or when the purpose of collection and use has been fulfilled.",
+          "title": "Как правило, персональные данные уничтожаются без задержки после выхода пользователя из сервиса или после достижения цели их сбора.",
           "marker": "dash"
         },
         {
-          "title": "<legalbold>A. Destruction Procedures</legalbold>",
+          "title": "<legalbold>A. Процедуры уничтожения</legalbold>",
           "titleFill": true,
           "marker": "text",
           "nested": {
             "marker": "bullet",
             "line": "outside",
             "values": [
-              "Personal information is transferred to a separate database (or separate filing cabinet in the case of paper documents) after the purpose has been achieved.",
-              "It is stored for a legally required period according to internal policies and applicable laws before being destroyed.",
-              "Retained personal information is not used for any purpose other than that required by law."
+              "После достижения цели данные переносятся в отдельную базу данных (или отдельное хранилище для бумажных документов).",
+              "Они хранятся в течение срока, установленного внутренней политикой и законодательством, после чего уничтожаются.",
+              "Сохраненные данные не используются для иных целей, кроме предусмотренных законом."
             ]
           }
         },
         {
-          "title": "<legalbold>B. Destruction Methods</legalbold>",
+          "title": "<legalbold>B. Методы уничтожения</legalbold>",
           "titleFill": true,
           "marker": "text",
           "nested": {
             "marker": "bullet",
             "line": "outside",
             "values": [
-              "Personal information printed on paper is destroyed by shredding or incineration.",
-              "Personal information stored in electronic file format is permanently deleted using technical methods that render recovery impossible."
+              "Персональные данные на бумажных носителях уничтожаются путем измельчения или сжигания.",
+              "Персональные данные в электронном виде удаляются с использованием технических методов, исключающих возможность восстановления."
             ]
           }
         }
@@ -138,22 +138,22 @@
     },
     {
       "id": "provision",
-      "title": "Provision of Personal Information",
+      "title": "Передача персональных данных третьим лицам",
       "blocks": [
         {
-          "title": "The Academy does not, in principle, provide users’ personal information to third parties.",
+          "title": "Как правило, Академия не передает персональные данные пользователей третьим лицам.",
           "marker": "dash"
         },
         {
-          "title": "However, personal information may be provided in the following cases:",
+          "title": "Однако данные могут быть предоставлены в следующих случаях:",
           "marker": "dash",
           "nested": {
             "marker": "bullet",
             "line": "inside",
             "values": [
-              "When users have given prior consent",
-              "When required by law",
-              "When requested by investigative agencies in accordance with lawful procedures"
+              "Если пользователь дал предварительное согласие",
+              "Если это требуется законодательством",
+              "Если запрос поступил от следственных органов в соответствии с законной процедурой"
             ]
           }
         }
@@ -161,69 +161,69 @@
     },
     {
       "id": "representative",
-      "title": "User and Legal Representative Rights and How to Exercise Them",
+      "title": "Права пользователя и законного представителя и способы их реализации",
       "blocks": [
         {
-          "title": "Users may view or modify their registered personal information at any time and may request withdrawal of service or cancellation of consent.",
+          "title": "Пользователи могут в любое время просматривать или изменять свои персональные данные, а также запрашивать прекращение обслуживания или отзыв согласия.",
           "marker": "dash"
         },
         {
-          "title": "To review or modify personal information, users may contact the Academy via official communication channels. To withdraw consent or cancel services, users may submit a written or email request.",
+          "title": "Для просмотра или изменения персональных данных пользователи могут связаться с Академией через официальные каналы связи. Для отзыва согласия или прекращения обслуживания необходимо направить письменный запрос или письмо по электронной почте.",
           "marker": "dash"
         },
         {
-          "title": "After identity verification, the Academy will process requests without delay.",
+          "title": "После подтверждения личности Академия обработает запрос без задержки.",
           "marker": "dash"
         },
         {
-          "title": "If a user requests correction of personal information, the Academy will not use or provide the relevant information until the correction is completed. If incorrect personal information has already been provided to a third party, the Academy will promptly notify the third party of the correction to ensure proper amendment.",
+          "title": "Если пользователь запрашивает исправление персональных данных, Академия не будет использовать или передавать соответствующие данные до завершения исправления. Если неверные данные уже были переданы третьей стороне, Академия незамедлительно уведомит ее о необходимости исправления.",
           "marker": "dash"
         },
         {
-          "title": "Personal information that has been withdrawn or deleted is processed in accordance with the retention policy and cannot be viewed or used for other purposes.",
+          "title": "Персональные данные, в отношении которых было отозвано согласие или которые были удалены, обрабатываются в соответствии с политикой хранения и не могут использоваться для других целей.",
           "marker": "dash"
         }
       ]
     },
     {
       "id": "automatic",
-      "title": "Installation, Operation, and Rejection of Automatic Personal Information Collection Devices",
+      "title": "Установка, использование и отказ от автоматических средств сбора информации",
       "blocks": [
         {
-          "title": "The Academy operates “cookies” and similar technologies that store and retrieve user information from time to time.",
+          "title": "Академия использует файлы «cookie» и аналогичные технологии для хранения и извлечения информации о пользователях.",
           "marker": "dash"
         },
         {
-          "title": "Cookies are small text files sent by the website server to the user’s browser and stored on the user’s device.",
+          "title": "Cookie — это небольшие текстовые файлы, отправляемые сервером сайта в браузер пользователя и сохраняемые на его устройстве.",
           "marker": "dash"
         },
         {
-          "title": "<legal>Purpose of Cookie Use :</legal>",
+          "title": "<legal>Цели использования cookie :</legal>",
           "marker": "dash",
           "nested": {
             "marker": "bullet",
             "line": "inside",
             "values": [
-              "Analysis of access frequency and visit duration",
-              "Identification of user preferences and areas of interest",
-              "Statistical analysis to improve services",
-              "Provision of personalized services"
+              "Анализ частоты доступа и продолжительности посещений",
+              "Определение предпочтений и интересов пользователей",
+              "Статистический анализ для улучшения сервиса",
+              "Предоставление персонализированных услуг"
             ]
           }
         },
         {
-          "title": "Users may choose to allow all cookies, confirm each time a cookie is saved, or reject all cookies through browser settings.",
+          "title": "Пользователь может настроить браузер так, чтобы разрешать все cookie, подтверждать их сохранение или полностью их блокировать.",
           "marker": "dash"
         },
         {
-          "title": "<legal>Example (Internet Explorer) :</legal>",
+          "title": "<legal>Пример (Internet Explorer) :</legal>",
           "marker": "dash",
           "nested": {
             "marker": "text",
             "line": "inside",
             "values": [
-              "Tools > Internet Options > Privacy",
-              "If cookies are rejected, certain services may not function properly."
+              "Инструменты > Свойства обозревателя > Конфиденциальность",
+              "При блокировке cookie некоторые сервисы могут работать некорректно."
             ]
           }
         }
@@ -231,40 +231,40 @@
     },
     {
       "id": "protection",
-      "title": "Technical and Administrative Protection Measures",
+      "title": "Технические и административные меры защиты",
       "blocks": [
         {
-          "title": "The Academy establishes and applies technical and administrative measures to protect personal information.",
+          "title": "Академия принимает технические и административные меры для защиты персональных данных.",
           "marker": "dash"
         },
         {
-          "title": "<legalbold>1) Technical Measures</legalbold>",
+          "title": "<legalbold>1) Технические меры</legalbold>",
           "titleFill": true,
           "marker": "text",
           "nested": {
             "marker": "alpha",
             "line": "outside",
             "values": [
-              "Personal information is securely stored using encryption algorithms. Important data is protected through encrypted transmission and additional security mechanisms.",
-              "Antivirus programs are regularly updated to prevent damage caused by malicious software.",
-              "Intrusion prevention systems and vulnerability analysis systems are used to protect against hacking and external attacks."
+              "Персональные данные безопасно хранятся с использованием алгоритмов шифрования. Важная информация защищается посредством шифрованной передачи и дополнительных механизмов безопасности.",
+              "Антивирусные программы регулярно обновляются для предотвращения вредоносных атак.",
+              "Используются системы предотвращения вторжений и анализа уязвимостей для защиты от взломов и внешних атак."
             ]
           }
         },
         {
-          "title": "<legalbold>2) Administrative Measures</legalbold>",
+          "title": "<legalbold>2) Административные меры</legalbold>",
           "titleFill": true,
           "marker": "text",
           "nested": {
             "marker": "alpha",
             "line": "outside",
             "values": [
-              "The Academy establishes internal procedures for accessing and managing personal information and ensures employee compliance.",
-              "Access to personal information is limited to authorized personnel only.",
-              "Identification codes (ID) and passwords are assigned and regularly updated for authorized access.",
-              "Employees are required to sign confidentiality and personal information protection agreements.",
-              "Regular training is conducted on data protection obligations and security technologies.",
-              "Duties related to personal information processing are securely transferred, and responsibility for incidents is clearly defined."
+              "Академия устанавливает внутренние процедуры доступа и управления персональными данными и обеспечивает их соблюдение сотрудниками.",
+              "Доступ к персональным данным предоставляется только уполномоченным сотрудникам.",
+              "Для доступа используются идентификационные коды (ID) и пароли, которые регулярно обновляются.",
+              "Сотрудники подписывают соглашения о конфиденциальности и защите персональных данных.",
+              "Проводятся регулярные обучения по вопросам защиты данных и технологий безопасности.",
+              "Передача обязанностей по обработке персональных данных осуществляется безопасно, а ответственность за инциденты четко определена."
             ]
           }
         }
@@ -272,14 +272,14 @@
     },
     {
       "id": "complaint",
-      "title": "Personal Information Complaint Service",
+      "title": "Служба обработки жалоб по вопросам персональных данных",
       "blocks": [
         {
-          "title": "The Academy designates the following department and officer to handle complaints related to personal information:",
+          "title": "Академия назначает следующие подразделения и ответственных лиц для обработки жалоб, связанных с персональными данными:",
           "marker": "dash"
         },
         {
-          "title": "<legal>Customer Service Department :</legal>",
+          "title": "<legal>Отдел обслуживания клиентов :</legal>",
           "marker": "dash",
           "nested": {
             "marker": "text",
@@ -291,35 +291,35 @@
           }
         },
         {
-          "title": "<legal>Personal Information Protection Officer :</legal>",
+          "title": "<legal>Ответственный за защиту персональных данных :</legal>",
           "marker": "dash",
           "nested": {
             "marker": "text",
             "line": "inside",
             "values": [
-              "Name: IM JUNG MIN (CEO, REC’s Academy)",
+              "Имя: IM JUNG MIN (CEO, REC’s Academy)",
               "Email: recsacademy@recss.co.kr"
             ]
           }
         },
         {
-          "title": "Users can report any complaints regarding personal information protection to the contact provided above.",
+          "title": "Пользователи могут сообщать о любых жалобах, связанных с защитой персональных данных, по указанным выше контактам.",
           "marker": "dash"
         },
         {
-          "title": "The Academy will respond promptly and appropriately.",
+          "title": "Академия оперативно и надлежащим образом рассмотрит обращение.",
           "marker": "dash"
         },
         {
-          "title": "If you need to report or consult regarding other personal information infringements, please contact:",
+          "title": "Если вам необходимо сообщить о нарушении персональных данных или получить консультацию, вы также можете обратиться в следующие организации:",
           "marker": "dash",
           "nested": {
             "marker": "bullet",
             "line": "inside",
             "values": [
-              "Personal Information Infringement Report Center: 118 (privacy.kisa.or.kr)",
-              "Supreme Prosecutors’ Office Cyber Crime Investigation Division: 02-3480-3571 (cybercid@spo.go.kr)",
-              "National Police Agency Cyber Security Bureau: 182 (<legala>www.ctrc.go.kr</legala>)"
+              "Центр сообщений о нарушениях персональных данных: 118 (privacy.kisa.or.kr)",
+              "Киберподразделение Верховной прокуратуры: 02-3480-3571 (cybercid@spo.go.kr)",
+              "Бюро кибербезопасности Национального полицейского агентства: 182 (<legala>www.ctrc.go.kr</legala>)"
             ]
           }
         }

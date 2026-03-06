@@ -1,4 +1,4 @@
-import { useTranslations } from 'next-intl'
+import { useLocale, useTranslations } from 'next-intl'
 
 import { richKey } from '@/i18n/rich'
 import { SectionType } from '../types'
@@ -7,7 +7,18 @@ import { Container, HeroHeader, SvgIcon } from '@/components'
 
 export default function TermsOfUse() {
   const t = useTranslations('terms')
+  const locale = useLocale()
   const sections = t.raw('sections') as SectionType[]
+
+  const getChapterLabel = (index: number) => {
+    const order = index + 1
+
+    if (locale === 'ko') {
+      return `제 ${order} 조`
+    }
+
+    return `Chapter ${order}.`
+  }
 
   return (
     <main>
@@ -36,7 +47,7 @@ export default function TermsOfUse() {
                 />
                 <div className="v1024:flex-row v1024:text-3xl v1024:gap-3 flex flex-col text-lg font-bold">
                   <p className={isLast ? 'hidden' : ''}>
-                    Chapter {sectionIdx + 1}.
+                    {getChapterLabel(sectionIdx)}
                   </p>
                   <h2>{section.title}</h2>
                 </div>

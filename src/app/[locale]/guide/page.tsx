@@ -26,7 +26,7 @@ export default function GuidePage() {
               imageSrc={link.bg}
               imageAlt={'guide' + idx}
               sizes="50vw"
-              containerClassName="h-auto"
+              containerClassName="h-full"
               overlayClassName="group-hover:bg-accent-dark/80 bg-black/45 transition-colors duration-300"
               className={clsx([
                 'flex h-full flex-col items-center justify-center gap-9 p-14 text-center text-white',

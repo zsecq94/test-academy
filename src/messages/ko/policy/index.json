@@ -1,0 +1,329 @@
+{
+  "title": "개인정보 처리방침",
+  "hero": {
+    "title": "REC’s Academy",
+    "description1": "REC’s Academy(이하 “아카데미”)는 이용자의 개인정보 보호를 매우 중요하게 생각하며, <semibold>대한민국 「개인정보 보호법」</semibold> 및 <semibold>「정보통신망 이용촉진 및 정보보호 등에 관한 법률」</semibold>을 준수하고 있습니다.",
+    "description2": "본 개인정보 처리방침을 통해 아카데미가 이용자의 개인정보를 어떠한 목적과 방식으로 수집·이용하고 있으며, 이를 보호하기 위해 어떠한 조치를 취하고 있는지 안내드립니다.",
+    "description3": "아카데미는 개인정보 처리방침을 개정하는 경우 웹사이트 공지사항(또는 필요한 경우 개별 통지)을 통해 안내합니다.",
+    "description4": "본 정책은 <semibold>2026년 1월 1일</semibold>부터 시행됩니다."
+  },
+  "sections": [
+    {
+      "id": "infomation",
+      "title": "수집하는 개인정보 항목",
+      "blocks": [
+        {
+          "title": "아카데미는 상담, 대학 진학 지원, 한국어 교육 프로그램 연계, 비자 안내 및 관련 교육 서비스를 제공하기 위해 다음과 같은 개인정보를 수집합니다.",
+          "marker": "dash"
+        },
+        {
+          "title": "<legal>수집 항목 :</legal>",
+          "marker": "text",
+          "nested": {
+            "marker": "bullet",
+            "line": "inside",
+            "values": [
+              "성명",
+              "국적",
+              "이메일 주소",
+              "전화번호",
+              "학력 정보(자발적으로 제출한 경우)"
+            ]
+          }
+        },
+        {
+          "title": "<legal>수집 방법 :</legal>",
+          "marker": "text",
+          "nested": {
+            "marker": "bullet",
+            "line": "inside",
+            "values": [
+              "웹사이트(온라인 문의 또는 상담 신청 양식)",
+              "이메일을 통한 상담 및 문의",
+              "지원서 또는 상담 관련 제출 서류"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "collection",
+      "title": "개인정보 수집 및 이용 목적",
+      "blocks": [
+        {
+          "title": "아카데미는 수집한 개인정보를 다음의 목적을 위해 이용합니다:",
+          "marker": "dash",
+          "nested": {
+            "marker": "bullet",
+            "line": "inside",
+            "values": [
+              "문의 및 상담 요청에 대한 응답",
+              "학업 경로 안내 및 대학 매칭 제공",
+              "대학 입학 지원 절차 진행",
+              "비자 관련 서류 준비 및 출입국 관련 지원",
+              "서비스 이용에 대한 본인 확인",
+              "서비스 부정 이용 및 무단 접근 방지",
+              "민원 처리 및 공지사항 전달",
+              "서비스 이용 빈도 분석 및 통계 자료 작성"
+            ]
+          }
+        },
+        {
+          "title": "수집된 개인정보는 위에 명시된 목적 이외의 용도로 사용되지 않습니다.",
+          "marker": "dash"
+        }
+      ]
+    },
+    {
+      "id": "retention",
+      "title": "개인정보 보유 및 이용 기간",
+      "blocks": [
+        {
+          "title": "원칙적으로 개인정보의 수집 및 이용 목적이 달성된 후에는 해당 정보를 지체 없이 파기합니다.",
+          "marker": "dash"
+        },
+        {
+          "title": "다만 관련 법령에 따라 보관이 필요한 경우에는 아래와 같이 법령에서 정한 기간 동안 개인정보를 보관합니다:",
+          "marker": "dash",
+          "nested": {
+            "marker": "alpha",
+            "line": "inside",
+            "values": [
+              "<policyblock>통신사실 확인자료(로그 기록, IP 주소 등)</policyblock> - 3개월 (통신비밀보호법)",
+              "<policyblock>계약 또는 청약 철회 등에 관한 기록</policyblock> - 5년 (전자상거래법)",
+              "<policyblock>대금 결제 및 재화 등의 공급에 관한 기록</policyblock> - 5년 (전자상거래법)",
+              "<policyblock>소비자 불만 또는 분쟁 처리에 관한 기록</policyblock> - 3년 (전자상거래법)",
+              "<policyblock>신용정보의 수집·처리 및 이용 기록(해당되는 경우)</policyblock> - 3년 (신용정보의 이용 및 보호에 관한 법률)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "destruction",
+      "title": "개인정보 파기 절차 및 방법",
+      "blocks": [
+        {
+          "title": "원칙적으로 이용자가 서비스 탈퇴를 하거나 개인정보 수집 및 이용 목적이 달성된 경우 해당 개인정보는 지체 없이 파기됩니다.",
+          "marker": "dash"
+        },
+        {
+          "title": "<legalbold>A. 파기 절차</legalbold>",
+          "titleFill": true,
+          "marker": "text",
+          "nested": {
+            "marker": "bullet",
+            "line": "outside",
+            "values": [
+              "목적 달성 후 개인정보는 별도의 데이터베이스(또는 종이 문서의 경우 별도 보관 장소)로 이전됩니다.",
+              "내부 정책 및 관련 법령에 따라 일정 기간 보관된 후 파기됩니다.",
+              "보관된 개인정보는 법령에서 정한 경우를 제외하고 다른 목적으로 이용되지 않습니다."
+            ]
+          }
+        },
+        {
+          "title": "<legalbold>B. 파기 방법</legalbold>",
+          "titleFill": true,
+          "marker": "text",
+          "nested": {
+            "marker": "bullet",
+            "line": "outside",
+            "values": [
+              "종이에 출력된 개인정보는 분쇄하거나 소각하여 파기합니다.",
+              "전자적 파일 형태로 저장된 개인정보는 복구가 불가능한 기술적 방법을 사용하여 영구 삭제합니다."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "provision",
+      "title": "개인정보의 제3자 제공",
+      "blocks": [
+        {
+          "title": "아카데미는 원칙적으로 이용자의 개인정보를 외부에 제공하지 않습니다.",
+          "marker": "dash"
+        },
+        {
+          "title": "다만 다음의 경우에는 예외적으로 제공될 수 있습니다:",
+          "marker": "dash",
+          "nested": {
+            "marker": "bullet",
+            "line": "inside",
+            "values": [
+              "이용자가 사전에 동의한 경우",
+              "법령에 의해 요구되는 경우",
+              "수사기관이 적법한 절차에 따라 요청하는 경우"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "representative",
+      "title": "이용자 및 법정대리인의 권리와 행사 방법",
+      "blocks": [
+        {
+          "title": "이용자는 언제든지 자신의 개인정보를 조회하거나 수정할 수 있으며, 서비스 탈퇴 또는 개인정보 수집·이용 동의 철회를 요청할 수 있습니다.",
+          "marker": "dash"
+        },
+        {
+          "title": "개인정보 조회 또는 수정을 원할 경우 아카데미의 공식 연락 채널을 통해 요청할 수 있으며, 동의 철회 또는 서비스 탈퇴는 서면 또는 이메일을 통해 요청할 수 있습니다.",
+          "marker": "dash"
+        },
+        {
+          "title": "아카데미는 본인 확인 절차를 거친 후 지체 없이 요청을 처리합니다.",
+          "marker": "dash"
+        },
+        {
+          "title": "이용자가 개인정보의 정정을 요청한 경우, 정정이 완료될 때까지 해당 개인정보를 이용하거나 제공하지 않습니다. 또한 이미 제3자에게 제공된 잘못된 개인정보가 있을 경우 해당 제3자에게 지체 없이 정정을 통지하여 수정이 이루어지도록 합니다.",
+          "marker": "dash"
+        },
+        {
+          "title": "동의 철회 또는 삭제된 개인정보는 보유 기간 정책에 따라 처리되며 다른 용도로 열람하거나 사용할 수 없습니다.",
+          "marker": "dash"
+        }
+      ]
+    },
+    {
+      "id": "automatic",
+      "title": "자동 수집 장치의 설치·운영 및 거부에 관한 사항",
+      "blocks": [
+        {
+          "title": "아카데미는 이용자 정보를 수시로 저장하고 찾아오는 ‘쿠키(cookie)’ 등과 같은 기술을 사용합니다.",
+          "marker": "dash"
+        },
+        {
+          "title": "쿠키는 웹사이트 서버가 이용자의 브라우저로 전송하는 작은 텍스트 파일로 이용자의 기기에 저장됩니다.",
+          "marker": "dash"
+        },
+        {
+          "title": "<legal>쿠키 사용 목적 :</legal>",
+          "marker": "dash",
+          "nested": {
+            "marker": "bullet",
+            "line": "inside",
+            "values": [
+              "접속 빈도 및 방문 시간 분석",
+              "이용자 선호도 및 관심 분야 파악",
+              "서비스 개선을 위한 통계 분석",
+              "개인 맞춤형 서비스 제공"
+            ]
+          }
+        },
+        {
+          "title": "이용자는 브라우저 설정을 통해 쿠키 허용 여부를 선택할 수 있으며, 모든 쿠키 허용, 쿠키 저장 시 확인, 또는 모든 쿠키 거부를 설정할 수 있습니다.",
+          "marker": "dash"
+        },
+        {
+          "title": "<legal>설정 방법 예시 (Internet Explorer) :</legal>",
+          "marker": "dash",
+          "nested": {
+            "marker": "text",
+            "line": "inside",
+            "values": [
+              "도구 > 인터넷 옵션 > 개인정보",
+              "쿠키를 거부할 경우 일부 서비스 이용에 제한이 있을 수 있습니다."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "protection",
+      "title": "개인정보 보호를 위한 기술적·관리적 대책",
+      "blocks": [
+        {
+          "title": "아카데미는 개인정보 보호를 위해 기술적 및 관리적 보호 조치를 수립하고 적용하고 있습니다.",
+          "marker": "dash"
+        },
+        {
+          "title": "<legalbold>1) 기술적 보호 조치</legalbold>",
+          "titleFill": true,
+          "marker": "text",
+          "nested": {
+            "marker": "alpha",
+            "line": "outside",
+            "values": [
+              "개인정보는 암호화 알고리즘을 사용하여 안전하게 저장됩니다. 중요한 데이터는 암호화 전송 및 추가 보안 기술로 보호됩니다.",
+              "악성 프로그램으로 인한 피해를 방지하기 위해 백신 프로그램을 정기적으로 업데이트합니다.",
+              "해킹 및 외부 공격을 방지하기 위해 침입 차단 시스템과 취약점 분석 시스템을 운영합니다."
+            ]
+          }
+        },
+        {
+          "title": "<legalbold>2) 관리적 보호 조치</legalbold>",
+          "titleFill": true,
+          "marker": "text",
+          "nested": {
+            "marker": "alpha",
+            "line": "outside",
+            "values": [
+              "개인정보 접근 및 관리에 대한 내부 절차를 수립하고 직원의 준수를 관리합니다.",
+              "개인정보 접근 권한은 최소한의 인원에게만 부여됩니다.",
+              "접근 권한 부여를 위해 식별 코드(ID)와 비밀번호를 설정하고 정기적으로 변경합니다.",
+              "직원은 개인정보 보호 및 비밀 유지 서약을 체결합니다.",
+              "데이터 보호 의무와 보안 기술에 대한 정기적인 교육을 실시합니다.",
+              "개인정보 처리 관련 업무 인수인계를 안전하게 진행하고 사고 발생 시 책임을 명확히 합니다."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "complaint",
+      "title": "개인정보 보호 관련 문의 및 민원 처리",
+      "blocks": [
+        {
+          "title": "아카데미는 개인정보 관련 민원 처리를 위해 다음과 같은 부서와 담당자를 지정하고 있습니다:",
+          "marker": "dash"
+        },
+        {
+          "title": "<legal>고객지원 부서 :</legal>",
+          "marker": "dash",
+          "nested": {
+            "marker": "text",
+            "line": "inside",
+            "values": [
+              "REC’s Academy - 학생지원팀",
+              "Email: recsacademy@recss.co.kr"
+            ]
+          }
+        },
+        {
+          "title": "<legal>개인정보 보호 책임자 :</legal>",
+          "marker": "dash",
+          "nested": {
+            "marker": "text",
+            "line": "inside",
+            "values": [
+              "성명: IM JUNG MIN (REC’s Academy 대표)",
+              "Email: recsacademy@recss.co.kr"
+            ]
+          }
+        },
+        {
+          "title": "이용자는 개인정보 보호와 관련된 모든 민원을 위의 연락처로 신고할 수 있습니다.",
+          "marker": "dash"
+        },
+        {
+          "title": "아카데미는 신고된 사항에 대해 신속하고 성실하게 답변드리겠습니다.",
+          "marker": "dash"
+        },
+        {
+          "title": "기타 개인정보 침해 신고 또는 상담이 필요한 경우 다음 기관에 문의할 수 있습니다:",
+          "marker": "dash",
+          "nested": {
+            "marker": "bullet",
+            "line": "inside",
+            "values": [
+              "개인정보 침해신고센터: 118 (privacy.kisa.or.kr)",
+              "대검찰청 사이버수사과: 02-3480-3571 (cybercid@spo.go.kr)",
+              "경찰청 사이버안전국: 182 (<legala>www.ctrc.go.kr</legala>)"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

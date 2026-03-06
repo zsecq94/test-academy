@@ -1,6 +1,6 @@
 {
   "locales": {
-    "kr": "KR",
+    "ko": "KR",
     "en": "EN",
     "fr": "FR",
     "ru": "RU"
@@ -8,58 +8,58 @@
 
   "routes": [
     {
-      "name": "Introduction",
+      "name": "소개",
       "path": "/introduction"
     },
     {
-      "name": "Program",
+      "name": "프로그램",
       "path": "/program"
     },
     {
-      "name": "About the Universities",
+      "name": "대학 소개",
       "path": "/about-the-universities"
     },
     {
-      "name": "Procedures",
+      "name": "절차",
       "path": "/procedures"
     },
     {
-      "name": "Guide",
+      "name": "가이드",
       "path": "/guide"
     },
     {
-      "name": "Contact",
+      "name": "문의",
       "path": "/contact"
     }
   ],
 
   "menuOverlayText": {
-    "address": "REC’s Academy Smart Park<br></br>G Suite 201 & 207 13 Gyoyuk-gil,<br></br>Naju-si, Jeollanam-do, Republic of Korea",
+    "address": "REC’s Academy<br></br>스마트파크 G동, 201호 & 207호,<br></br>대한민국 전라남도 나주시 교육길 13",
     "email": "recsacademy@recss.co.kr",
-    "phone": "+82 70 8230 7533 / +82 70 4351 1625<br></br>(Available on WhatsApp)",
+    "phone": "+82 70 8230 7533 / +82 70 4351 1625<br></br>(WhatsApp 사용 가능)",
     "title": "REC’s Academy"
   },
 
   "footerSection1": {
-    "title": "Welcome to <medium>REC’s Academy</medium>",
-    "topButton": "BACK TO TOP",
+    "title": "<medium>REC’s Academy</medium>에 오신 것을 환영합니다",
+    "topButton": "맨 위로",
     "mobileTopButton": "TOP"
   },
 
   "footerSection2": {
-    "siteMapText": "Site Map",
+    "siteMapText": "사이트 맵",
     "links": [
       {
-        "name": "Privacy Policy",
+        "name": "개인정보 처리방침",
         "path": "/privacy-policy"
       },
       {
-        "name": "Terms of Use",
+        "name": "이용약관",
         "path": "/terms-of-use"
       }
     ],
     "social": {
-      "title": "REC’s Academy Email",
+      "title": "이메일",
       "email": "recsacademy@recss.co.kr"
     },
     "copyright": "© 2026 REC’s Academy. All rights Reserved."

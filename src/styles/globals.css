@@ -12,8 +12,29 @@ body {
   background: #ffffff;
   color: #111111;
   font-size: 16px;
+
+  /* ✅ General Sans 기본, 없으면 Pretendard, 그 다음 시스템 폰트 */
   font-family:
     var(--font-general-sans),
+    var(--font-pretendard),
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    'Helvetica Neue',
+    Arial,
+    'Noto Sans',
+    'Apple Color Emoji',
+    'Segoe UI Emoji',
+    'Segoe UI Symbol';
+}
+
+/* ✅ GOV는 “클래스 넣을 때만” 적용 */
+.font-pretendard-gov {
+  font-family:
+    var(--font-pretendard-gov),
     var(--font-pretendard),
     ui-sans-serif,
     system-ui,

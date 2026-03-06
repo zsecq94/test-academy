@@ -1,0 +1,314 @@
+{
+  "title": "가이드",
+  "description": "REC’s Academy는 한국 유학을 준비하는 국제 학생이나 최근 입국한 학생들이 일상 생활에 필요한 정보를 빠르게 확인하고,<br></br>새로운 학업 환경에 원활하게 적응할 수 있도록 실용적인 정착 가이드를 제공합니다.",
+  "links": [
+    {
+      "bg": "/images/pages/guide/thumb1.png",
+      "icon": "/images/pages/guide/school.png",
+      "title": "TOPIK 없이도 한국 대학에 진학할 수 있나요?",
+      "description": "대학과 전공에 따라 TOPIK 없이도 한국에서 학업이 가능합니다.",
+      "url": "/guide/without-topik"
+    },
+    {
+      "bg": "/images/pages/guide/thumb2.png",
+      "icon": "/images/pages/guide/rocket.png",
+      "title": "한국 유학: 어디서부터 시작할까요?",
+      "description": "한국에서 유학을 시작하는 국제 학생들을 위한 단계별 안내 가이드입니다.",
+      "url": "/guide/getting-started"
+    }
+  ],
+  "withoutTopik": {
+    "section1": {
+      "text1": "해외에서 한국 유학을 계획할 때 가장 흔히 받는 질문 중 하나는 다음과 같습니다:<br></br><bold>“TOPIK(한국어 능력 시험)이 정말 필요한가요?”</bold>",
+      "text2": "한국어를 처음 접하는 학생들에게 높은 TOPIK 점수 요구는 부담으로 느껴질 수 있습니다.",
+      "text3": "하지만 <bold>영어로 진행되는 프로그램, 조건부 입학, 언어 연계 과정의</bold><br></br>확대 덕분에, 대학과 전공에 따라 <bold>TOPIK</bold> 없이도 한국에서 학업이 가능해지고 있습니다..",
+      "text4": "이 가이드에서 REC’s Academy는 다음 사항을 설명합니다:",
+      "list": [
+        "TOPIK이 필요한 경우",
+        "TOPIK이 필요하지 않은 경우",
+        "TOPIK 없이도 현실적으로 입학 가능한 경로"
+      ]
+    },
+
+    "section2": {
+      "questions": [
+        "TOPIK 없이<br></br>입학 가능한 대학이 있나요?",
+        "영어 능력 기반 입학",
+        "조건부 입학 및 언어 연계 프로그램",
+        "입학 후 TOPIK 요구 사항이 있나요?",
+        "대학 선택 시 고려 사항"
+      ],
+      "eligibility": {
+        "q": "TOPIK 없이 입학 가능한 대학이 있나요?",
+        "a": "Yes.",
+        "title": "많은 한국 대학에서는 국제 학생을 대상으로  <semibold>지원 시 TOPIK을 요구하지 않거나, 대체 기준으로 평가</semibold>하는 입학 절차를 운영하고 있습니다.",
+        "display": {
+          "title": "TOPIK이 필요하지 않은 경우:",
+          "list": [
+            "<semibold>글로벌 학과 / 국제 프로그램</semibold>",
+            "<semibold>모든 수업이 영어로 진행되는 학과</semibold>",
+            "입학 심사가 주로 다음 요소를 중심으로 이루어지는 프로그램:"
+          ],
+          "items": ["학업 경력", "포트폴리오", "면접", "학업계획과 동기"]
+        },
+        "footerText": "이 경우, TOPIK은 입학 전 필수 조건이 아닙니다.<br></br>REC’s Academy는 학생들이 <semibold>초기 단계에서 TOPIK이 필요 없는 대학과 전공</semibold>을 파악하고,<br></br>현실적인 입학 경로를 설계하도록 지원합니다."
+      },
+
+      "english": {
+        "q": "영어 능력 기반 입학",
+        "title": "많은 한국 대학은 <semibold>영어로 진행되는 학위 프로그램</semibold>을 운영하며,<br></br>국제적으로 인정된 영어 시험 성적을 활용하여 입학을 허용합니다.",
+        "table": {
+          "head": ["Test", "Typical Minimum Score"],
+          "body": [
+            {
+              "key": "TOEFL iBT",
+              "value": "80 or more"
+            },
+            {
+              "key": "IELTS",
+              "value": "6.0~6.5 or higher"
+            },
+            {
+              "key": "Duolingo English",
+              "value": "105 or higher<br></br>(varies by university)"
+            }
+          ]
+        },
+        "footerText": "<semibold>일부 영어권 국가 학생의 경우</semibold> 영어 능력 요건이 면제될 수 있습니다.<br></br>REC’s Academy는 각 학생의 영어 실력을 평가하고, 적합한 영어 기반 프로그램과 매칭해 줍니다."
+      },
+
+      "conditional": {
+        "q": "조건부 입학 및 언어 연계 프로그램",
+        "title": "TOPIK이 없지만 한국어로 진행되는 학위 과정에 진학하고자 하는 경우, 다음 경로를 통해 지원할 수 있습니다.",
+        "list": [
+          {
+            "title": "조건부 입학",
+            "items": [
+              {
+                "title": "학생이 지정된 기간 내에 요구되는 한국어 수준을 달성할 것을 조건으로 입학 허가",
+                "list": []
+              },
+              {
+                "title": "한국어 수준 평가는 다음을 통해 이루어질 수 있음:",
+                "list": ["대학 주관 시험", "필수 어학 과정 이수"]
+              }
+            ]
+          },
+          {
+            "title": "언어 연계 과정",
+            "items": [
+              {
+                "title": "학생은 먼저 <semibold>대학 연계 한국어 교육기관에</semibold> 등록",
+                "list": []
+              },
+              {
+                "title": "요구 수준을 달성하면 정규 학위 과정으로 진학",
+                "list": []
+              }
+            ]
+          },
+          {
+            "title": "일반적으로 이 과정은 다음과 같이 진행됨:",
+            "items": [
+              {
+                "title": "<semibold>D-4 (어학) 비자로</semibold> 입국",
+                "list": []
+              },
+              {
+                "title": "이후 <semibold>D-2 (학위) 비자로</semibold> 전환",
+                "list": []
+              }
+            ]
+          }
+        ],
+
+        "footerText": "REC’s Academy는 이러한 옵션을 명확히 안내하고, 학생들이 <semibold>현실적인 학업 계획과 일정을</semibold> 세울 수 있도록 지원합니다."
+      },
+
+      "topik": {
+        "q": "입학 후 TOPIK 요구 사항이 있나요?",
+        "title": "TOPIK이 입학 조건이 아니더라도, 일부 대학에서는 졸업 요건으로 TOPIK을 요구할 수 있습니다.<br></br>일반적인 졸업 관련 요건:",
+        "list": [
+          "TOPIK 점수 제출 (대개 4급 이상)",
+          "대학 주관 한국어 능력 평가 통과",
+          "필수 한국어 과목 이수"
+        ],
+        "footerDisplay": {
+          "title": "중요",
+          "description": "입학 조건뿐만 아니라 <semibold>졸업 요건도</semibold> 반드시 확인해야 합니다.<br></br>REC’s Academy는 학생들이 지원하기 전에 입학과 졸업 시 요구되는 언어 요건을 모두 검토합니다."
+        }
+      },
+
+      "considerations": {
+        "q": "대학 선택 시 고려 사항",
+        "title": "TOPIK 없이 지원을 계획할 경우, 다음 사항을 주의 깊게 확인하세요:",
+        "list": [
+          "영어로 진행되는 수업이 있는가?",
+          "영어 능력 기반 또는 조건부 입학이 가능한가?",
+          "대학에 한국어 교육기관이 있는가?",
+          "졸업 시 TOPIK이 필요한가?",
+          "공식 지침에서 언어 요건이 명확히 안내되어 있는가?"
+        ],
+        "footerDisplay": {
+          "title": "참고",
+          "description": "언어 요건은 전공에 따라 달라질 수 있습니다.<br></br><semibold>예술, 디자인, 체육</semibold> 관련 프로그램은 이론 중심 전공보다 요구 조건이 비교적 유연한 경우가 많습니다."
+        }
+      }
+    },
+
+    "section3": {
+      "title": "결론",
+      "description": "<semibold>TOPIK 없이</semibold> 한국에서 유학하는 것은 가능하지만,<br></br><semibold>전략적인 계획이</semibold> 필요합니다.",
+      "list": [
+        {
+          "title": "다음 방법을 활용하면:",
+          "items": [
+            "영어 능력 기반 입학",
+            "조건부 입학 또는 언어 연계 과정",
+            "대학 및 전공 신중한 선택"
+          ]
+        },
+        {
+          "title": "학생들은 한국어 사전 자격증 없이도 한국 대학에 성공적으로 입학할 수 있습니다.<br></br>REC’s Academy는 학생들을 위해:",
+          "items": [
+            "학업 및 언어 준비 상태 평가",
+            "현실적인 입학 경로 확인",
+            "체계적이고, 규정 준수하며 투명한 지원 제공"
+          ]
+        }
+      ],
+      "description2": "한국 유학의 문을 여는 방법은 다양합니다.<br></br><semibold>가장 중요한 단계는 자신에게 가장 적합한 경로를 선택하는 것입니다.</semibold>",
+      "display": {
+        "title": "Contact REC’s Academy",
+        "description": "개인 맞춤형 한국 대학 유학 지원 상담",
+        "email": "recsacademy@recss.co.kr"
+      }
+    }
+  },
+
+  "gettingStarted": {
+    "section1": {
+      "text1": "한국 유학을 계획할 때, 입학 조건, 언어 준비, 비자, 대학 선택 등은<br></br>처음에는 다소 부담스럽게 느껴질 수 있습니다.",
+      "text2": "이 가이드는 특히 <semibold>아프리카 및 중앙아시아 학생들을</semibold> 대상으로,<br></br>해외 유학 계획을 시작하는 단계에서 <semibold>단계별 출발점을</semibold> 제공합니다."
+    },
+
+    "section2": {
+      "questions": [
+        "비자 종류:<br></br>어떤 비자가 필요할까?",
+        "언어 요건:<br></br>한국어 vs 영어",
+        "적합한 대학 선택 방법",
+        "추천 준비 순서"
+      ],
+      "visa": {
+        "title": "비자 종류: 어떤 비자가 필요할까?",
+        "description": "첫 번째 단계는 <semibold>유학 목표를 명확히 하는 것</semibold>입니다.<br></br>비자 유형은 목표에 따라 달라집니다.",
+        "list": [
+          {
+            "title": "D-2 비자 (학위 과정)",
+            "items": [
+              {
+                "title": "학사, 석사, 박사 과정에 합격한 학생에게 발급:",
+                "list": ["학사 과정", "석사 과정", "박사 과정"]
+              }
+            ]
+          },
+          {
+            "title": "D-4 비자 (어학 / 비학위 과정)",
+            "items": [
+              {
+                "title": "한국어 과정 또는 기타 수료증 과정 등 학위가 없는 프로그램에 등록한 학생에게 발급:",
+                "list": ["한국어 과정", "기타 수료증 과정"]
+              },
+              {
+                "title": "비자 유형이 영향을 미치는 사항:",
+                "list": [
+                  "체류 기간",
+                  "아르바이트 허용 여부",
+                  "필요 서류 및 규정정 준수 의무"
+                ]
+              }
+            ]
+          }
+        ],
+
+        "footerText": "REC’s Academy는 학생들의 목표에 따라 가장 적합한 비자 경로를 안내하고 지원합니다."
+      },
+
+      "language": {
+        "title": "언어 요건: 한국어 vs 영어",
+        "description": "한국 대학은 일반적으로 언어 능력 증명서를 요구합니다.",
+        "list": [
+          {
+            "title": "한국어 (TOPIK)",
+            "subTitle": "일반적인 요구 사항:",
+            "list": [
+              "학사 과정: TOPIK 3~4급 이상",
+              "석사/박사 과정: TOPIK 4~5급 이상"
+            ],
+            "displayText": "일부 전공은 기준이 다소 유연하며, 입학 시 TOPIK이 필요 없더라도 졸업 시에는 TOPIK을 요구하는 대학도 있습니다."
+          },
+          {
+            "title": "영어 능력",
+            "subTitle": "영어로 진행되는 프로그램의 경우:",
+            "list": ["TOEFL iBT: 80+", "IELTS: 6.0-6.5+"],
+            "displayText": "REC’s Academy는 학생들에게 한국어 과정과 영어 과정 중 어느 경로가 현실적인지 판단하도록 도와줍니다."
+          }
+        ]
+      },
+
+      "university": {
+        "title": "적합한 대학 선택 방법",
+        "display": {
+          "title": "대학을 선택할 때 고려해야 할 사항:",
+          "list": [
+            "원하는 전공이 개설되어 있는가",
+            "수업 언어",
+            "위치 (수도권 vs 지방)",
+            "기숙사 및 국제 학생 지원",
+            "학업 경로의 유연성"
+          ]
+        },
+
+        "footerText": "TOPIK 수준이 충분하지 않다면, 영어로 진행되는 프로그램이나 언어 연계 과정을 고려하는 것이 더 적합할 수 있습니다.."
+      },
+
+      "preparation": {
+        "title": "추천 준비 순서",
+        "display": {
+          "title": "현실적인 준비 단계:",
+          "list": [
+            "상담 및 계획 수립",
+            "대학 및 전공 선택",
+            "서류 준비",
+            "지원서 제출",
+            "합격 결과 확인 → 비자 준비",
+            "출국 준비",
+            "도착 후 정착"
+          ]
+        },
+
+        "footerText": "이 과정은 일반적으로 <semibold>3-6개월 이상</semibold> 소요되며, 상황에 따라 달라질 수 있습니다."
+      }
+    },
+
+    "section3": {
+      "title": "최종 안내",
+      "description": "한국에서의 유학은 단순한 지원 절차가 아니라 삶의 전환입니다.<br></br>지금 준비할 수 있는 것을 바탕으로 단계별로 시작하세요.",
+      "display": {
+        "title": "REC’s Academy는 전반적으로 체계적인 지침을 제공합니다:",
+        "list": [
+          "계획",
+          "대학 선택",
+          "문서 준비",
+          "입학 지원",
+          "비자 경로 설명",
+          "정산 안내"
+        ]
+      },
+      "footerDisplay": {
+        "title": "Contact REC’s Academy",
+        "email": "recsacademy@recss.co.kr"
+      }
+    }
+  }
+}

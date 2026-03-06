@@ -1,0 +1,71 @@
+{
+  "title": "절차",
+  "description": "REC’s Academy는 여섯 가지 핵심 단계에 따라 체계적인 지원을 제공하며,<br></br>학생들이 해외 유학 계획의 시작부터 한국에서의 입학과 정착까지 순조롭게 진행할 수 있도록 안내합니다.",
+  "hero": {
+    "title": "한국 유학: 진행 방식",
+    "description": "한국 유학 과정은 여섯 단계로 구성되어 있으며,<br></br>초기 상담부터 대학 입학, 비자 준비, 정착 지원까지 학생들을 체계적으로 안내합니다."
+  },
+  "grid": [
+    {
+      "step": "1단계",
+      "iconName": "briefcase",
+      "title": "사전 상담",
+      "description": "학생의 핵심 정보를 수집합니다.",
+      "list": ["학업 경력", "희망 전공", "예산 및 예정 일정"],
+      "footerText": "이 단계는 현실적이고 일관성 있으며 전략적인 유학 계획을 수립하는 데 목적이 있습니다."
+    },
+    {
+      "step": "2단계",
+      "iconName": "listCheck",
+      "title": "대학 및 프로그램 선택",
+      "description": "REC’s Academy는 학생의 학업 프로필, 목표, 입학 자격 요건을 분석하여 가장 적합한 한국 대학과 프로그램을 추천합니다.",
+      "list": null,
+      "footerText": null
+    },
+    {
+      "step": "3단계",
+      "iconName": "document",
+      "title": "서류 준비",
+      "description": "학생들이 필요 서류를 준비하고 검토할 수 있도록 지원합니다. 주요 서류는 다음과 같습니다.",
+      "list": [
+        "자기소개서",
+        "학업계획서",
+        "성적증명서 및 학위증, 기타 증빙서류"
+      ],
+      "footerText": null
+    },
+    {
+      "step": "4단계",
+      "iconName": "edit",
+      "title": "지원서 제출",
+      "description": "입학 지원서는 공식 마감일을 준수하여 제출되며, REC’s Academy는 대학 선발 과정 전반에 걸쳐 학생들을 지원합니다.",
+      "list": null,
+      "footerText": null
+    },
+    {
+      "step": "5단계",
+      "iconName": "id",
+      "title": "합격 통지 및 비자 지원",
+      "description": "입학 후:",
+      "list": [
+        "학생은 공식 입학 허가서를 받습니다.",
+        "REC’s Academy는 필요한 서류와 비자 신청 절차에 대한 상세 안내를 제공합니다."
+      ],
+      "footerText": null
+    },
+    {
+      "step": "6단계",
+      "iconName": "home",
+      "title": "출국 및 정착",
+      "description": "학생들이 원활히 한국 생활에 적응할 수 있도록 실질적인 지원을 제공합니다.",
+      "list": [
+        "출국 준비 및 항공편 안내",
+        "숙소 정리 및 배정",
+        "입국 후 초기 정착 및 오리엔테이션"
+      ],
+      "footerText": null
+    }
+  ],
+
+  "footerText": "이 체계적인 과정을 통해 학생들은 한국에서의 대학 생활로<highlight>자신감 있게, 자연스럽게</highlight>전환할 수 있습니다."
+}

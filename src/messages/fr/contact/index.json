@@ -2,17 +2,17 @@
   "title": "Contact",
   "tabs": [
     {
-      "title": "Korea Headquarters",
+      "title": "Siège en Corée",
       "subTitle": null,
       "items": [
         {
           "render": "text",
-          "key": "Location",
-          "value": "Naju City, Republic of Korea"
+          "key": "Localisation",
+          "value": "Naju-si, République de Corée"
         },
         {
           "render": "text",
-          "key": "Address",
+          "key": "Adresse",
           "value": "REC’s Academy Smart Park – G Suite 201 & 207 13 Gyoyuk-gil, Naju-si, Jeollanam-do, Republic of Korea"
         },
         {
@@ -22,23 +22,23 @@
         },
         {
           "render": "list",
-          "key": "Phone",
+          "key": "Téléphone",
           "value": ["+82 70 4351 1625", "+82 70 8230 7533"]
         }
       ]
     },
     {
-      "title": "Uganda Office",
-      "subTitle": "Regional Office",
+      "title": "Bureau en Ouganda",
+      "subTitle": "Bureau régional",
       "items": [
         {
           "render": "text",
-          "key": "Country Director",
+          "key": "Directeur national",
           "value": "David Kiryapawo"
         },
         {
           "render": "text",
-          "key": "Address",
+          "key": "Adresse",
           "value": "Plot 4–5, Nyabong Road, Off Wampewo Avenue Suite 305A, BMK House Next to Hotel Avenue, Kampala, Uganda"
         },
         {
@@ -48,26 +48,26 @@
         },
         {
           "render": "list",
-          "key": "Phone",
+          "key": "Téléphone",
           "value": [
             "+256 760 105 934",
-            "+256 783 187 534(Available on WhatsApp)"
+            "+256 783 187 534(Disponible sur WhatsApp)"
           ]
         }
       ]
     },
     {
-      "title": "DR Congo Office",
-      "subTitle": "Regional Office",
+      "title": "Bureau en RDC",
+      "subTitle": "Bureau régional",
       "items": [
         {
           "render": "text",
-          "key": "Country Director",
+          "key": "Directeur national",
           "value": "Biaya Greg"
         },
         {
           "render": "text",
-          "key": "Address",
+          "key": "Adresse",
           "value": "16, Avenue Matobo Quartier Golf Lido Lubumbashi, DRC (Reference: École Ufundi)"
         },
         {
@@ -77,27 +77,27 @@
         },
         {
           "render": "list",
-          "key": "Phone",
+          "key": "Téléphone",
           "value": [
-            "<semibold>Kinshasa:</semibold> +243 900 265 268 / +243 828 296 043",
-            "<semibold>Lubumbashi:</semibold> +243 900 268 268(Available on WhatsApp)"
+            "<semibold>Kinshasa :</semibold> +243 900 265 268 / +243 828 296 043",
+            "<semibold>Lubumbashi :</semibold> +243 900 268 268(Disponible sur WhatsApp)"
           ]
         }
       ]
     },
     {
-      "title": "Ghana Office",
-      "subTitle": "Partner Office",
+      "title": "Bureau au Ghana",
+      "subTitle": "Bureau partenaire",
       "items": [
         {
           "render": "text",
-          "key": "Office Name",
+          "key": "Nom du bureau",
           "value": "MENS-K EXPRESS GLOBAL LTD"
         },
         {
           "render": "text",
-          "key": "Address",
-          "value": "Darkuman, Opposite Accra Station - Accra, Ghana"
+          "key": "Adresse",
+          "value": "Darkuman, Opposite Accra Station - Accra, Ghana"
         },
         {
           "render": "text",
@@ -106,46 +106,44 @@
         },
         {
           "render": "list",
-          "key": "Phone",
+          "key": "Téléphone",
           "value": [
-            "<semibold>Ghana:</semibold>  +233 30 230 9477 / +233 25 696 3100",
-            "<semibold>Dubai:</semibold>  +971 (0) 54 324 4267"
+            "<semibold>Ghana :</semibold>  +233 30 230 9477 / +233 25 696 3100",
+            "<semibold>Dubaï :</semibold>  +971 (0) 54 324 4267"
           ]
         },
         {
           "render": "text",
-          "key": "Website",
+          "key": "Site web",
           "value": "www.menskexpressgloballtd.com"
         }
       ]
     }
   ],
-
-  "comfirm": {
-    "title": "Online Inquiry",
-    "subTitle": "Do You Have Questions About Studying in Korea?",
-    "description": "If you have any questions about studying in Korea, feel free to contact <semibold>REC’s Academy.</semibold><br></br>You may ask about majors, university selection, costs, admission requirements, visas, or any other study-abroad-related concerns.<br></br>Our experienced study-abroad consultants will review your inquiry and respond <semibold>within 24 hours.</semibold>",
+  "confirm": {
+    "title": "Demande en ligne",
+    "subTitle": "Avez-vous des questions sur les études en Corée ?",
+    "description": "Si vous avez des questions concernant les études en Corée, n'hésitez pas à contacter <semibold>REC’s Academy.</semibold><br></br>Vous pouvez poser des questions sur les filières, le choix des universités, les frais, les conditions d’admission, les visas ou tout autre sujet lié aux études à l’étranger.<br></br>Nos conseillers spécialisés examineront votre demande et vous répondront <semibold>dans les 24 heures.</semibold>",
     "display": {
       "key": "Email",
       "value": "recsacademy@recss.co.kr"
     },
-
     "formFields": [
       {
         "type": "input",
         "id": "name",
-        "label": "Name",
+        "label": "Nom",
         "description": null,
         "required": true,
-        "placeholder": "Value"
+        "placeholder": "Valeur"
       },
       {
         "type": "input",
         "id": "nationality",
-        "label": "Nationality",
+        "label": "Nationalité",
         "description": null,
         "required": true,
-        "placeholder": "Value"
+        "placeholder": "Valeur"
       },
       {
         "type": "input",
@@ -153,41 +151,41 @@
         "label": "Email",
         "description": null,
         "required": true,
-        "placeholder": "Value"
+        "placeholder": "Valeur"
       },
       {
         "type": "input",
         "id": "contactable",
-        "label": "Contactable messenger ID or phone number",
+        "label": "ID de messagerie ou numéro de téléphone joignable",
         "description": "WhatsApp / KakaoTalk / Telegram, etc.",
         "required": true,
-        "placeholder": "Value"
+        "placeholder": "Valeur"
       },
       {
         "type": "radio-group",
         "id": "area",
-        "label": "Area of Interest",
-        "description": "Please select one or more",
+        "label": "Domaine d'intérêt",
+        "description": "Veuillez sélectionner une ou plusieurs options",
         "required": false,
         "options": [
           {
-            "label": "I would like to receive a university and major recommendation",
+            "label": "Je souhaite recevoir des recommandations d’universités et de spécialités",
             "value": "recommendation"
           },
           {
-            "label": "I would like to understand the admission requirements",
+            "label": "Je souhaite comprendre les conditions d’admission",
             "value": "admission"
           },
           {
-            "label": "Visa and living consultation",
+            "label": "Consultation sur le visa et la vie en Corée",
             "value": "visa"
           },
           {
-            "label": "Study pathway planning (Language → Degree/Direct Degree)",
+            "label": "Planification du parcours d’études (Langue → Diplôme / Diplôme direct)",
             "value": "pathway"
           },
           {
-            "label": "Other inquiries (please specify)",
+            "label": "Autres questions (veuillez préciser)",
             "value": "other"
           }
         ]
@@ -195,20 +193,19 @@
       {
         "type": "textarea",
         "id": "inquiry",
-        "label": "Inquiry Details",
-        "description": "Please describe your academic background, interests, or questions in detail.",
+        "label": "Détails de la demande",
+        "description": "Veuillez décrire en détail votre parcours académique, vos intérêts ou vos questions.",
         "required": true,
-        "placeholder": "Value"
+        "placeholder": "Valeur"
       },
       {
         "type": "checkbox",
         "id": "agree",
-        "label": "I agree to the collection and use of my personal information.",
+        "label": "J’accepte la collecte et l’utilisation de mes informations personnelles.",
         "required": true
       }
     ],
-
-    "buttonText": "Confirm",
-    "footerText": "REC’s Academy helps students determine the most appropriate visa pathway based on their goals."
+    "buttonText": "Envoyer",
+    "footerText": "REC’s Academy aide les étudiants à choisir la voie de visa la plus adaptée à leurs objectifs."
   }
 }

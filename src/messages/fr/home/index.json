@@ -1,102 +1,102 @@
 {
   "hero": {
-    "buttonText": "APPLY FOR A FREE CONSULTATION",
-    "mobileButtonText": "FREE CONSULTATION",
+    "buttonText": "CONSULTATION GRATUITE",
+    "mobileButtonText": "CONSULTATION GRATUITE",
     "items": [
       {
         "type": "video",
         "src": "/images/pages/home/hero1.mp4",
-        "title": "Studying in Korea,<br></br>Certainly Get ready",
-        "description": "We will work with you as a single partner, from recommending schools that match your nationality,<br></br> major, and requirements, to admission, visa, and settlement"
+        "title": "Étudier en Corée,<br></br>préparez-vous sereinement",
+        "description": "Nous travaillerons avec vous en tant que partenaire unique,<br></br>depuis la recommandation d'écoles correspondant à votre nationalité,<br></br>votre spécialisation et vos critères, jusqu'à l'admission, le visa et l'installation."
       },
       {
         "type": "image",
         "src": "/images/pages/home/hero2.png",
-        "title": "From Selection to Visa, Done",
-        "description": "From filling out applications, analyzing admission requirements,<br></br>and applying for visas, our experts will help you navigate the complex process."
+        "title": "De la sélection à l’obtention du visa,<br></br>tout est pris en charge",
+        "description": "De la préparation des dossiers et l’analyse des conditions d’admission<br></br>jusqu’à la demande de visa, nos experts vous accompagnent à chaque étape."
       },
       {
         "type": "image",
         "src": "/images/pages/home/hero3.png",
-        "title": "Find the study abroad plan<br></br>that's right for you",
-        "description": "We suggest the most realistic study abroad path based on your desired major,<br></br>admission requirements, and budget"
+        "title": "Trouvez le projet d’études<br></br>à l’étranger qui vous correspond",
+        "description": "Nous proposons le parcours d’études à l’étranger le plus réaliste<br></br>en fonction de votre spécialité souhaitée, des conditions d’admission et de votre budget."
       }
     ],
     "navItems": [
-      "Why<br></br>REC’s Academy?",
-      "One-Stop<br></br>Support",
-      "Personalized<br></br>Pathway"
+      "Pourquoi choisir<br></br>REC’s Academy?",
+      "Un accompagnement complet<br></br>(guichet unique)",
+      "Un parcours<br></br>personnalisé"
     ]
   },
 
   "ourDifference": {
-    "pageName": "Our Difference",
-    "title": "Why REC’s Academy?",
-    "description": "Studying abroad on Earth begins with a different approach, not the same information.<br></br>We design real possibilities tailored to each student's unique circumstances.",
+    "pageName": "Nos points forts",
+    "title": "Pourquoi REC’s Academy?",
+    "description": "Etudier à l’étranger commence par une approche différente, pas par les mêmes informations standardisées.<br></br>Nous concevons de réelles opportunités adaptées à la situation unique de chaque étudiant.",
     "items": [
       {
         "id": 1,
-        "title": "Condition-based personalized college recommendations",
-        "description": "We recommend universities and programs tailored to each student’s nationality, goals, and language level."
+        "title": "Recommandations universitaires personnalisées selon le profil",
+        "description": "Nous recommandons des universités et des programmes adaptés à la nationalité, aux objectifs et au niveau linguistique de chaque étudiant."
       },
       {
         "id": 2,
-        "title": "Support for the entire process from admission to settlement",
-        "description": "We support you from document preparation to visa application, housing, and initial settlement."
+        "title": "Accompagnement sur l’ensemble du processus, de l’admission à l’installation",
+        "description": "Nous accompagnons les étudiants depuis la préparation des documents jusqu’à la demande de visa, au logement et à l’installation initiale."
       },
       {
         "id": 3,
-        "title": "Real-time 1:1 response consulting",
-        "description": "From consultations to schedule management and issues that arise, A dedicated manager will respond in real time."
+        "title": "Conseil personnalisé avec réponse en temps réel (1:1)",
+        "description": "De la consultation à la gestion du planning et au suivi des démarches, un responsable dédié répond et intervient en temps réel."
       },
       {
         "id": 4,
-        "title": "Study abroad design based on individual conditions",
-        "description": "We offer personalized study abroad programs tailored to your needs, including budget, age, and nationality."
+        "title": "Conception de programmes d’études à l’étranger basée sur les besoins individuels",
+        "description": "Nous proposons des programmes personnalisés d’études à l’étranger, adaptés à vos besoins, incluant le budget, l’âge et la nationalité."
       }
     ]
   },
 
   "realPossibilities": {
-    "pageName": "Real Possibilities",
-    "bubbleText": "Satisfied",
-    "title": "Personalized",
-    "description": "With personalized support tailored to each individual,<br></br>studying in Korea becomes a realistic goal for everyone when preparation is done right.",
+    "pageName": "Possibilités réelles",
+    "bubbleText": "Satisfait(e)",
+    "title": "Personnalisé",
+    "description": "Grâce à un accompagnement personnalisé adapté à chaque individu,<br></br>étudier en Corée devient un objectif réaliste pour tous lorsque la préparation est bien faite.",
     "items": [
-      "Tailored",
-      "Realistic",
-      "Preparation",
-      "Guidance",
-      "Accessibility",
-      "Feasibility",
-      "Student-Centered",
-      "Pathway"
+      "Personnalisé",
+      "Réaliste",
+      "Préparation",
+      "Accompagnement",
+      "Accessibilité",
+      "Faisabilité",
+      "Orientation centrée sur l’étudiant",
+      "Parcours"
     ]
   },
 
   "ourPartnerColleges": {
-    "pageName": "Our Partner Colleges",
-    "title": "Which College is right for me?",
-    "description": "Carefully selected colleges that match your goals, budget, and future plans.",
+    "pageName": "Universités Partenaires",
+    "title": "Quelle université me convient?",
+    "description": "Des établissements soigneusement sélectionnés, en adéquation avec vos objectifs, votre budget et vos projets d’avenir.",
     "universities": [
       {
         "imageSrc": "/images/pages/home/kdu.png",
         "imageAlt": "kdu",
         "logoSrc": "/images/pages/home/kdu_logo.svg",
         "logoAlt": "kdu-logo",
-        "name": "Kukdong University",
+        "name": "Université Kukdong",
         "imageText": "Key Strengths...",
-        "nextUniversity": "Dongshin University",
+        "nextUniversity": "Université Dongshin",
         "items": [
-          { "key": "Category", "value": "Private" },
-          { "key": "Location", "value": "Eumseong-gun, Chungcheongbuk-do" },
+          { "key": "Catégorie", "value": "Université privée" },
+          { "key": "Localisation", "value": "Eumseong-gun, Chungcheongbuk-do" },
           {
-            "key": "Key Fields",
-            "value": "Smart Energy, Aviation, Engineering, Health Sciences, and Global Business."
+            "key": "Domaines clés",
+            "value": "Énergies intelligentes, aviation, ingénierie, sciences de la santé et commerce international."
           },
           {
-            "key": "Our Role",
-            "value": "Academic document review and direct recommendation for qualified candidates"
+            "key": "Notre rôle",
+            "value": "Examen des dossiers académiques et recommandation directe des candidats qualifiés."
           }
         ]
       },
@@ -105,19 +105,19 @@
         "imageAlt": "dsu",
         "logoSrc": "/images/pages/home/dsu_logo.svg",
         "logoAlt": "dsu-logo",
-        "name": "Dongshin University",
+        "name": "Université Dongshin",
         "imageText": "Key Strengths...",
-        "nextUniversity": "Kukdong University",
+        "nextUniversity": "Université Kukdong",
         "items": [
-          { "key": "Category", "value": "Private" },
-          { "key": "Location", "value": "Naju-si, Jeollanam-do" },
+          { "key": "Catégorie", "value": "Université privée" },
+          { "key": "Localisation", "value": "Naju-si, Jeollanam-do" },
           {
-            "key": "Key Fields",
-            "value": "Smart Energy, Aviation, Engineering, Health Sciences, and Global Business."
+            "key": "Domaines clés",
+            "value": "Énergies intelligentes, aviation, ingénierie, sciences de la santé et commerce international."
           },
           {
-            "key": "Our Role",
-            "value": "Academic document review and direct recommendation for qualified candidates"
+            "key": "Notre rôle",
+            "value": "Examen des dossiers académiques et recommandation directe des candidats qualifiés."
           }
         ]
       }
@@ -125,19 +125,19 @@
   },
 
   "getStarted": {
-    "pageName": "Get Started",
-    "title": "Connecting Global Talent<br></br>to Korean Universities",
-    "description": "Structured preparation. Confident futures.",
-    "buttonText": "Get a Free Consultation",
+    "pageName": "Commencez Maintenant",
+    "title": "Relier les talents du monde<br></br>entier aux universités coréennes",
+    "description": "Une préparation structurée. Des avenirs confiants.",
+    "buttonText": "CONSULTATION GRATUITE",
     "items": [
       {
         "icon": "file",
-        "title": "View Our Study Abroad Programs",
+        "title": "Voir nos programmes d’études à l’étranger",
         "link": "/program"
       },
       {
         "icon": "stack",
-        "title": "Guide to<br></br>Studying Abroad",
+        "title": "Guide<br></br>pour étudier à l’étranger",
         "link": "/guide"
       }
     ]

@@ -3,6 +3,7 @@ import { richKey } from '@/i18n/rich'
 import { useTranslations } from 'next-intl'
 
 type ProceduresGridItem = {
+  step: string
   iconName: IconName
   title: string
   description: string
@@ -27,7 +28,7 @@ export function ProceduresGrid() {
             />
 
             <div>
-              <p className="v1024:text-base text-xs font-bold">{`Step ${idx + 1}.`}</p>
+              <p className="v1024:text-base text-xs font-bold">{item.step}</p>
               <p className="v1024:text-3xl text-lg leading-[48px] font-bold">
                 {richKey(t, `grid.${idx}.title`)}
               </p>

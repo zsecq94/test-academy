@@ -1,0 +1,145 @@
+{
+  "hero": {
+    "buttonText": "무료 상담 신청",
+    "mobileButtonText": "무료 상담 신청",
+    "items": [
+      {
+        "type": "video",
+        "src": "/images/pages/home/hero1.mp4",
+        "title": "한국 유학,<br></br>차분하게 준비하세요",
+        "description": "REC’s Academy는 학생 여러분과 단일 파트너로서 함께합니다.<br></br>국적, 전공, 요구 조건에 맞는 학교 추천부터 입학, 비자, 정착까지 전 과정을 체계적으로 지원합니다."
+      },
+      {
+        "type": "image",
+        "src": "/images/pages/home/hero2.png",
+        "title": "학교 선택부터 비자까지,<br></br>한 번에 해결하세요",
+        "description": "지원서 작성, 입학 요건 분석,<br></br>비자 신청까지 복잡한 절차를 전문가가 함께 안내합니다."
+      },
+      {
+        "type": "image",
+        "src": "/images/pages/home/hero3.png",
+        "title": "나에게 맞는<br></br>유학 계획을 찾아보세요",
+        "description": "희망 전공, 입학 요건, 예산을 고려해<br></br>가장 현실적인 유학 경로를 제안합니다."
+      }
+    ],
+    "navItems": [
+      "왜 REC’s Academy를<br></br>선택해야 할까요?",
+      "원스톱<br></br>맞춤 지원",
+      "개인 맞춤형<br></br>학업 경로"
+    ]
+  },
+
+  "ourDifference": {
+    "pageName": "우리의 강점",
+    "title": "왜 REC’s Academy인가요?",
+    "description": "해외 유학은 표준화된 정보가 아닌, 학생 개개인의 상황에 맞춘 차별화된 접근에서 시작됩니다.<br></br>REC’s Academy는 학생마다 맞춤화된 현실적인 기회를 설계합니다.",
+    "items": [
+      {
+        "id": 1,
+        "title": "학생 맞춤 대학 추천",
+        "description": "학생의 국적, 목표, 언어 수준에 맞는 대학과 프로그램을 추천합니다."
+      },
+      {
+        "id": 2,
+        "title": "입학부터 정착까지 전 과정 지원",
+        "description": "서류 준비, 비자 신청, 기숙사, 초기 정착까지 전 과정을 체계적으로 지원합니다."
+      },
+      {
+        "id": 3,
+        "title": "실시간 1:1 맞춤 상담",
+        "description": "상담, 일정 관리, 진행 상황 추적 등 담당 매니저가 실시간으로 대응합니다."
+      },
+      {
+        "id": 4,
+        "title": "개인 맞춤형 해외 유학 프로그램 설계",
+        "description": "예산, 연령, 국적 등 학생 개별 상황에 맞춘 맞춤형 유학 프로그램을 제공합니다."
+      }
+    ]
+  },
+
+  "realPossibilities": {
+    "pageName": "현실적인 가능성",
+    "bubbleText": "만족",
+    "title": "맞춤형",
+    "description": "개인별 맞춤 지원 덕분에,<br></br>철저하게 준비하면 한국 유학은 모두에게 현실적인 목표가 됩니다.",
+    "items": [
+      "맞춤형",
+      "현실적",
+      "준비",
+      "지원",
+      "접근성",
+      "실행 가능성",
+      "학생 중심 안내",
+      "학업 경로"
+    ]
+  },
+
+  "ourPartnerColleges": {
+    "pageName": "파트너 대학",
+    "title": "어떤 대학이 나에게 맞을까?",
+    "description": "학생의 목표, 예산, 미래 계획에 맞춰 신중하게 선별된 대학들입니다.",
+    "universities": [
+      {
+        "imageSrc": "/images/pages/home/kdu.png",
+        "imageAlt": "kdu",
+        "logoSrc": "/images/pages/home/kdu_logo.svg",
+        "logoAlt": "kdu-logo",
+        "name": "극동대학교",
+        "imageText": "Key Strengths...",
+        "nextUniversity": "동신대학교",
+        "items": [
+          { "key": "구분", "value": "사립대학교" },
+          { "key": "위치", "value": "충청북도 음성군" },
+          {
+            "key": "주요 전공 분야",
+            "value": "스마트 에너지, 항공, 공학, 보건과학, 국제경영"
+          },
+          {
+            "key": "역할",
+            "value": "학업 서류 검토 및 자격 있는 지원자 직접 추천"
+          }
+        ]
+      },
+      {
+        "imageSrc": "/images/pages/home/dsu.png",
+        "imageAlt": "dsu",
+        "logoSrc": "/images/pages/home/dsu_logo.svg",
+        "logoAlt": "dsu-logo",
+        "name": "동신대학교",
+        "imageText": "Key Strengths...",
+        "nextUniversity": "극동대학교",
+        "items": [
+          { "key": "구분", "value": "사립대학교" },
+          { "key": "위치", "value": "전라남도 나주시" },
+          {
+            "key": "주요 전공 분야",
+            "value": "스마트 에너지, 항공, 공학, 보건과학, 국제경영"
+          },
+          {
+            "key": "역할",
+            "value": "학업 서류 검토 및 자격 있는 지원자 직접 추천"
+          }
+        ]
+      }
+    ]
+  },
+
+  "getStarted": {
+    "pageName": "시작하기",
+    "title": "전 세계 인재를<br></br>한국 대학과 연결",
+    "description": "체계적인 준비. 자신 있는 미래.",
+    "buttonText": "무료 상담 신청",
+    "items": [
+      {
+        "icon": "file",
+        "title": "해외 유학 프로그램 보기",
+        "link": "/program"
+      },
+      {
+        "icon": "stack",
+        "title": "해외 유학 가이드",
+        "link": "/guide"
+      }
+    ]
+  }
+}

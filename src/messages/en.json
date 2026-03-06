@@ -7,8 +7,8 @@
       "description": "REC’s Academy partners with universities across Korea,<br></br>offering international students a wide range of academic options. Compare locations,<br></br>majors, and admission requirements to find the university that best matches your goals and eligibility."
     },
     "swiper": {
-      "title": "Expanding Global<br></br>University Network",
-      "description": "Official partnerships<br></br>with universities you can trust",
+      "title": "Expanding Global University Network",
+      "description": "Official partnerships with universities you can trust",
       "items": [
         {
           "title": "Kukdong University",
@@ -125,7 +125,7 @@
   },
   "common": {
     "locales": {
-      "kr": "KR",
+      "ko": "KR",
       "en": "EN",
       "fr": "FR",
       "ru": "RU"
@@ -157,7 +157,7 @@
       }
     ],
     "menuOverlayText": {
-      "address": "REC’s Academy Smart Park<br></br>G Suite 201 & 207 13 Gyoyuk-gil,<br></br>Naju-si, Jeollanam-do, Republic of Korea",
+      "address": "REC’s Academy<br></br>Smart Park G Suite 201 & 207 13 Gyoyuk-gil,<br></br>Naju-si, Jeollanam-do, Republic of Korea",
       "email": "recsacademy@recss.co.kr",
       "phone": "+82 70 8230 7533 / +82 70 4351 1625<br></br>(Available on WhatsApp)",
       "title": "REC’s Academy"
@@ -317,7 +317,7 @@
         ]
       }
     ],
-    "comfirm": {
+    "confirm": {
       "title": "Online Inquiry",
       "subTitle": "Do You Have Questions About Studying in Korea?",
       "description": "If you have any questions about studying in Korea, feel free to contact <semibold>REC’s Academy.</semibold><br></br>You may ask about majors, university selection, costs, admission requirements, visas, or any other study-abroad-related concerns.<br></br>Our experienced study-abroad consultants will review your inquiry and respond <semibold>within 24 hours.</semibold>",
@@ -883,7 +883,7 @@
     "description": "To ensure that your journey in a foreign land is not lonely, Earth Study Abroad will accompany you on your study abroad journey",
     "section1": {
       "title": "Your Structured<br></br>Pathway to Korea",
-      "description1": "<introbold>REC’s Academy</introbold> was founded to be more than a study-abroad center.<br></br>We exist to serve as a trusted bridge for students from Africa and Central Asia who aspire to study<br></br>at Korean universities.<br></br>Studying in Korea is not simply an academic choice—it is the beginning of a new life in<br></br>an unfamiliar language, culture, and education system.<br></br>On this journey, the quality of guidance and support truly matters<br></br>REC’s Academy provides structured, end-to-end support, from university selection and document preparation to visa guidance and arrival orientation.",
+      "description1": "<introbold>REC’s Academy</introbold> was founded to be more than a study-abroad center.<br></br>We exist to serve as a trusted bridge for students from Africa and Central Asia who aspire to study at Korean universities.<br></br>Studying in Korea is not simply an academic choice—it is the beginning of a new life in<br></br>an unfamiliar language, culture, and education system.<br></br>On this journey, the quality of guidance and support truly matters<br></br>REC’s Academy provides structured, end-to-end support, from university selection and document preparation to visa guidance and arrival orientation.",
       "description2": "Our focus is on practical preparation, compliance, and long-term student stability, not quick placements or empty promises.<br></br>While we continue to expand partnerships with Korean universities, our greatest measure of success<br></br>remains unchanged: seeing our students adapt successfully, progress academically, and build a<br></br>sustainable future in Korea.",
       "description3": "We remain committed to supporting every student’s journey with responsibility, sincerity, and real outcomes"
     },
@@ -1268,6 +1268,7 @@
     },
     "grid": [
       {
+        "step": "Step 1.",
         "iconName": "briefcase",
         "title": "Pre-Consultation",
         "description": "We collect essential information such as:",
@@ -1279,6 +1280,7 @@
         "footerText": "This stage helps define a realistic and strategic study-abroad direction."
       },
       {
+        "step": "Step 2.",
         "iconName": "listCheck",
         "title": "University & Program Selection",
         "description": "REC’s Academy compares and recommends suitable<br></br>Korean universities and majors based on each student’s<br></br>academic profile, goals, and eligibility.",
@@ -1286,6 +1288,7 @@
         "footerText": null
       },
       {
+        "step": "Step 3.",
         "iconName": "document",
         "title": "Document Preparation",
         "description": "We support the preparation and review of required application documents, including:",
@@ -1297,6 +1300,7 @@
         "footerText": null
       },
       {
+        "step": "Step 4.",
         "iconName": "edit",
         "title": "University Application",
         "description": "Applications and documents are submitted within official deadlines, and we assist students throughout the university selection process.",
@@ -1304,6 +1308,7 @@
         "footerText": null
       },
       {
+        "step": "Step 5.",
         "iconName": "id",
         "title": "Admission Result &<br></br>Visa Guidance",
         "description": "Once admission is granted:",
@@ -1314,6 +1319,7 @@
         "footerText": null
       },
       {
+        "step": "Step 6.",
         "iconName": "home",
         "title": "Departure &<br></br>Settlement Support",
         "description": "We provide practical guidance for:",

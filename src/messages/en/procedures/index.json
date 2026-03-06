@@ -7,6 +7,7 @@
   },
   "grid": [
     {
+      "step": "Step 1.",
       "iconName": "briefcase",
       "title": "Pre-Consultation",
       "description": "We collect essential information such as:",
@@ -18,6 +19,7 @@
       "footerText": "This stage helps define a realistic and strategic study-abroad direction."
     },
     {
+      "step": "Step 2.",
       "iconName": "listCheck",
       "title": "University & Program Selection",
       "description": "REC’s Academy compares and recommends suitable<br></br>Korean universities and majors based on each student’s<br></br>academic profile, goals, and eligibility.",
@@ -25,6 +27,7 @@
       "footerText": null
     },
     {
+      "step": "Step 3.",
       "iconName": "document",
       "title": "Document Preparation",
       "description": "We support the preparation and review of required application documents, including:",
@@ -36,6 +39,7 @@
       "footerText": null
     },
     {
+      "step": "Step 4.",
       "iconName": "edit",
       "title": "University Application",
       "description": "Applications and documents are submitted within official deadlines, and we assist students throughout the university selection process.",
@@ -43,6 +47,7 @@
       "footerText": null
     },
     {
+      "step": "Step 5.",
       "iconName": "id",
       "title": "Admission Result &<br></br>Visa Guidance",
       "description": "Once admission is granted:",
@@ -53,6 +58,7 @@
       "footerText": null
     },
     {
+      "step": "Step 6.",
       "iconName": "home",
       "title": "Departure &<br></br>Settlement Support",
       "description": "We provide practical guidance for:",

@@ -1,6 +1,6 @@
 {
   "locales": {
-    "kr": "KR",
+    "ko": "KR",
     "en": "EN",
     "fr": "FR",
     "ru": "RU"
@@ -8,53 +8,53 @@
 
   "routes": [
     {
-      "name": "Introduction",
+      "name": "Введение",
       "path": "/introduction"
     },
     {
-      "name": "Program",
+      "name": "Программа",
       "path": "/program"
     },
     {
-      "name": "About the Universities",
+      "name": "Об университетах",
       "path": "/about-the-universities"
     },
     {
-      "name": "Procedures",
+      "name": "Процедуры",
       "path": "/procedures"
     },
     {
-      "name": "Guide",
+      "name": "Руководство",
       "path": "/guide"
     },
     {
-      "name": "Contact",
+      "name": "Контакты",
       "path": "/contact"
     }
   ],
 
   "menuOverlayText": {
-    "address": "REC’s Academy Smart Park<br></br>G Suite 201 & 207 13 Gyoyuk-gil,<br></br>Naju-si, Jeollanam-do, Republic of Korea",
+    "address": "REC’s Academy<br></br>Smart Park офис G, кабинеты 201 и 207,<br></br>13 Gyoyuk-gil, Naju-si, Jeollanam-do, Республика Корея",
     "email": "recsacademy@recss.co.kr",
-    "phone": "+82 70 8230 7533 / +82 70 4351 1625<br></br>(Available on WhatsApp)",
+    "phone": "+82 70 8230 7533 / +82 70 4351 1625<br></br>(доступно в WhatsApp)",
     "title": "REC’s Academy"
   },
 
   "footerSection1": {
-    "title": "Welcome to <medium>REC’s Academy</medium>",
-    "topButton": "BACK TO TOP",
+    "title": "Добро пожаловать в <medium>REC’s Academy</medium>",
+    "topButton": "Наверх",
     "mobileTopButton": "TOP"
   },
 
   "footerSection2": {
-    "siteMapText": "Site Map",
+    "siteMapText": "Карта сайта",
     "links": [
       {
-        "name": "Privacy Policy",
+        "name": "Политика конфиденциальности",
         "path": "/privacy-policy"
       },
       {
-        "name": "Terms of Use",
+        "name": "Условия использования",
         "path": "/terms-of-use"
       }
     ],
@@ -62,6 +62,6 @@
       "title": "REC’s Academy Email",
       "email": "recsacademy@recss.co.kr"
     },
-    "copyright": "© 2026 REC’s Academy. All rights Reserved."
+    "copyright": "© 2025 REC’s Academy. Все права защищены."
   }
 }

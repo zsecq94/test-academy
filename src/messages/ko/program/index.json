@@ -1,0 +1,132 @@
+{
+  "title": "프로그램",
+  "description": "REC’s Academy 프로그램은 한국에서 유학을 희망하는 국제 학생들을 위해 체계적인 어학 준비 과정, 대학 학위 과정 입학 지원, 단기 유학 프로그램,<br></br>그리고 개인 맞춤형 해외 유학 경로를 제공합니다.",
+  "sections": [
+    {
+      "bgColor": "accent",
+      "title": "어학 연수 과정",
+      "description": "(파트너 기관을 통해 운영)",
+      "banner": {
+        "src": "/images/pages/program/thumb1.png",
+        "alt": "Language Training",
+        "title": "집중 한국어 교육 프로그램",
+        "list": [
+          "REC’s Academy는 한국의 <bold>국·사립 대학과</bold> 연계된 어학 기관들과 협력하여 한국어 교육 과정을 운영합니다.",
+          "학생들은 공인되고 체계적인 프로그램을 통해 <bold>말하기, 듣기, 읽기, 쓰기</bold> 등 기본적인 언어 능력을 종합적으로 향상시킬 수 있습니다."
+        ],
+        "buttonText": "어학 과정 상담 신청하기"
+      },
+
+      "items": [
+        {
+          "itemType": "key",
+          "icon": "star",
+          "title": "주요 특징",
+          "list": [
+            { "key": "기간", "value": "10주 ~ 1년" },
+            {
+              "key": "개강 시기",
+              "value": "연 4회 (3월, 6월, 9월, 12월)"
+            },
+            {
+              "key": "학습 시간",
+              "value": "주 20시간 이상 (정규 수업)"
+            },
+            { "key": "수료 결과", "value": "수료증 발급" },
+            {
+              "key": "진학 연계",
+              "value": "일부 대학의 경우 조건부 입학 가능"
+            },
+            {
+              "key": "주거 지원",
+              "value": "기숙사 또는 승인된 외부 숙소 안내"
+            }
+          ]
+        },
+        {
+          "itemType": "list",
+          "icon": "recommend",
+          "title": "추천 대상",
+          "list": [
+            "한국 대학 진학을 준비하는 예비 국제 학생",
+            "한국어 능력 향상을 원하는 학습자",
+            "TOPIK 시험을 준비하는 학생"
+          ]
+        }
+      ]
+    },
+    {
+      "bgColor": "primary",
+      "title": "학위 과정 프로그램",
+      "description": "학사 / 석사",
+      "banner": {
+        "src": "/images/pages/program/thumb2.png",
+        "alt": "Degree Programs",
+        "title": "한국 대학 학위 과정 입학 지원",
+        "list": [
+          "REC’s Academy는 <bold>한국 대학의 학사 및 석사 과정에 지원하는</bold> 국제 학생들을 위해 전문적인 상담과 서류 준비 지원을 제공합니다.",
+          "학생들이 학업적, 언어적, 제도적 입학 요건을 충족할 수 있도록 단계별 맞춤 지원을 제공합니다."
+        ],
+        "buttonText": "학위 과정 상담 신청하기"
+      },
+      "items": [
+        {
+          "itemType": "list",
+          "icon": "star",
+          "title": "주요 특징",
+          "list": [
+            "한국 대학 입학 안내 (학부 및 대학원 과정)",
+            "<bold>전공 변경 또는 한국 내 장기적인 커리어 개발을 계획하는</bold> 지원자 지원"
+          ]
+        },
+        {
+          "itemType": "list",
+          "icon": "listCheck",
+          "title": "지원 내용",
+          "list": [
+            "전공 선택 상담 및 대학 매칭",
+            "입학 요건 분석 (TOPIK, 영어 능력, GPA 등)",
+            "자기소개서 및 학업계획서 작성·첨삭",
+            "지원서 제출 일정 조율 및 선발 절차 준비"
+          ]
+        }
+      ]
+    },
+    {
+      "bgColor": "secondary",
+      "title": "단기 해외 유학 프로그램",
+      "description": null,
+      "banner": {
+        "src": "/images/pages/program/thumb3.png",
+        "alt": "Short-term study abroad",
+        "title": "짧은 기간 동안 한국을 경험할 수 있는 집중 프로그램",
+        "list": [
+          "본 프로그램은 3주에서 8주 동안 한국어, 한국 문화, 그리고 대학 생활을 직접 체험할 수 있도록 설계된 단기 연수 과정입니다."
+        ],
+        "buttonText": "단기 해외 유학 프로그램 상담 신청하기"
+      },
+      "items": [
+        {
+          "itemType": "list",
+          "icon": "star",
+          "title": "주요 특징",
+          "list": [
+            "방학 기간을 활용해 한국을 체험하고자 하는 외국인 학생",
+            "정식 입학 전에 한국의 대학 환경을 미리 경험해 보고 싶은 예비 국제 학생"
+          ]
+        },
+        {
+          "itemType": "list",
+          "icon": "recommend",
+          "title": "추천 대상",
+          "list": [
+            "프로그램 기간: 3~8주",
+            "한국어 수업 + 문화 체험 활동 (한복 체험, 전통 요리, 기업 견학 등)",
+            "대학 캠퍼스 내 또는 인근 숙소 제공",
+            "수료증 및 참가 증명서 발급"
+          ]
+        }
+      ]
+    }
+  ]
+}

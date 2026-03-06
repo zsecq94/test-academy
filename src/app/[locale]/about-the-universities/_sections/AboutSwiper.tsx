@@ -61,7 +61,7 @@ export function AboutSwiper() {
       ])}
     >
       <div className="v1680:shrink-0 v1280:gap-22 z-50 flex flex-col gap-9">
-        <div className="flex flex-col gap-6">
+        <div className="v1280:w-36 flex w-full flex-col gap-6">
           <Image
             src="/images/brand/logo_small.png"
             alt="logo-small"

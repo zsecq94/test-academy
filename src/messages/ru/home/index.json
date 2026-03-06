@@ -1,83 +1,83 @@
 {
   "hero": {
-    "buttonText": "APPLY FOR A FREE CONSULTATION",
-    "mobileButtonText": "FREE CONSULTATION",
+    "buttonText": "Запросить бесплатную консультацию",
+    "mobileButtonText": "Бесплатная консультация",
     "items": [
       {
         "type": "video",
         "src": "/images/pages/home/hero1.mp4",
-        "title": "Studying in Korea,<br></br>Certainly Get ready",
-        "description": "We will work with you as a single partner, from recommending schools that match your nationality,<br></br> major, and requirements, to admission, visa, and settlement"
+        "title": "Учёба в Коре —<br></br>готовьтесь спокойно",
+        "description": "Мы будем вашим единственным партнёром на каждом этапе: от рекомендаций учебных заведений,<br></br>соответствующих вашей национальности, специализации и критериям,<br></br>до поступления, оформления визы и обустройства в Корее"
       },
       {
         "type": "image",
         "src": "/images/pages/home/hero2.png",
-        "title": "From Selection to Visa, Done",
-        "description": "From filling out applications, analyzing admission requirements,<br></br>and applying for visas, our experts will help you navigate the complex process."
+        "title": "От выбора вуза до визы —<br></br>всё под контролем",
+        "description": "От заполнения заявок и анализа требований к поступлению<br></br>до подачи на визу — наши специалисты помогут пройти весь процесс."
       },
       {
         "type": "image",
         "src": "/images/pages/home/hero3.png",
-        "title": "Find the study abroad plan<br></br>that's right for you",
-        "description": "We suggest the most realistic study abroad path based on your desired major,<br></br>admission requirements, and budget"
+        "title": "Найдите план<br></br>обучения за рубежом,<br></br>который подходит вам",
+        "description": "Мы предлагаем наиболее реалистичный путь обучения за рубежом<br></br>с учётом выбранной специальности, требований к поступлению и бюджета."
       }
     ],
     "navItems": [
-      "Why<br></br>REC’s Academy?",
-      "One-Stop<br></br>Support",
-      "Personalized<br></br>Pathway"
+      "Почему стоит выбрать<br></br>REC’s Academy?",
+      "Полная поддержка<br></br>(единое окно обслуживания)",
+      "Индивидуальный<br></br>образовательный маршрут"
     ]
   },
 
   "ourDifference": {
-    "pageName": "Our Difference",
-    "title": "Why REC’s Academy?",
-    "description": "Studying abroad on Earth begins with a different approach, not the same information.<br></br>We design real possibilities tailored to each student's unique circumstances.",
+    "pageName": "Наши преимущества",
+    "title": "Почему REC’s Academy?",
+    "description": "Учёба за границей начинается с индивидуального подхода, а не с одинаковой стандартной информации.<br></br>Мы создаём реальные возможности, адаптированные к уникальной ситуации каждого студента.",
     "items": [
       {
         "id": 1,
-        "title": "Condition-based personalized college recommendations",
-        "description": "We recommend universities and programs tailored to each student’s nationality, goals, and language level."
+        "title": "Индивидуальные рекомендации по университетам и программам",
+        "description": "Мы рекомендуем университеты и программы, учитывая национальность, цели и языковой уровень каждого студента."
       },
       {
         "id": 2,
-        "title": "Support for the entire process from admission to settlement",
-        "description": "We support you from document preparation to visa application, housing, and initial settlement."
+        "title": "Сопровождение на всех этапах — от поступления до обустройства",
+        "description": "Мы сопровождаем студентов от подготовки документов до подачи заявки на визу, организации жилья и первоначального обустройства."
       },
       {
         "id": 3,
-        "title": "Real-time 1:1 response consulting",
-        "description": "From consultations to schedule management and issues that arise, A dedicated manager will respond in real time."
+        "title": "Персональные консультации с ответами в реальном времени (1:1)",
+        "description": "От консультаций до планирования и сопровождения всех процедур — выделенный менеджер отвечает и помогает в реальном времени."
       },
       {
         "id": 4,
-        "title": "Study abroad design based on individual conditions",
-        "description": "We offer personalized study abroad programs tailored to your needs, including budget, age, and nationality."
+        "title": "Разработка программ обучения за границей с учётом индивидуальных потребностей",
+        "description": "Мы предлагаем персонализированные программы обучения за границей, адаптированные под ваши потребности, включая бюджет, возраст и национальность."
       }
     ]
   },
 
   "realPossibilities": {
-    "pageName": "Real Possibilities",
+    "pageName": "Реальные возможности",
     "bubbleText": "Satisfied",
-    "title": "Personalized",
-    "description": "With personalized support tailored to each individual,<br></br>studying in Korea becomes a realistic goal for everyone when preparation is done right.",
+    "title": "Индивидуальный подход",
+    "description": "Благодаря персонализированному сопровождению, адаптированному к каждому студенту,<br></br>обучение в Корее становится реальной целью для всех при правильной подготовке.",
     "items": [
-      "Tailored",
-      "Realistic",
-      "Preparation",
-      "Guidance",
-      "Accessibility",
-      "Feasibility",
-      "Student-Centered",
-      "Pathway"
+      "Индивидуальный подход",
+      "Реалистичность",
+      "Подготовка",
+      "Сопровождение",
+      "Доступность",
+      "Осуществимость",
+      "Ориентация на студента",
+      "Образовательный маршрут"
     ]
   },
 
   "ourPartnerColleges": {
-    "pageName": "Our Partner Colleges",
-    "title": "Which College is right for me?",
-    "description": "Carefully selected colleges that match your goals, budget, and future plans.",
+    "pageName": "Партнёрские университеты",
+    "title": "Какой университет подходит именно мне?",
+    "description": "Учреждения тщательно отобраны в соответствии с вашими целями, бюджетом и планами на будущее.",
     "universities": [
       {
         "imageSrc": "/images/pages/home/kdu.png",
@@ -88,15 +88,18 @@
         "imageText": "Key Strengths...",
         "nextUniversity": "Dongshin University",
         "items": [
-          { "key": "Category", "value": "Private" },
-          { "key": "Location", "value": "Eumseong-gun, Chungcheongbuk-do" },
+          { "key": "Категория", "value": "частный университет" },
           {
-            "key": "Key Fields",
-            "value": "Smart Energy, Aviation, Engineering, Health Sciences, and Global Business."
+            "key": "Расположение",
+            "value": "уезд Ымсонг, провинция Чхунчхонбук-до"
           },
           {
-            "key": "Our Role",
-            "value": "Academic document review and direct recommendation for qualified candidates"
+            "key": "Ключевые направления",
+            "value": "интеллектуальная энергетика, авиация, инженерия, науки о здоровье, международный бизнес"
+          },
+          {
+            "key": "Наша роль",
+            "value": "проверка академических документов и прямые рекомендации квалифицированных кандидатов"
           }
         ]
       },
@@ -109,15 +112,18 @@
         "imageText": "Key Strengths...",
         "nextUniversity": "Kukdong University",
         "items": [
-          { "key": "Category", "value": "Private" },
-          { "key": "Location", "value": "Naju-si, Jeollanam-do" },
+          { "key": "Категория", "value": "частный университет" },
           {
-            "key": "Key Fields",
-            "value": "Smart Energy, Aviation, Engineering, Health Sciences, and Global Business."
+            "key": "Расположение",
+            "value": "Название города, Название провинции"
           },
           {
-            "key": "Our Role",
-            "value": "Academic document review and direct recommendation for qualified candidates"
+            "key": "Ключевые направления",
+            "value": "интеллектуальная энергетика, авиация, инженерия, науки о здоровье, международный бизнес"
+          },
+          {
+            "key": "Наша роль",
+            "value": "проверка академических документов и прямые рекомендации квалифицированных кандидатов"
           }
         ]
       }
@@ -125,19 +131,19 @@
   },
 
   "getStarted": {
-    "pageName": "Get Started",
-    "title": "Connecting Global Talent<br></br>to Korean Universities",
-    "description": "Structured preparation. Confident futures.",
-    "buttonText": "Get a Free Consultation",
+    "pageName": "Начните прямо сейчас",
+    "title": "Соединяем таланты со всего<br></br>мира с корейскими университетами",
+    "description": "Структурированная подготовка. Уверенное будущее.",
+    "buttonText": "Бесплатная консультация",
     "items": [
       {
         "icon": "file",
-        "title": "View Our Study Abroad Programs",
+        "title": "Посмотреть наши программы обучения за границей",
         "link": "/program"
       },
       {
         "icon": "stack",
-        "title": "Guide to<br></br>Studying Abroad",
+        "title": "Руководство по обучению за границей",
         "link": "/guide"
       }
     ]

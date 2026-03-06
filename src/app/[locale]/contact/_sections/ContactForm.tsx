@@ -7,21 +7,21 @@ import clsx from 'clsx'
 
 export function ContactForm() {
   const t = useTranslations('contact')
-  const confirmForm = t.raw('comfirm') as ConfirmForm
+  const confirmForm = t.raw('confirm') as ConfirmForm
 
   return (
     <Container>
       <div className="v1680:px-27 v1024:gap-15 flex flex-col gap-9">
         <h2 className="v1024:text-6xl text-3xl font-bold">
-          {t('comfirm.title')}
+          {t('confirm.title')}
         </h2>
 
         <div className="flex flex-col gap-5">
           <p className="text-secondary v1024:text-xl text-base font-bold">
-            {t('comfirm.subTitle')}
+            {t('confirm.subTitle')}
           </p>
           <p className="v1024:text-xl text-sm">
-            {richKey(t, 'comfirm.description')}
+            {richKey(t, 'confirm.description')}
           </p>
         </div>
 
@@ -38,10 +38,10 @@ export function ContactForm() {
 
           <div className="v768:items-start flex flex-col items-center gap-5">
             <p className="v1024:text-lg text-base font-bold">
-              {t('comfirm.display.key')}
+              {t('confirm.display.key')}
             </p>
             <p className="v1280:text-3xl v1024:text-2xl text-xl">
-              {t('comfirm.display.value')}
+              {t('confirm.display.value')}
             </p>
           </div>
         </div>
@@ -54,7 +54,7 @@ export function ContactForm() {
         </div>
 
         <p className="v768:text-xl text-center text-base">
-          {t('comfirm.footerText')}
+          {t('confirm.footerText')}
         </p>
       </div>
     </Container>
